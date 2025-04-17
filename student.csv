@@ -1,0 +1,5051 @@
+StudentID,Name,Major,GPA,EnrollmentDate
+100000,Budi,Law,,2021-07-01
+100001,Dina,Engineering,3.91,2021-08-30
+100002,Dina,Computer Science,3.36,2018-02-20
+100003,Cici,Law,2.15,2019-07-01
+100004,Budi,Law,2.69,2022-02-28
+100005,Budi,Business,3.46,2019-11-23
+100006,Budi,Business,2.42,2022-06-17
+100007,Dina,Computer Science,2.74,2018-12-08
+100008,Budi,Business,3.66,2021-08-27
+100009,Dina,Computer Science,2.81,2019-11-20
+100010,Dina,Business,2.3,2021-04-06
+100011,Ari,Law,2.83,2022-04-14
+100012,Budi,Law,3.39,2019-07-13
+100013,Budi,Engineering,2.38,2021-12-02
+100014,Eka,Engineering,3.8,2021-03-14
+100015,Budi,Computer Science,3.69,2022-10-02
+100016,Eka,Computer Science,3.35,2022-11-26
+100017,Eka,Engineering,2.31,2022-08-06
+100018,Cici,Computer Science,3.88,2022-07-25
+100019,Dina,Engineering,3.18,2020-10-15
+100020,Eka,Engineering,3.06,2018-05-07
+100021,Budi,Law,2.62,2018-05-14
+100022,Eka,Law,3.47,2022-04-29
+100023,Ari,Engineering,3.68,2021-05-03
+100024,Cici,Engineering,2.79,2022-08-25
+100025,Budi,Engineering,3.5,2021-12-31
+100026,Cici,Business,2.07,2021-12-16
+100027,Cici,Engineering,2.08,2018-02-10
+100028,Budi,Computer Science,3.85,2018-12-09
+100029,Cici,Engineering,2.5,2018-04-24
+100030,Budi,Computer Science,2.88,2021-11-04
+100031,Budi,Business,3.11,2020-06-30
+100032,Budi,Law,2.77,2018-03-28
+100033,Dina,Business,3.55,2022-06-02
+100034,Eka,Computer Science,3.76,2019-10-29
+100035,Dina,Law,3.31,2020-11-13
+100036,Cici,Computer Science,2.13,2019-07-02
+100037,Dina,Computer Science,3.38,2019-02-01
+100038,Eka,Engineering,3.79,2020-01-03
+100039,Ari,Computer Science,2.2,2018-04-08
+100040,Eka,Business,3.39,2019-11-29
+100041,Eka,Law,3.93,2019-01-24
+100042,Dina,Computer Science,2.23,2019-07-06
+100043,Budi,Computer Science,3.55,2020-11-13
+100044,Eka,Computer Science,3.03,2022-01-18
+100045,Ari,Engineering,2.1,2021-04-16
+100046,Eka,Computer Science,3.42,2018-01-28
+100047,Budi,Business,2.19,2020-09-06
+100048,Cici,Computer Science,2.54,2020-07-17
+100049,Ari,Business,3.83,2021-11-24
+100050,Cici,Computer Science,2.48,2021-12-19
+100051,Ari,Computer Science,3.86,2020-01-30
+100052,Eka,Computer Science,3.36,2021-05-04
+100053,Eka,Computer Science,3.4,2022-01-15
+100054,Eka,Business,3.55,2020-03-15
+100055,Cici,Business,3.81,2020-04-11
+100056,Ari,Computer Science,3.92,2020-10-03
+100057,Ari,Computer Science,2.39,2019-02-13
+100058,Dina,Law,3.78,2022-03-07
+100059,Ari,Engineering,2.56,2020-10-21
+100060,Budi,Business,2.5,2018-03-25
+100061,Dina,Law,2.79,2021-08-05
+100062,Dina,Business,2.62,2022-08-11
+100063,Dina,Business,2.54,2019-07-08
+100064,Eka,Computer Science,2.2,2018-01-13
+100065,Ari,Computer Science,3.08,2022-04-30
+100066,Budi,Engineering,3.06,2021-07-22
+100067,Eka,Business,3.64,2021-03-21
+100068,Dina,Business,2.44,2020-07-01
+100069,Eka,Computer Science,3.45,2019-06-11
+100070,Cici,Business,3.9,2022-02-09
+100071,Ari,Engineering,2.48,2022-07-03
+100072,Cici,Law,3.89,2020-05-05
+100073,Ari,Computer Science,3.96,2021-10-23
+100074,Cici,Engineering,2.11,2019-11-25
+100075,Eka,Computer Science,2.2,2020-05-15
+100076,Budi,Computer Science,2.87,2022-09-28
+100077,Ari,Law,3.44,2018-12-03
+100078,Dina,Computer Science,3.32,2020-06-11
+100079,Budi,Law,3.59,2020-04-04
+100080,Cici,Computer Science,3.13,2018-10-03
+100081,Ari,Business,3.07,2019-02-18
+100082,Eka,Law,3.25,2019-06-09
+100083,Ari,Business,2.41,2018-03-09
+100084,Ari,Computer Science,3.31,2021-09-06
+100085,Ari,Engineering,3.74,2022-09-23
+100086,Eka,Business,3.35,2020-09-16
+100087,Dina,Engineering,3.42,2022-08-21
+100088,Cici,Law,2.8,2022-05-07
+100089,Cici,Business,2.39,2020-08-09
+100090,Ari,Computer Science,3.65,2020-03-11
+100091,Eka,Engineering,3.12,2018-07-14
+100092,Dina,Law,3.11,2022-07-27
+100093,Eka,Law,2.24,2020-10-17
+100094,Cici,Engineering,3.51,2022-11-07
+100095,Cici,Business,3.06,2022-04-22
+100096,Budi,Computer Science,3.06,2021-06-11
+100097,Ari,Business,2.95,2018-11-15
+100098,Eka,Business,3.7,2020-07-14
+100099,Cici,Law,3.35,2021-02-19
+100100,Ari,Computer Science,3.12,2021-06-02
+100101,Dina,Computer Science,2.95,2022-03-23
+100102,Budi,Business,3.75,2018-12-11
+100103,Eka,Law,3.93,2021-08-25
+100104,Dina,Computer Science,2.46,2018-01-25
+100105,Dina,Computer Science,3.79,2020-06-19
+100106,Dina,Law,2.25,2020-06-21
+100107,Ari,Law,2.62,2019-12-13
+100108,Budi,Law,2.01,2019-09-17
+100109,Cici,Business,3.17,2018-07-01
+100110,Eka,Engineering,2.46,2019-11-18
+100111,Eka,Computer Science,2.68,2021-06-18
+100112,Eka,Law,4.0,2021-05-27
+100113,Eka,Computer Science,2.17,2022-03-16
+100114,Cici,Computer Science,2.29,2021-06-26
+100115,Cici,Law,3.02,2020-11-09
+100116,Ari,Engineering,3.75,2019-04-05
+100117,Ari,Engineering,2.25,2019-10-30
+100118,Dina,Engineering,2.26,2019-07-31
+100119,Budi,Law,2.71,2018-03-24
+100120,Ari,Computer Science,2.07,2021-06-02
+100121,Cici,Engineering,2.17,2021-05-29
+100122,Budi,Business,3.13,2021-01-12
+100123,Dina,Computer Science,3.42,2018-01-20
+100124,Budi,Computer Science,2.2,2021-01-20
+100125,Cici,Computer Science,3.11,2022-03-11
+100126,Budi,Computer Science,3.92,2022-02-27
+100127,Ari,Law,2.46,2018-11-02
+100128,Eka,Business,2.21,2018-01-31
+100129,Budi,Engineering,2.05,2019-04-26
+100130,Dina,Law,2.67,2021-02-10
+100131,Cici,Engineering,2.67,2021-07-27
+100132,Ari,Law,3.51,2021-03-22
+100133,Eka,Computer Science,2.19,2018-07-28
+100134,Ari,Computer Science,2.25,2022-08-30
+100135,Ari,Business,3.61,2022-02-21
+100136,Budi,Law,2.4,2019-02-02
+100137,Cici,Business,3.56,2022-09-18
+100138,Cici,Business,2.87,2021-05-26
+100139,Eka,Computer Science,3.14,2019-11-01
+100140,Budi,Engineering,3.12,2020-01-07
+100141,Dina,Law,3.49,2021-06-12
+100142,Cici,Business,3.07,2018-10-24
+100143,Cici,Computer Science,2.2,2022-07-02
+100144,Dina,Law,2.94,2019-04-30
+100145,Eka,Business,2.77,2022-09-18
+100146,Dina,Engineering,2.79,2022-05-21
+100147,Dina,Business,2.92,2021-10-08
+100148,Dina,Law,2.66,2018-10-17
+100149,Dina,Law,2.03,2022-08-04
+100150,Budi,Computer Science,2.5,2021-05-05
+100151,Dina,Law,2.27,2021-12-27
+100152,Dina,Computer Science,2.14,2021-06-23
+100153,Dina,Computer Science,3.58,2019-03-18
+100154,Cici,Engineering,2.56,2019-10-13
+100155,Budi,Business,2.41,2018-03-16
+100156,Eka,Business,3.29,2020-12-01
+100157,Cici,Law,3.56,2020-04-27
+100158,Eka,Business,2.94,2021-06-22
+100159,Cici,Law,3.75,2019-11-16
+100160,Cici,Law,3.09,2022-03-05
+100161,Budi,Engineering,2.79,2020-02-23
+100162,Dina,Engineering,3.45,2020-11-28
+100163,Dina,Computer Science,3.58,2021-09-25
+100164,Dina,Business,3.8,2022-05-24
+100165,Cici,Computer Science,2.47,2019-08-20
+100166,Eka,Computer Science,3.48,2019-04-07
+100167,Dina,Business,3.52,2022-02-24
+100168,Dina,Law,3.35,2021-10-11
+100169,Ari,Law,3.97,2020-03-17
+100170,Eka,Business,2.18,2018-09-25
+100171,Budi,Law,2.19,2021-01-22
+100172,Eka,Computer Science,3.61,2020-03-08
+100173,Ari,Business,2.91,2022-12-06
+100174,Dina,Computer Science,3.02,2021-01-03
+100175,Dina,Computer Science,3.47,2020-06-18
+100176,Cici,Business,2.3,2022-12-16
+100177,Eka,Computer Science,2.96,2019-06-13
+100178,Budi,Law,3.68,2020-01-04
+100179,Budi,Business,2.76,2022-04-13
+100180,Budi,Engineering,2.32,2021-08-16
+100181,Eka,Computer Science,3.42,2022-11-06
+100182,Ari,Engineering,3.2,2020-08-16
+100183,Budi,Computer Science,3.97,2021-10-04
+100184,Dina,Business,2.24,2019-04-17
+100185,Eka,Law,3.98,2021-05-20
+100186,Cici,Business,2.99,2020-03-17
+100187,Ari,Computer Science,2.43,2019-02-22
+100188,Eka,Law,2.81,2019-04-05
+100189,Cici,Business,3.24,2022-06-11
+100190,Ari,Computer Science,2.8,2018-03-06
+100191,Ari,Business,3.95,2018-11-29
+100192,Eka,Computer Science,3.07,2020-11-04
+100193,Dina,Engineering,3.23,2018-08-01
+100194,Eka,Business,2.99,2018-09-17
+100195,Dina,Engineering,3.61,2018-12-06
+100196,Ari,Law,2.68,2022-11-08
+100197,Eka,Engineering,3.01,2022-04-24
+100198,Cici,Engineering,2.36,2022-08-04
+100199,Budi,Business,2.14,2019-04-16
+100200,Budi,Engineering,,2018-04-27
+100201,Budi,Engineering,2.73,2018-06-25
+100202,Dina,Law,2.75,2018-12-18
+100203,Budi,Engineering,3.31,2020-12-29
+100204,Cici,Engineering,3.44,2020-01-26
+100205,Eka,Engineering,3.3,2021-07-06
+100206,Eka,Computer Science,3.26,2018-01-26
+100207,Ari,Computer Science,2.58,2019-07-19
+100208,Budi,Business,2.21,2021-11-13
+100209,Dina,Engineering,3.13,2022-10-13
+100210,Dina,Business,3.93,2018-02-03
+100211,Dina,Engineering,3.92,2019-08-31
+100212,Dina,Engineering,3.04,2018-10-27
+100213,Budi,Business,2.08,2021-08-18
+100214,Budi,Business,3.74,2020-01-29
+100215,Ari,Engineering,3.07,2019-11-04
+100216,Budi,Law,2.77,2020-05-14
+100217,Eka,Law,2.15,2022-07-16
+100218,Budi,Law,2.0,2020-09-23
+100219,Cici,Computer Science,3.26,2019-03-17
+100220,Dina,Computer Science,3.9,2020-02-19
+100221,Dina,Law,2.61,2018-10-29
+100222,Ari,Law,3.91,2018-02-05
+100223,Cici,Engineering,2.3,2018-09-14
+100224,Eka,Law,3.14,2021-06-25
+100225,Budi,Law,2.09,2022-11-26
+100226,Budi,Law,2.62,2022-04-08
+100227,Cici,Business,2.58,2021-05-04
+100228,Cici,Engineering,2.54,2020-11-17
+100229,Eka,Law,3.74,2018-11-01
+100230,Ari,Law,2.84,2018-12-13
+100231,Cici,Computer Science,2.22,2019-12-01
+100232,Ari,Computer Science,2.17,2018-06-27
+100233,Dina,Engineering,3.94,2020-04-26
+100234,Budi,Business,3.11,2021-05-22
+100235,Dina,Computer Science,3.98,2020-12-26
+100236,Budi,Computer Science,3.12,2022-09-19
+100237,Cici,Business,3.66,2019-11-26
+100238,Ari,Computer Science,2.53,2018-07-18
+100239,Eka,Engineering,2.42,2021-03-13
+100240,Ari,Business,2.16,2019-08-07
+100241,Budi,Business,2.67,2020-09-23
+100242,Cici,Computer Science,3.12,2021-02-28
+100243,Ari,Business,3.59,2019-08-20
+100244,Budi,Law,2.56,2018-11-02
+100245,Cici,Law,3.17,2020-02-08
+100246,Eka,Engineering,2.29,2021-10-02
+100247,Budi,Computer Science,2.41,2018-04-07
+100248,Eka,Computer Science,2.63,2022-10-06
+100249,Budi,Computer Science,2.32,2018-06-30
+100250,Budi,Computer Science,3.68,2021-11-03
+100251,Dina,Computer Science,2.2,2021-11-12
+100252,Ari,Business,3.07,2018-11-13
+100253,Dina,Engineering,3.42,2022-01-17
+100254,Cici,Engineering,3.16,2022-02-08
+100255,Dina,Computer Science,3.39,2021-09-02
+100256,Eka,Computer Science,2.49,2021-09-04
+100257,Cici,Engineering,3.11,2022-05-18
+100258,Eka,Business,3.04,2018-07-01
+100259,Dina,Computer Science,2.95,2020-03-03
+100260,Budi,Computer Science,2.74,2021-11-17
+100261,Eka,Computer Science,2.8,2019-11-12
+100262,Dina,Business,3.96,2020-06-08
+100263,Budi,Computer Science,3.72,2021-07-17
+100264,Budi,Law,2.91,2019-09-19
+100265,Ari,Engineering,3.5,2022-09-14
+100266,Cici,Computer Science,2.23,2022-02-14
+100267,Budi,Engineering,3.72,2022-05-10
+100268,Dina,Business,2.37,2021-08-17
+100269,Cici,Law,3.97,2019-07-05
+100270,Ari,Computer Science,2.65,2021-04-12
+100271,Dina,Law,2.94,2018-02-10
+100272,Ari,Law,3.66,2020-09-11
+100273,Ari,Engineering,2.87,2020-02-05
+100274,Eka,Engineering,2.93,2022-01-09
+100275,Ari,Law,2.47,2022-12-01
+100276,Ari,Business,3.66,2022-06-30
+100277,Dina,Business,3.98,2021-09-21
+100278,Eka,Computer Science,3.27,2018-06-06
+100279,Eka,Engineering,2.25,2021-11-23
+100280,Budi,Business,3.18,2018-11-29
+100281,Dina,Business,3.02,2018-03-12
+100282,Eka,Business,3.01,2021-03-25
+100283,Dina,Law,2.67,2019-04-09
+100284,Dina,Engineering,2.5,2022-03-09
+100285,Ari,Engineering,3.07,2021-02-28
+100286,Cici,Business,3.56,2022-07-01
+100287,Eka,Computer Science,3.76,2019-07-27
+100288,Eka,Engineering,2.21,2019-02-08
+100289,Dina,Law,3.43,2019-06-21
+100290,Eka,Business,3.24,2022-01-16
+100291,Cici,Business,2.42,2022-03-25
+100292,Cici,Computer Science,2.08,2021-10-16
+100293,Dina,Business,2.71,2022-04-21
+100294,Cici,Business,2.57,2022-07-03
+100295,Cici,Computer Science,3.14,2019-10-12
+100296,Ari,Engineering,2.4,2020-07-16
+100297,Eka,Law,2.78,2021-08-15
+100298,Dina,Engineering,2.24,2022-10-28
+100299,Dina,Business,3.1,2019-08-26
+100300,Cici,Engineering,3.86,2021-04-23
+100301,Cici,Law,3.55,2020-12-16
+100302,Budi,Engineering,3.38,2022-05-26
+100303,Ari,Computer Science,3.4,2020-03-26
+100304,Ari,Law,2.37,2022-07-12
+100305,Budi,Engineering,3.33,2022-08-06
+100306,Eka,Computer Science,3.53,2019-12-28
+100307,Ari,Computer Science,2.97,2021-04-21
+100308,Ari,Computer Science,2.44,2019-10-29
+100309,Cici,Engineering,3.43,2019-03-12
+100310,Eka,Engineering,4.0,2022-02-11
+100311,Dina,Law,3.6,2018-09-10
+100312,Dina,Computer Science,2.62,2020-03-28
+100313,Eka,Computer Science,3.59,2021-06-17
+100314,Budi,Law,3.19,2018-11-13
+100315,Dina,Law,3.13,2020-09-10
+100316,Budi,Business,2.65,2022-12-11
+100317,Budi,Law,3.07,2022-07-01
+100318,Dina,Engineering,2.22,2020-12-26
+100319,Eka,Business,2.39,2021-01-19
+100320,Budi,Business,3.82,2019-04-17
+100321,Ari,Computer Science,3.24,2018-11-10
+100322,Ari,Computer Science,3.48,2020-05-12
+100323,Cici,Computer Science,3.13,2022-01-20
+100324,Ari,Computer Science,3.34,2020-06-15
+100325,Dina,Computer Science,2.78,2020-07-24
+100326,Ari,Computer Science,3.01,2020-02-23
+100327,Cici,Computer Science,3.52,2019-09-17
+100328,Eka,Business,2.07,2021-08-30
+100329,Cici,Law,3.55,2022-01-30
+100330,Ari,Business,2.14,2020-03-22
+100331,Budi,Law,2.05,2019-12-21
+100332,Ari,Engineering,2.72,2018-04-01
+100333,Ari,Engineering,2.82,2021-12-19
+100334,Eka,Computer Science,2.79,2020-11-12
+100335,Eka,Computer Science,2.54,2021-04-29
+100336,Ari,Computer Science,2.4,2019-01-17
+100337,Cici,Computer Science,3.43,2018-09-20
+100338,Dina,Law,2.96,2020-07-11
+100339,Budi,Law,3.16,2022-03-25
+100340,Cici,Computer Science,3.34,2018-07-28
+100341,Eka,Law,3.1,2018-09-03
+100342,Budi,Engineering,3.43,2018-11-25
+100343,Ari,Computer Science,3.42,2019-11-18
+100344,Ari,Law,2.59,2022-06-10
+100345,Ari,Business,3.58,2019-01-11
+100346,Cici,Computer Science,2.6,2019-01-19
+100347,Eka,Engineering,3.33,2021-05-29
+100348,Ari,Law,2.75,2020-01-26
+100349,Cici,Law,3.44,2021-10-25
+100350,Cici,Law,2.29,2019-02-05
+100351,Cici,Business,2.05,2019-10-04
+100352,Budi,Business,2.11,2022-08-16
+100353,Budi,Business,2.87,2021-08-26
+100354,Ari,Business,3.92,2019-10-10
+100355,Budi,Engineering,3.73,2022-03-09
+100356,Dina,Business,2.15,2020-11-01
+100357,Cici,Engineering,3.33,2020-11-08
+100358,Cici,Computer Science,2.47,2020-02-27
+100359,Ari,Law,3.72,2020-06-19
+100360,Budi,Computer Science,2.05,2020-01-16
+100361,Eka,Engineering,3.55,2021-10-25
+100362,Eka,Business,3.03,2020-07-18
+100363,Eka,Business,3.12,2020-08-29
+100364,Eka,Law,2.64,2022-06-27
+100365,Eka,Law,2.19,2020-11-21
+100366,Ari,Business,2.05,2021-12-13
+100367,Cici,Business,2.72,2022-10-28
+100368,Dina,Engineering,3.26,2021-12-26
+100369,Ari,Law,2.52,2020-01-26
+100370,Ari,Engineering,2.23,2020-10-14
+100371,Cici,Computer Science,2.12,2020-02-17
+100372,Eka,Law,2.32,2022-11-17
+100373,Dina,Engineering,2.23,2019-12-01
+100374,Dina,Engineering,2.0,2022-12-03
+100375,Budi,Law,2.71,2022-04-19
+100376,Ari,Business,3.27,2018-06-15
+100377,Ari,Computer Science,2.04,2019-10-05
+100378,Eka,Computer Science,3.16,2019-08-05
+100379,Ari,Computer Science,3.65,2021-06-30
+100380,Eka,Business,3.22,2020-04-02
+100381,Budi,Business,2.18,2022-10-23
+100382,Eka,Computer Science,3.83,2022-03-10
+100383,Cici,Law,2.58,2021-03-30
+100384,Budi,Law,2.54,2018-05-11
+100385,Cici,Business,2.04,2020-12-07
+100386,Cici,Business,3.06,2022-03-27
+100387,Budi,Engineering,3.56,2020-08-21
+100388,Ari,Law,2.29,2018-09-26
+100389,Cici,Engineering,2.36,2020-07-03
+100390,Eka,Law,2.15,2020-06-03
+100391,Ari,Business,3.37,2018-06-05
+100392,Dina,Business,3.51,2018-05-23
+100393,Eka,Engineering,3.92,2020-05-02
+100394,Dina,Law,2.61,2019-05-10
+100395,Cici,Law,3.44,2020-03-26
+100396,Budi,Business,2.17,2022-05-26
+100397,Dina,Engineering,2.62,2020-12-29
+100398,Cici,Business,2.2,2022-07-28
+100399,Cici,Business,3.13,2019-06-13
+100400,Dina,Computer Science,,2021-06-03
+100401,Cici,Law,3.61,2021-02-21
+100402,Eka,Business,3.87,2021-09-24
+100403,Cici,Computer Science,3.27,2018-02-01
+100404,Budi,Engineering,2.75,2021-01-17
+100405,Ari,Computer Science,2.25,2020-09-12
+100406,Cici,Engineering,3.56,2022-10-31
+100407,Dina,Business,3.27,2019-02-16
+100408,Ari,Law,3.99,2018-01-21
+100409,Eka,Computer Science,2.17,2022-05-20
+100410,Cici,Computer Science,2.11,2018-05-13
+100411,Cici,Law,2.29,2021-03-02
+100412,Cici,Engineering,3.78,2018-11-25
+100413,Eka,Computer Science,3.15,2022-04-29
+100414,Eka,Law,2.77,2022-08-19
+100415,Cici,Computer Science,3.32,2018-02-24
+100416,Dina,Business,2.73,2018-10-22
+100417,Ari,Computer Science,3.91,2022-04-06
+100418,Budi,Business,3.74,2018-08-23
+100419,Budi,Law,2.68,2020-09-14
+100420,Cici,Law,3.93,2018-08-24
+100421,Cici,Computer Science,2.5,2020-10-20
+100422,Budi,Law,2.29,2018-06-25
+100423,Cici,Business,2.34,2021-12-08
+100424,Ari,Business,4.0,2021-06-18
+100425,Ari,Engineering,2.24,2021-11-18
+100426,Cici,Engineering,3.87,2018-02-06
+100427,Dina,Computer Science,3.69,2021-03-31
+100428,Budi,Law,2.33,2021-04-24
+100429,Dina,Engineering,3.6,2020-05-27
+100430,Budi,Computer Science,3.02,2019-04-01
+100431,Eka,Law,2.26,2020-02-16
+100432,Budi,Law,3.11,2020-07-27
+100433,Ari,Business,3.95,2022-07-02
+100434,Cici,Engineering,2.89,2020-11-18
+100435,Ari,Business,2.81,2020-08-04
+100436,Dina,Computer Science,3.9,2022-06-19
+100437,Dina,Business,3.49,2022-12-03
+100438,Eka,Law,3.68,2020-01-28
+100439,Ari,Law,2.51,2018-10-27
+100440,Ari,Computer Science,3.87,2022-09-04
+100441,Eka,Computer Science,3.52,2020-02-26
+100442,Cici,Computer Science,2.15,2020-09-24
+100443,Cici,Engineering,2.29,2019-04-07
+100444,Dina,Law,3.55,2020-01-17
+100445,Eka,Engineering,3.76,2021-05-07
+100446,Cici,Business,3.35,2021-04-11
+100447,Eka,Law,3.31,2020-06-25
+100448,Ari,Engineering,3.44,2019-09-02
+100449,Dina,Law,2.61,2020-02-10
+100450,Budi,Law,2.8,2019-04-12
+100451,Ari,Business,2.38,2018-06-25
+100452,Eka,Law,2.35,2022-05-07
+100453,Ari,Business,3.55,2018-02-02
+100454,Budi,Business,3.94,2019-10-05
+100455,Cici,Law,3.68,2021-12-07
+100456,Eka,Engineering,3.86,2018-10-05
+100457,Eka,Computer Science,2.47,2022-12-07
+100458,Eka,Engineering,2.38,2020-03-07
+100459,Eka,Computer Science,2.73,2021-03-23
+100460,Ari,Computer Science,3.0,2021-10-19
+100461,Eka,Computer Science,2.93,2022-09-24
+100462,Dina,Business,3.51,2020-01-31
+100463,Cici,Business,2.97,2021-05-05
+100464,Budi,Computer Science,3.41,2020-06-02
+100465,Budi,Business,3.63,2022-04-18
+100466,Ari,Law,2.14,2022-01-22
+100467,Budi,Engineering,2.65,2021-11-03
+100468,Budi,Engineering,3.77,2018-06-20
+100469,Eka,Business,3.4,2020-06-24
+100470,Budi,Engineering,3.83,2020-10-23
+100471,Dina,Engineering,2.63,2021-09-21
+100472,Cici,Law,2.48,2019-12-11
+100473,Eka,Computer Science,2.27,2021-11-20
+100474,Eka,Law,2.94,2020-01-14
+100475,Budi,Business,2.57,2019-03-17
+100476,Eka,Computer Science,2.33,2019-10-04
+100477,Eka,Engineering,3.11,2021-04-30
+100478,Cici,Computer Science,3.09,2020-07-08
+100479,Cici,Law,3.85,2018-10-30
+100480,Cici,Engineering,2.94,2022-05-29
+100481,Budi,Computer Science,3.4,2020-12-08
+100482,Ari,Engineering,3.4,2019-11-24
+100483,Ari,Business,2.46,2018-10-27
+100484,Ari,Computer Science,2.29,2022-08-16
+100485,Cici,Law,2.21,2021-10-19
+100486,Cici,Business,3.33,2018-07-12
+100487,Dina,Law,2.79,2022-02-09
+100488,Dina,Engineering,2.53,2019-09-24
+100489,Cici,Engineering,2.68,2021-01-14
+100490,Eka,Law,2.83,2018-09-25
+100491,Dina,Computer Science,2.32,2021-10-18
+100492,Eka,Computer Science,2.28,2020-11-09
+100493,Eka,Engineering,2.43,2022-04-19
+100494,Dina,Computer Science,2.54,2018-05-26
+100495,Eka,Business,2.85,2021-11-02
+100496,Ari,Law,2.26,2020-06-04
+100497,Eka,Engineering,2.49,2021-10-18
+100498,Eka,Computer Science,3.16,2018-02-02
+100499,Budi,Computer Science,2.49,2018-12-24
+100500,Budi,Engineering,3.45,2018-09-25
+100501,Cici,Computer Science,3.62,2018-02-08
+100502,Budi,Engineering,3.04,2022-01-19
+100503,Dina,Computer Science,2.43,2018-02-02
+100504,Budi,Engineering,2.45,2020-05-10
+100505,Budi,Computer Science,3.0,2019-05-22
+100506,Dina,Engineering,2.39,2018-10-09
+100507,Eka,Computer Science,4.0,2022-07-14
+100508,Cici,Law,3.7,2022-09-18
+100509,Cici,Computer Science,2.54,2021-12-13
+100510,Cici,Law,3.03,2022-09-17
+100511,Ari,Computer Science,3.61,2019-07-11
+100512,Eka,Engineering,2.79,2018-01-31
+100513,Eka,Engineering,2.31,2018-06-20
+100514,Budi,Law,2.76,2020-12-22
+100515,Eka,Engineering,3.71,2018-08-28
+100516,Eka,Law,2.93,2020-02-21
+100517,Dina,Law,2.59,2022-02-03
+100518,Cici,Engineering,3.58,2021-01-24
+100519,Cici,Law,3.18,2022-04-24
+100520,Eka,Engineering,2.05,2019-05-21
+100521,Dina,Computer Science,3.7,2020-06-26
+100522,Budi,Engineering,3.32,2018-10-14
+100523,Budi,Computer Science,3.41,2022-04-19
+100524,Dina,Computer Science,2.36,2020-07-21
+100525,Eka,Computer Science,3.42,2018-06-22
+100526,Eka,Business,3.93,2020-01-24
+100527,Dina,Computer Science,3.78,2018-04-18
+100528,Budi,Computer Science,2.99,2021-10-23
+100529,Dina,Law,3.84,2022-04-18
+100530,Ari,Engineering,3.92,2018-12-01
+100531,Cici,Computer Science,3.87,2020-03-01
+100532,Ari,Law,3.91,2019-06-12
+100533,Eka,Engineering,2.82,2022-10-13
+100534,Eka,Computer Science,2.75,2018-11-28
+100535,Eka,Computer Science,3.66,2019-11-13
+100536,Eka,Computer Science,2.07,2022-01-18
+100537,Ari,Law,2.34,2022-05-08
+100538,Budi,Law,3.79,2020-05-01
+100539,Eka,Engineering,4.0,2022-07-22
+100540,Eka,Engineering,2.57,2019-01-29
+100541,Dina,Business,3.02,2019-04-07
+100542,Budi,Computer Science,3.74,2020-05-20
+100543,Eka,Engineering,2.67,2018-11-17
+100544,Eka,Engineering,3.23,2022-02-27
+100545,Budi,Computer Science,2.27,2020-04-29
+100546,Eka,Computer Science,3.78,2019-03-06
+100547,Ari,Business,3.64,2018-01-09
+100548,Cici,Business,2.91,2018-03-22
+100549,Ari,Law,3.76,2018-08-29
+100550,Ari,Law,2.59,2020-12-10
+100551,Dina,Law,2.58,2018-07-18
+100552,Cici,Computer Science,2.54,2018-01-05
+100553,Cici,Business,3.98,2021-06-23
+100554,Budi,Business,2.68,2022-07-17
+100555,Cici,Law,2.3,2021-04-08
+100556,Cici,Law,2.42,2021-08-15
+100557,Budi,Law,2.12,2020-01-03
+100558,Dina,Business,3.56,2018-02-05
+100559,Budi,Computer Science,3.02,2019-04-04
+100560,Budi,Business,2.66,2022-09-05
+100561,Dina,Computer Science,2.43,2018-03-23
+100562,Dina,Business,2.03,2018-06-25
+100563,Ari,Engineering,2.99,2018-04-17
+100564,Eka,Business,2.6,2019-02-06
+100565,Eka,Business,3.96,2021-06-16
+100566,Eka,Law,3.15,2020-07-18
+100567,Dina,Computer Science,3.27,2021-10-17
+100568,Budi,Engineering,3.79,2019-08-11
+100569,Ari,Business,2.37,2018-02-14
+100570,Budi,Engineering,2.37,2021-08-02
+100571,Dina,Computer Science,3.57,2022-07-05
+100572,Cici,Computer Science,2.41,2020-08-02
+100573,Dina,Computer Science,3.43,2019-03-27
+100574,Ari,Computer Science,3.46,2022-07-08
+100575,Ari,Law,3.18,2019-09-16
+100576,Eka,Business,3.53,2020-11-27
+100577,Eka,Computer Science,3.02,2020-07-29
+100578,Cici,Business,3.16,2019-02-23
+100579,Cici,Law,3.25,2019-06-06
+100580,Budi,Business,3.0,2019-11-02
+100581,Eka,Computer Science,2.24,2019-01-20
+100582,Ari,Engineering,3.5,2020-04-04
+100583,Ari,Computer Science,3.35,2022-03-12
+100584,Budi,Computer Science,2.45,2021-07-21
+100585,Eka,Law,2.16,2020-01-16
+100586,Eka,Computer Science,2.2,2018-08-06
+100587,Dina,Computer Science,3.51,2021-12-01
+100588,Eka,Business,2.29,2018-03-14
+100589,Cici,Computer Science,2.18,2022-08-19
+100590,Dina,Engineering,3.13,2019-12-17
+100591,Cici,Business,3.12,2019-02-06
+100592,Cici,Law,3.08,2020-05-09
+100593,Dina,Computer Science,3.81,2019-05-04
+100594,Dina,Law,2.77,2021-12-11
+100595,Budi,Engineering,2.51,2018-08-26
+100596,Eka,Computer Science,3.55,2022-11-11
+100597,Eka,Law,3.57,2020-09-30
+100598,Ari,Engineering,2.22,2021-11-30
+100599,Eka,Computer Science,3.85,2019-01-12
+100600,Budi,Engineering,,2021-05-29
+100601,Eka,Computer Science,3.58,2020-05-13
+100602,Dina,Business,3.08,2020-11-29
+100603,Ari,Engineering,3.22,2021-01-05
+100604,Eka,Business,3.23,2021-08-11
+100605,Budi,Computer Science,3.49,2020-11-01
+100606,Eka,Computer Science,2.84,2022-08-04
+100607,Cici,Computer Science,2.39,2018-11-19
+100608,Ari,Law,2.05,2022-11-22
+100609,Budi,Computer Science,2.34,2021-07-16
+100610,Budi,Business,3.5,2018-05-22
+100611,Ari,Business,3.77,2022-03-28
+100612,Eka,Law,2.2,2020-05-28
+100613,Ari,Business,3.58,2018-07-14
+100614,Ari,Computer Science,3.85,2021-01-02
+100615,Eka,Business,3.02,2020-03-16
+100616,Eka,Law,2.7,2019-06-05
+100617,Dina,Law,3.42,2020-07-25
+100618,Budi,Computer Science,2.78,2021-03-25
+100619,Eka,Business,3.74,2021-06-05
+100620,Eka,Computer Science,3.48,2022-10-05
+100621,Dina,Law,2.91,2022-03-08
+100622,Ari,Law,2.73,2018-11-02
+100623,Cici,Law,2.27,2018-09-04
+100624,Dina,Business,2.1,2021-03-05
+100625,Ari,Engineering,2.71,2019-01-24
+100626,Cici,Engineering,3.62,2018-09-02
+100627,Budi,Law,2.5,2018-08-08
+100628,Dina,Law,2.75,2019-08-23
+100629,Eka,Business,2.52,2021-03-20
+100630,Eka,Business,3.2,2018-03-13
+100631,Eka,Business,3.24,2020-09-27
+100632,Ari,Law,2.9,2020-05-04
+100633,Cici,Law,3.49,2018-12-22
+100634,Budi,Business,3.39,2019-07-13
+100635,Eka,Business,2.76,2022-12-23
+100636,Cici,Business,2.57,2022-05-09
+100637,Eka,Computer Science,2.11,2021-10-09
+100638,Budi,Law,3.25,2022-01-16
+100639,Cici,Computer Science,3.11,2021-09-26
+100640,Budi,Business,2.46,2022-11-27
+100641,Dina,Computer Science,4.0,2020-11-05
+100642,Ari,Computer Science,3.24,2021-07-19
+100643,Ari,Business,2.07,2020-08-20
+100644,Budi,Engineering,2.25,2019-06-08
+100645,Budi,Business,3.82,2022-03-18
+100646,Ari,Business,2.45,2019-08-03
+100647,Eka,Engineering,2.54,2020-06-13
+100648,Cici,Business,2.44,2018-11-29
+100649,Eka,Law,3.28,2019-12-06
+100650,Ari,Law,2.99,2019-06-11
+100651,Cici,Law,3.61,2020-03-20
+100652,Budi,Law,3.28,2021-01-22
+100653,Eka,Computer Science,3.91,2018-09-29
+100654,Eka,Business,3.14,2022-05-09
+100655,Budi,Business,3.66,2020-01-11
+100656,Cici,Business,3.34,2021-01-31
+100657,Cici,Engineering,2.8,2018-01-21
+100658,Eka,Engineering,2.18,2021-10-19
+100659,Ari,Law,2.42,2019-04-15
+100660,Eka,Business,3.0,2021-11-17
+100661,Eka,Business,3.17,2022-06-07
+100662,Eka,Engineering,2.01,2021-06-24
+100663,Cici,Law,2.39,2018-03-11
+100664,Budi,Business,3.57,2020-10-29
+100665,Ari,Computer Science,3.97,2020-07-12
+100666,Budi,Engineering,3.27,2018-08-04
+100667,Cici,Computer Science,2.91,2022-10-25
+100668,Budi,Business,2.73,2020-09-02
+100669,Dina,Law,2.33,2020-06-01
+100670,Dina,Engineering,3.02,2018-07-13
+100671,Ari,Law,2.69,2020-03-15
+100672,Dina,Law,3.11,2021-08-02
+100673,Dina,Law,2.06,2018-08-05
+100674,Budi,Computer Science,3.93,2019-04-08
+100675,Budi,Engineering,3.58,2020-08-09
+100676,Eka,Business,2.28,2019-04-16
+100677,Cici,Engineering,2.16,2020-12-03
+100678,Dina,Law,3.99,2021-03-26
+100679,Eka,Engineering,2.22,2022-12-28
+100680,Eka,Law,2.33,2018-02-05
+100681,Eka,Law,2.07,2021-03-25
+100682,Budi,Law,3.66,2018-08-19
+100683,Eka,Law,3.75,2018-12-06
+100684,Budi,Law,3.99,2021-12-10
+100685,Cici,Business,3.63,2020-04-07
+100686,Ari,Computer Science,2.89,2022-05-18
+100687,Eka,Business,3.57,2019-10-27
+100688,Budi,Computer Science,2.33,2019-10-13
+100689,Eka,Computer Science,2.02,2019-11-02
+100690,Ari,Computer Science,2.43,2022-08-23
+100691,Eka,Engineering,3.62,2021-04-20
+100692,Eka,Computer Science,2.72,2021-12-04
+100693,Eka,Computer Science,2.24,2020-10-08
+100694,Cici,Engineering,2.82,2019-04-30
+100695,Dina,Law,2.37,2020-12-15
+100696,Cici,Business,3.65,2021-10-19
+100697,Dina,Engineering,2.53,2021-08-04
+100698,Cici,Engineering,3.36,2022-12-30
+100699,Eka,Engineering,2.49,2022-12-13
+100700,Dina,Computer Science,3.51,2022-01-31
+100701,Dina,Business,3.08,2022-12-09
+100702,Budi,Engineering,2.7,2021-01-08
+100703,Eka,Computer Science,3.15,2020-09-08
+100704,Cici,Engineering,2.57,2021-02-07
+100705,Budi,Computer Science,3.2,2021-03-14
+100706,Eka,Computer Science,3.21,2022-04-09
+100707,Cici,Computer Science,2.54,2020-01-26
+100708,Dina,Computer Science,3.06,2020-05-10
+100709,Dina,Computer Science,3.99,2022-02-08
+100710,Ari,Law,3.83,2022-04-29
+100711,Dina,Engineering,2.52,2018-03-08
+100712,Cici,Computer Science,2.94,2018-07-25
+100713,Eka,Engineering,3.53,2018-10-10
+100714,Budi,Computer Science,3.03,2020-10-19
+100715,Eka,Business,2.4,2018-03-25
+100716,Budi,Engineering,2.19,2022-11-16
+100717,Dina,Engineering,3.58,2018-03-06
+100718,Eka,Law,3.03,2021-06-19
+100719,Dina,Law,2.96,2022-07-24
+100720,Cici,Business,2.4,2021-04-03
+100721,Cici,Business,2.05,2021-02-14
+100722,Budi,Business,3.39,2021-01-16
+100723,Cici,Computer Science,3.42,2020-09-12
+100724,Dina,Engineering,2.85,2019-05-20
+100725,Dina,Engineering,2.23,2022-05-22
+100726,Dina,Computer Science,2.61,2020-05-05
+100727,Budi,Computer Science,2.31,2020-11-17
+100728,Budi,Computer Science,3.3,2022-07-03
+100729,Cici,Business,2.03,2018-12-30
+100730,Eka,Engineering,2.46,2020-07-19
+100731,Dina,Law,2.39,2018-05-26
+100732,Ari,Engineering,2.08,2018-12-01
+100733,Dina,Computer Science,2.71,2021-03-07
+100734,Dina,Computer Science,2.08,2021-11-28
+100735,Dina,Computer Science,2.39,2018-05-02
+100736,Ari,Computer Science,2.93,2019-10-14
+100737,Ari,Law,3.31,2022-11-10
+100738,Dina,Law,3.57,2021-07-13
+100739,Ari,Business,3.36,2022-07-28
+100740,Budi,Law,2.36,2020-05-13
+100741,Dina,Engineering,2.75,2019-03-02
+100742,Dina,Computer Science,2.27,2022-10-26
+100743,Dina,Computer Science,3.14,2022-07-15
+100744,Dina,Business,2.45,2020-05-07
+100745,Budi,Computer Science,2.88,2018-01-01
+100746,Cici,Computer Science,2.16,2018-04-16
+100747,Budi,Law,2.73,2018-10-07
+100748,Ari,Computer Science,3.61,2020-11-23
+100749,Eka,Computer Science,2.37,2022-10-05
+100750,Cici,Law,2.54,2021-05-01
+100751,Budi,Engineering,3.57,2019-07-02
+100752,Budi,Computer Science,3.29,2020-10-06
+100753,Cici,Law,3.59,2018-06-24
+100754,Dina,Engineering,2.02,2020-05-21
+100755,Ari,Engineering,3.15,2018-03-12
+100756,Dina,Business,2.73,2019-02-07
+100757,Dina,Engineering,2.48,2022-06-24
+100758,Dina,Business,3.75,2022-06-23
+100759,Dina,Law,3.22,2019-06-23
+100760,Budi,Law,3.43,2021-02-24
+100761,Dina,Law,3.57,2019-04-09
+100762,Cici,Law,3.9,2020-02-23
+100763,Cici,Computer Science,2.96,2018-10-01
+100764,Budi,Business,2.93,2021-06-12
+100765,Budi,Business,2.73,2020-08-12
+100766,Budi,Law,2.6,2022-03-24
+100767,Ari,Engineering,3.34,2022-03-18
+100768,Eka,Engineering,2.39,2021-07-17
+100769,Ari,Computer Science,2.64,2022-04-30
+100770,Budi,Computer Science,2.07,2021-07-25
+100771,Ari,Engineering,3.28,2021-12-25
+100772,Cici,Computer Science,2.08,2019-02-12
+100773,Eka,Computer Science,2.17,2021-05-02
+100774,Ari,Business,3.18,2019-07-24
+100775,Budi,Law,2.28,2020-01-14
+100776,Budi,Law,2.69,2018-03-13
+100777,Ari,Engineering,2.7,2021-09-12
+100778,Ari,Engineering,3.71,2022-08-24
+100779,Eka,Business,2.07,2022-06-27
+100780,Dina,Engineering,3.29,2021-11-07
+100781,Cici,Law,3.03,2021-10-11
+100782,Cici,Business,3.5,2020-11-25
+100783,Budi,Business,3.93,2022-07-19
+100784,Ari,Computer Science,2.08,2020-10-18
+100785,Dina,Business,2.77,2022-04-16
+100786,Ari,Computer Science,3.52,2019-05-25
+100787,Eka,Business,2.15,2019-12-26
+100788,Eka,Law,2.45,2018-10-21
+100789,Dina,Law,2.75,2022-03-16
+100790,Budi,Law,2.04,2022-02-23
+100791,Dina,Computer Science,3.33,2019-06-02
+100792,Cici,Law,3.61,2021-02-21
+100793,Ari,Business,3.8,2018-11-28
+100794,Eka,Law,2.27,2020-03-17
+100795,Ari,Computer Science,3.77,2020-07-02
+100796,Dina,Business,2.22,2022-11-19
+100797,Budi,Computer Science,3.77,2018-02-17
+100798,Cici,Engineering,3.51,2018-06-02
+100799,Ari,Law,2.49,2019-02-27
+100800,Eka,Computer Science,,2020-01-11
+100801,Cici,Business,2.09,2018-08-20
+100802,Dina,Law,2.95,2022-08-12
+100803,Budi,Computer Science,2.59,2019-05-25
+100804,Dina,Engineering,3.5,2018-06-18
+100805,Budi,Business,2.34,2019-10-10
+100806,Cici,Engineering,3.6,2019-06-16
+100807,Ari,Law,3.88,2021-12-05
+100808,Eka,Computer Science,2.14,2020-12-26
+100809,Budi,Engineering,3.75,2018-03-09
+100810,Ari,Computer Science,2.1,2020-12-25
+100811,Dina,Law,2.96,2019-02-18
+100812,Budi,Engineering,3.56,2019-07-31
+100813,Ari,Law,2.38,2021-10-31
+100814,Cici,Engineering,2.74,2022-11-27
+100815,Eka,Law,2.92,2021-11-30
+100816,Cici,Law,3.71,2019-01-07
+100817,Cici,Business,3.82,2021-07-12
+100818,Budi,Engineering,2.09,2021-05-08
+100819,Dina,Engineering,3.01,2020-03-05
+100820,Cici,Engineering,2.45,2021-02-24
+100821,Dina,Law,2.05,2019-07-26
+100822,Eka,Engineering,3.23,2022-03-24
+100823,Dina,Law,3.4,2019-05-28
+100824,Cici,Computer Science,2.29,2018-02-17
+100825,Eka,Law,3.92,2019-07-30
+100826,Cici,Engineering,3.72,2019-07-29
+100827,Cici,Business,3.34,2021-02-04
+100828,Dina,Engineering,2.35,2019-04-21
+100829,Budi,Engineering,2.81,2020-02-28
+100830,Budi,Computer Science,2.7,2018-07-19
+100831,Eka,Computer Science,3.31,2020-06-14
+100832,Dina,Business,3.25,2020-07-21
+100833,Ari,Engineering,2.13,2021-10-19
+100834,Cici,Computer Science,2.05,2022-09-14
+100835,Dina,Computer Science,3.82,2022-07-03
+100836,Ari,Business,3.7,2022-03-13
+100837,Eka,Law,2.35,2022-05-27
+100838,Ari,Computer Science,2.18,2020-09-12
+100839,Cici,Computer Science,2.62,2021-01-30
+100840,Ari,Business,2.24,2019-08-29
+100841,Eka,Computer Science,2.27,2019-07-10
+100842,Cici,Law,2.93,2022-05-06
+100843,Eka,Engineering,3.02,2018-01-19
+100844,Dina,Law,2.41,2019-03-18
+100845,Dina,Engineering,3.33,2019-08-05
+100846,Dina,Law,2.67,2021-12-08
+100847,Dina,Engineering,3.79,2022-05-06
+100848,Dina,Computer Science,2.02,2022-06-03
+100849,Dina,Computer Science,2.41,2019-02-16
+100850,Ari,Computer Science,3.19,2019-05-12
+100851,Dina,Computer Science,3.28,2021-05-20
+100852,Ari,Engineering,3.49,2020-09-15
+100853,Budi,Law,2.59,2018-10-31
+100854,Budi,Law,3.37,2022-04-13
+100855,Eka,Computer Science,3.41,2020-08-28
+100856,Budi,Computer Science,3.35,2020-05-28
+100857,Eka,Business,3.96,2022-10-06
+100858,Budi,Law,2.25,2021-01-31
+100859,Cici,Engineering,3.67,2018-02-14
+100860,Eka,Engineering,2.44,2018-10-30
+100861,Eka,Law,2.43,2022-11-08
+100862,Eka,Business,3.66,2021-11-25
+100863,Ari,Computer Science,3.11,2019-05-30
+100864,Eka,Law,3.22,2021-02-01
+100865,Cici,Computer Science,3.42,2018-07-29
+100866,Budi,Business,3.0,2022-03-13
+100867,Eka,Business,3.45,2022-07-01
+100868,Cici,Law,3.45,2021-11-29
+100869,Eka,Computer Science,2.54,2020-07-16
+100870,Eka,Business,2.01,2020-08-19
+100871,Dina,Business,2.85,2019-06-13
+100872,Ari,Engineering,2.75,2022-11-02
+100873,Budi,Law,2.88,2021-11-30
+100874,Dina,Business,3.41,2018-04-17
+100875,Cici,Computer Science,3.43,2020-04-02
+100876,Budi,Engineering,2.46,2021-09-13
+100877,Eka,Computer Science,3.52,2021-04-16
+100878,Eka,Business,3.33,2021-04-25
+100879,Eka,Business,2.41,2019-02-04
+100880,Budi,Law,2.7,2018-02-08
+100881,Cici,Law,3.28,2021-09-28
+100882,Dina,Engineering,2.83,2021-11-28
+100883,Budi,Computer Science,2.26,2021-10-09
+100884,Dina,Law,2.44,2020-05-26
+100885,Eka,Engineering,2.62,2021-09-03
+100886,Cici,Business,3.76,2020-03-01
+100887,Cici,Engineering,2.74,2020-01-31
+100888,Cici,Business,3.87,2022-07-26
+100889,Ari,Engineering,3.7,2018-07-25
+100890,Cici,Engineering,2.21,2021-02-27
+100891,Dina,Law,2.09,2018-01-26
+100892,Eka,Business,2.76,2019-02-18
+100893,Budi,Computer Science,4.0,2019-01-02
+100894,Eka,Computer Science,3.66,2019-02-01
+100895,Dina,Computer Science,2.08,2021-11-28
+100896,Cici,Law,3.69,2021-03-20
+100897,Ari,Law,3.55,2022-11-14
+100898,Dina,Computer Science,2.28,2020-12-01
+100899,Budi,Engineering,3.69,2019-03-14
+100900,Ari,Law,3.92,2021-07-13
+100901,Eka,Law,2.57,2021-04-19
+100902,Eka,Computer Science,2.29,2018-03-18
+100903,Ari,Law,2.56,2018-03-29
+100904,Eka,Engineering,2.97,2022-07-21
+100905,Dina,Business,3.32,2020-11-30
+100906,Dina,Business,3.36,2020-03-29
+100907,Dina,Business,2.4,2021-11-15
+100908,Ari,Business,2.54,2018-06-17
+100909,Cici,Business,2.54,2021-02-09
+100910,Eka,Computer Science,3.46,2022-08-07
+100911,Eka,Computer Science,3.18,2022-01-05
+100912,Dina,Business,3.02,2019-12-08
+100913,Dina,Engineering,3.52,2021-01-23
+100914,Ari,Business,3.39,2021-05-11
+100915,Ari,Business,3.48,2018-07-06
+100916,Eka,Law,2.5,2019-06-25
+100917,Budi,Law,3.47,2021-12-30
+100918,Cici,Engineering,3.03,2022-12-24
+100919,Budi,Computer Science,3.73,2021-10-08
+100920,Eka,Computer Science,3.51,2019-09-02
+100921,Cici,Computer Science,2.21,2022-02-05
+100922,Dina,Computer Science,3.4,2019-04-25
+100923,Budi,Law,2.2,2019-09-06
+100924,Budi,Business,2.55,2022-02-27
+100925,Budi,Engineering,2.24,2018-09-08
+100926,Dina,Business,2.24,2020-12-09
+100927,Cici,Computer Science,2.25,2020-03-13
+100928,Eka,Engineering,2.78,2018-07-12
+100929,Cici,Computer Science,3.33,2021-04-09
+100930,Dina,Computer Science,3.5,2022-04-06
+100931,Cici,Business,2.82,2021-06-23
+100932,Cici,Engineering,2.77,2020-04-28
+100933,Dina,Law,2.32,2020-02-10
+100934,Ari,Computer Science,2.96,2018-10-13
+100935,Ari,Law,2.79,2019-11-10
+100936,Budi,Computer Science,3.1,2020-01-30
+100937,Eka,Computer Science,2.92,2020-09-02
+100938,Cici,Computer Science,3.13,2021-06-16
+100939,Ari,Engineering,2.96,2022-06-21
+100940,Eka,Computer Science,2.21,2019-04-26
+100941,Eka,Engineering,3.53,2019-07-16
+100942,Budi,Law,3.71,2020-06-11
+100943,Budi,Engineering,2.79,2020-04-15
+100944,Eka,Law,3.91,2022-04-23
+100945,Cici,Computer Science,3.24,2018-07-02
+100946,Eka,Computer Science,3.05,2020-05-24
+100947,Budi,Computer Science,3.85,2018-01-26
+100948,Eka,Law,3.57,2021-10-04
+100949,Dina,Engineering,2.34,2018-09-06
+100950,Budi,Engineering,2.43,2020-06-26
+100951,Budi,Computer Science,3.49,2021-11-11
+100952,Dina,Computer Science,2.85,2019-12-14
+100953,Eka,Business,3.04,2021-05-22
+100954,Dina,Law,2.12,2021-02-04
+100955,Dina,Computer Science,3.21,2019-10-09
+100956,Eka,Engineering,3.07,2020-06-12
+100957,Budi,Computer Science,2.92,2019-12-28
+100958,Cici,Computer Science,2.81,2020-08-07
+100959,Budi,Engineering,3.73,2018-12-06
+100960,Budi,Business,2.89,2019-05-08
+100961,Budi,Computer Science,3.5,2020-02-23
+100962,Eka,Engineering,3.1,2021-03-11
+100963,Dina,Business,3.59,2021-08-26
+100964,Eka,Law,3.04,2020-01-04
+100965,Budi,Law,3.83,2021-04-29
+100966,Eka,Business,2.88,2021-10-02
+100967,Budi,Engineering,3.55,2018-09-16
+100968,Eka,Law,3.89,2018-08-25
+100969,Budi,Law,2.77,2018-12-10
+100970,Cici,Computer Science,3.1,2022-08-23
+100971,Budi,Engineering,2.96,2021-06-02
+100972,Cici,Business,2.86,2022-10-16
+100973,Eka,Computer Science,2.92,2018-04-29
+100974,Dina,Business,3.58,2021-09-21
+100975,Eka,Computer Science,3.12,2022-09-25
+100976,Dina,Engineering,2.53,2021-09-05
+100977,Ari,Computer Science,2.53,2019-11-03
+100978,Cici,Business,3.96,2018-03-18
+100979,Budi,Law,2.36,2020-11-21
+100980,Cici,Business,3.39,2020-08-29
+100981,Eka,Law,2.54,2021-07-17
+100982,Cici,Computer Science,3.52,2021-06-05
+100983,Budi,Engineering,3.34,2022-04-06
+100984,Ari,Engineering,3.63,2021-07-22
+100985,Eka,Engineering,3.88,2018-03-19
+100986,Ari,Engineering,2.22,2021-03-05
+100987,Budi,Engineering,3.26,2022-03-01
+100988,Cici,Business,3.13,2021-12-17
+100989,Cici,Computer Science,3.02,2020-04-19
+100990,Dina,Law,2.32,2018-04-28
+100991,Budi,Computer Science,2.97,2020-04-03
+100992,Budi,Law,2.88,2022-09-10
+100993,Budi,Engineering,3.75,2021-12-01
+100994,Cici,Business,3.71,2021-09-28
+100995,Cici,Business,2.54,2020-10-29
+100996,Dina,Business,3.26,2019-10-15
+100997,Ari,Engineering,2.93,2021-01-03
+100998,Eka,Engineering,2.83,2020-04-02
+100999,Budi,Engineering,3.21,2018-01-06
+101000,Ari,Computer Science,,2018-01-24
+101001,Dina,Law,3.77,2019-06-20
+101002,Cici,Engineering,3.84,2020-02-04
+101003,Cici,Computer Science,3.19,2018-04-17
+101004,Dina,Law,2.44,2022-03-05
+101005,Eka,Engineering,2.55,2021-03-13
+101006,Cici,Business,3.87,2018-11-26
+101007,Cici,Engineering,2.47,2019-11-19
+101008,Budi,Engineering,3.52,2021-04-27
+101009,Ari,Business,2.2,2022-10-15
+101010,Dina,Business,3.69,2020-08-26
+101011,Budi,Law,3.69,2021-06-05
+101012,Cici,Business,2.65,2020-05-09
+101013,Cici,Law,3.32,2020-02-22
+101014,Budi,Business,2.89,2022-07-14
+101015,Cici,Computer Science,2.44,2018-10-09
+101016,Dina,Business,2.55,2021-09-02
+101017,Dina,Engineering,3.68,2020-07-04
+101018,Cici,Engineering,3.31,2022-02-13
+101019,Dina,Law,2.85,2021-05-25
+101020,Eka,Computer Science,2.45,2020-08-10
+101021,Dina,Computer Science,3.27,2021-05-21
+101022,Budi,Computer Science,3.03,2022-04-22
+101023,Cici,Law,3.24,2022-11-21
+101024,Dina,Business,3.44,2021-07-30
+101025,Ari,Law,3.79,2020-10-29
+101026,Ari,Computer Science,3.92,2019-09-11
+101027,Eka,Engineering,2.73,2021-09-09
+101028,Budi,Engineering,2.42,2021-07-06
+101029,Eka,Business,2.2,2019-06-13
+101030,Dina,Computer Science,3.79,2019-06-29
+101031,Budi,Law,3.61,2019-07-08
+101032,Eka,Business,2.26,2020-05-20
+101033,Eka,Law,2.02,2018-11-21
+101034,Dina,Law,3.51,2018-11-13
+101035,Budi,Business,3.28,2022-11-30
+101036,Budi,Business,3.28,2019-06-22
+101037,Budi,Law,2.73,2019-03-07
+101038,Dina,Engineering,2.7,2019-07-13
+101039,Eka,Business,3.46,2022-06-07
+101040,Cici,Engineering,2.7,2020-11-15
+101041,Cici,Business,2.52,2021-02-16
+101042,Budi,Engineering,3.12,2022-03-13
+101043,Budi,Law,2.14,2019-11-10
+101044,Budi,Engineering,3.05,2018-07-14
+101045,Cici,Computer Science,2.19,2021-11-18
+101046,Budi,Engineering,2.8,2019-04-07
+101047,Eka,Engineering,2.77,2022-01-04
+101048,Ari,Computer Science,2.96,2022-01-14
+101049,Dina,Law,3.2,2019-05-20
+101050,Eka,Computer Science,3.65,2018-01-16
+101051,Ari,Business,2.33,2021-05-05
+101052,Ari,Business,2.89,2018-02-10
+101053,Dina,Computer Science,3.67,2020-08-24
+101054,Dina,Engineering,3.23,2020-10-08
+101055,Eka,Law,3.36,2022-02-05
+101056,Ari,Computer Science,2.16,2021-11-15
+101057,Dina,Law,2.65,2020-10-02
+101058,Cici,Business,2.01,2020-08-25
+101059,Ari,Engineering,2.46,2020-08-09
+101060,Ari,Engineering,2.55,2021-06-01
+101061,Cici,Business,2.89,2022-11-08
+101062,Cici,Engineering,3.45,2021-06-18
+101063,Cici,Law,2.58,2019-09-28
+101064,Ari,Business,2.48,2018-02-18
+101065,Dina,Computer Science,2.67,2022-09-08
+101066,Eka,Computer Science,3.9,2020-10-30
+101067,Dina,Law,3.24,2019-04-26
+101068,Dina,Computer Science,3.31,2021-03-14
+101069,Cici,Business,3.85,2022-05-20
+101070,Budi,Business,2.16,2022-05-26
+101071,Dina,Business,3.39,2019-11-13
+101072,Dina,Engineering,3.03,2019-08-06
+101073,Ari,Engineering,3.42,2020-05-17
+101074,Ari,Business,3.32,2022-07-07
+101075,Eka,Law,3.58,2020-07-04
+101076,Cici,Business,3.47,2020-08-27
+101077,Eka,Business,3.92,2019-05-08
+101078,Ari,Engineering,2.29,2020-09-15
+101079,Cici,Law,3.89,2020-10-24
+101080,Ari,Engineering,3.69,2020-01-19
+101081,Eka,Law,2.18,2022-05-08
+101082,Ari,Computer Science,2.79,2018-04-19
+101083,Ari,Computer Science,2.32,2019-03-12
+101084,Ari,Business,2.45,2020-07-09
+101085,Cici,Computer Science,3.87,2021-12-22
+101086,Cici,Engineering,2.37,2022-05-14
+101087,Dina,Business,3.33,2018-02-07
+101088,Ari,Computer Science,3.55,2019-07-24
+101089,Dina,Computer Science,3.52,2019-06-21
+101090,Cici,Computer Science,2.33,2018-05-02
+101091,Ari,Business,3.31,2022-07-04
+101092,Cici,Engineering,3.44,2020-03-10
+101093,Eka,Law,3.66,2022-02-25
+101094,Eka,Computer Science,3.71,2019-12-11
+101095,Dina,Law,3.55,2019-02-16
+101096,Cici,Engineering,3.69,2018-06-01
+101097,Budi,Engineering,3.11,2018-12-31
+101098,Ari,Business,3.27,2020-12-22
+101099,Budi,Law,3.99,2020-04-24
+101100,Cici,Business,3.4,2019-11-16
+101101,Budi,Engineering,2.77,2019-10-04
+101102,Cici,Engineering,3.17,2021-08-18
+101103,Cici,Computer Science,2.56,2020-01-03
+101104,Ari,Business,2.21,2020-08-29
+101105,Dina,Engineering,3.51,2018-11-22
+101106,Ari,Engineering,2.43,2018-02-17
+101107,Budi,Engineering,3.68,2022-07-16
+101108,Dina,Business,3.94,2020-08-20
+101109,Ari,Law,3.28,2022-02-11
+101110,Budi,Engineering,2.75,2018-01-14
+101111,Dina,Law,3.01,2022-07-28
+101112,Cici,Computer Science,3.62,2018-11-16
+101113,Ari,Law,2.6,2022-02-02
+101114,Dina,Business,3.87,2022-04-24
+101115,Eka,Computer Science,2.4,2021-05-31
+101116,Dina,Computer Science,2.01,2020-10-14
+101117,Cici,Engineering,2.62,2020-08-17
+101118,Ari,Law,2.94,2021-08-06
+101119,Dina,Business,2.1,2018-08-14
+101120,Dina,Law,2.7,2018-01-07
+101121,Ari,Law,3.71,2021-09-16
+101122,Dina,Computer Science,3.47,2021-12-28
+101123,Cici,Engineering,3.83,2020-07-14
+101124,Budi,Business,2.2,2019-01-03
+101125,Eka,Law,2.98,2022-03-31
+101126,Dina,Computer Science,3.31,2019-08-11
+101127,Ari,Business,3.6,2019-06-15
+101128,Dina,Computer Science,3.2,2020-10-20
+101129,Budi,Computer Science,2.56,2021-01-30
+101130,Cici,Computer Science,3.78,2022-02-05
+101131,Ari,Business,3.67,2018-01-09
+101132,Dina,Engineering,3.32,2019-05-31
+101133,Dina,Engineering,3.13,2018-07-02
+101134,Dina,Law,2.29,2019-09-07
+101135,Budi,Law,2.68,2018-12-12
+101136,Cici,Engineering,2.22,2022-06-14
+101137,Budi,Law,3.01,2019-10-31
+101138,Ari,Law,3.4,2021-04-04
+101139,Budi,Computer Science,3.98,2022-08-07
+101140,Eka,Law,2.02,2021-03-10
+101141,Eka,Business,2.54,2019-05-21
+101142,Eka,Engineering,2.92,2018-05-14
+101143,Ari,Engineering,3.7,2018-12-22
+101144,Dina,Computer Science,2.42,2019-07-05
+101145,Dina,Computer Science,2.52,2022-10-05
+101146,Eka,Engineering,3.32,2020-11-08
+101147,Ari,Law,3.56,2018-01-24
+101148,Budi,Law,3.96,2018-12-25
+101149,Eka,Computer Science,3.96,2019-05-07
+101150,Dina,Computer Science,2.56,2020-09-11
+101151,Budi,Business,2.41,2019-09-18
+101152,Dina,Computer Science,2.91,2020-11-10
+101153,Cici,Computer Science,2.33,2022-03-23
+101154,Budi,Engineering,2.42,2019-11-04
+101155,Cici,Computer Science,2.55,2022-05-29
+101156,Eka,Law,3.7,2019-02-14
+101157,Eka,Law,2.61,2020-02-27
+101158,Ari,Business,3.07,2020-10-29
+101159,Eka,Computer Science,2.46,2020-06-10
+101160,Dina,Law,3.49,2020-11-20
+101161,Ari,Business,2.41,2018-08-28
+101162,Budi,Engineering,3.59,2022-06-24
+101163,Dina,Computer Science,2.4,2020-10-02
+101164,Budi,Law,2.89,2020-08-29
+101165,Cici,Business,2.46,2018-02-19
+101166,Budi,Computer Science,3.16,2019-07-11
+101167,Budi,Engineering,3.2,2021-03-13
+101168,Budi,Engineering,3.65,2021-12-07
+101169,Ari,Engineering,2.19,2018-06-02
+101170,Cici,Engineering,3.47,2019-09-26
+101171,Eka,Law,3.58,2019-05-08
+101172,Cici,Computer Science,3.76,2019-04-03
+101173,Eka,Engineering,3.67,2021-01-27
+101174,Cici,Business,3.54,2019-03-20
+101175,Dina,Engineering,3.72,2022-12-18
+101176,Budi,Law,2.07,2018-09-21
+101177,Eka,Law,3.16,2020-01-14
+101178,Ari,Business,2.55,2021-08-16
+101179,Dina,Computer Science,2.31,2021-05-26
+101180,Ari,Law,3.73,2022-10-02
+101181,Dina,Business,3.23,2019-06-06
+101182,Dina,Engineering,2.04,2021-02-15
+101183,Dina,Business,3.5,2018-08-04
+101184,Budi,Computer Science,2.48,2022-03-14
+101185,Ari,Computer Science,2.67,2021-09-12
+101186,Budi,Law,3.09,2019-08-08
+101187,Eka,Law,2.09,2022-02-14
+101188,Dina,Law,2.29,2019-12-14
+101189,Eka,Engineering,3.82,2022-12-16
+101190,Cici,Computer Science,2.52,2018-10-17
+101191,Ari,Business,2.66,2018-04-29
+101192,Eka,Computer Science,2.99,2019-07-15
+101193,Ari,Engineering,2.34,2020-09-23
+101194,Ari,Engineering,2.59,2021-03-07
+101195,Dina,Law,2.31,2019-01-12
+101196,Budi,Law,2.79,2022-09-09
+101197,Dina,Law,2.2,2022-01-19
+101198,Dina,Law,3.23,2018-07-31
+101199,Ari,Computer Science,3.2,2018-08-31
+101200,Ari,Engineering,,2018-01-08
+101201,Dina,Engineering,2.91,2018-03-16
+101202,Budi,Law,2.38,2021-08-18
+101203,Dina,Engineering,3.42,2021-08-14
+101204,Ari,Computer Science,3.02,2022-01-12
+101205,Eka,Engineering,2.14,2018-08-27
+101206,Budi,Business,3.49,2018-11-26
+101207,Dina,Engineering,3.15,2020-05-19
+101208,Ari,Business,2.75,2019-10-19
+101209,Eka,Engineering,3.61,2020-04-25
+101210,Eka,Computer Science,2.09,2019-05-14
+101211,Budi,Law,2.62,2021-06-23
+101212,Eka,Law,3.76,2021-04-23
+101213,Dina,Computer Science,3.04,2019-04-21
+101214,Cici,Law,3.84,2018-09-09
+101215,Eka,Engineering,3.47,2018-04-19
+101216,Budi,Business,2.1,2019-04-26
+101217,Dina,Computer Science,2.45,2018-11-11
+101218,Dina,Computer Science,2.79,2018-05-14
+101219,Budi,Computer Science,2.45,2022-08-18
+101220,Budi,Law,2.64,2020-03-31
+101221,Eka,Law,3.36,2022-09-09
+101222,Ari,Law,2.33,2022-02-12
+101223,Cici,Computer Science,3.06,2020-01-02
+101224,Budi,Computer Science,3.65,2019-01-30
+101225,Eka,Computer Science,3.06,2021-11-24
+101226,Budi,Law,2.74,2021-02-23
+101227,Dina,Computer Science,3.18,2019-04-06
+101228,Ari,Engineering,2.41,2022-02-08
+101229,Eka,Engineering,2.62,2019-05-05
+101230,Dina,Engineering,3.92,2019-01-04
+101231,Cici,Engineering,2.42,2020-08-21
+101232,Ari,Engineering,3.71,2021-07-25
+101233,Cici,Engineering,2.53,2022-04-20
+101234,Cici,Business,3.03,2018-02-13
+101235,Cici,Law,3.75,2018-03-27
+101236,Dina,Business,3.36,2021-10-27
+101237,Dina,Computer Science,2.05,2021-02-14
+101238,Cici,Law,3.34,2021-02-26
+101239,Budi,Business,2.56,2022-12-07
+101240,Ari,Law,2.1,2022-05-25
+101241,Budi,Engineering,3.67,2018-10-03
+101242,Budi,Law,2.61,2022-08-20
+101243,Dina,Computer Science,2.51,2021-12-18
+101244,Ari,Computer Science,3.68,2022-09-24
+101245,Dina,Computer Science,2.24,2019-04-18
+101246,Ari,Business,2.82,2020-05-23
+101247,Dina,Computer Science,3.79,2020-03-14
+101248,Dina,Engineering,2.58,2020-10-30
+101249,Budi,Computer Science,2.37,2021-05-04
+101250,Dina,Computer Science,3.24,2020-01-04
+101251,Eka,Engineering,3.23,2020-08-19
+101252,Dina,Business,2.13,2020-05-11
+101253,Dina,Law,3.09,2019-08-23
+101254,Budi,Business,2.59,2019-01-06
+101255,Ari,Computer Science,2.52,2022-10-09
+101256,Dina,Business,3.85,2018-02-01
+101257,Budi,Engineering,3.57,2018-05-25
+101258,Dina,Computer Science,2.32,2019-07-27
+101259,Ari,Business,2.66,2019-01-11
+101260,Budi,Business,2.26,2019-12-05
+101261,Budi,Business,3.59,2020-05-23
+101262,Eka,Business,3.37,2020-02-06
+101263,Ari,Computer Science,2.66,2022-02-02
+101264,Cici,Business,2.77,2020-12-05
+101265,Eka,Business,3.3,2022-06-21
+101266,Dina,Business,3.1,2021-07-16
+101267,Eka,Law,3.36,2019-09-14
+101268,Eka,Law,2.88,2019-01-04
+101269,Cici,Law,2.62,2019-02-15
+101270,Dina,Engineering,2.51,2019-12-14
+101271,Eka,Computer Science,3.49,2020-05-18
+101272,Dina,Computer Science,3.06,2020-12-10
+101273,Budi,Business,2.28,2019-05-30
+101274,Ari,Engineering,3.31,2021-01-31
+101275,Dina,Engineering,3.52,2021-07-29
+101276,Ari,Engineering,2.21,2020-09-14
+101277,Eka,Business,2.1,2021-06-17
+101278,Cici,Business,2.88,2020-07-13
+101279,Cici,Business,2.96,2021-09-16
+101280,Eka,Business,2.71,2021-09-29
+101281,Budi,Business,2.22,2018-10-23
+101282,Budi,Computer Science,3.77,2020-08-18
+101283,Eka,Law,2.87,2020-10-06
+101284,Dina,Business,3.5,2022-04-17
+101285,Eka,Computer Science,3.67,2019-07-04
+101286,Ari,Computer Science,3.15,2020-08-12
+101287,Ari,Computer Science,3.34,2022-05-26
+101288,Cici,Law,2.04,2022-05-18
+101289,Dina,Business,2.21,2018-04-19
+101290,Ari,Computer Science,3.21,2020-08-26
+101291,Eka,Business,3.15,2022-10-09
+101292,Cici,Computer Science,2.37,2021-05-24
+101293,Budi,Law,3.56,2021-08-24
+101294,Cici,Computer Science,3.92,2020-06-29
+101295,Cici,Engineering,2.22,2020-04-26
+101296,Dina,Computer Science,2.19,2020-03-14
+101297,Cici,Business,2.36,2021-01-15
+101298,Ari,Engineering,3.93,2022-04-27
+101299,Dina,Engineering,2.64,2019-11-13
+101300,Budi,Engineering,3.25,2020-07-31
+101301,Cici,Law,3.66,2020-04-16
+101302,Eka,Business,2.18,2022-04-04
+101303,Dina,Business,2.08,2022-01-20
+101304,Eka,Business,3.97,2022-01-05
+101305,Eka,Computer Science,2.41,2021-06-11
+101306,Cici,Engineering,3.63,2020-12-19
+101307,Dina,Business,3.11,2022-11-09
+101308,Dina,Engineering,2.02,2022-03-20
+101309,Ari,Law,3.97,2019-04-05
+101310,Dina,Computer Science,2.32,2020-06-03
+101311,Cici,Computer Science,3.31,2022-12-26
+101312,Cici,Law,3.27,2022-09-11
+101313,Ari,Computer Science,3.11,2019-06-13
+101314,Cici,Computer Science,3.98,2022-04-10
+101315,Ari,Business,2.24,2022-12-03
+101316,Ari,Business,3.57,2018-07-08
+101317,Dina,Business,2.52,2019-03-31
+101318,Budi,Computer Science,3.17,2019-09-04
+101319,Ari,Business,2.9,2020-03-08
+101320,Budi,Law,2.28,2021-04-13
+101321,Eka,Computer Science,2.34,2020-05-14
+101322,Eka,Engineering,3.85,2021-07-14
+101323,Budi,Law,2.35,2021-08-24
+101324,Budi,Engineering,3.13,2020-03-01
+101325,Cici,Computer Science,3.78,2022-06-28
+101326,Cici,Engineering,2.63,2019-08-23
+101327,Ari,Computer Science,2.9,2020-02-02
+101328,Cici,Law,2.73,2019-02-01
+101329,Eka,Computer Science,3.22,2022-12-18
+101330,Budi,Law,3.73,2019-11-08
+101331,Eka,Computer Science,3.23,2020-07-19
+101332,Ari,Computer Science,3.78,2019-04-17
+101333,Ari,Computer Science,2.35,2021-11-28
+101334,Ari,Business,2.21,2018-02-25
+101335,Dina,Business,2.35,2021-03-07
+101336,Dina,Engineering,3.66,2018-12-02
+101337,Ari,Law,2.8,2019-10-12
+101338,Dina,Law,3.08,2018-02-25
+101339,Budi,Engineering,2.34,2018-10-29
+101340,Eka,Business,3.96,2021-02-26
+101341,Cici,Engineering,2.55,2022-11-09
+101342,Dina,Computer Science,3.11,2022-10-13
+101343,Budi,Computer Science,2.82,2021-11-13
+101344,Budi,Business,2.01,2021-10-31
+101345,Budi,Business,2.47,2018-11-14
+101346,Cici,Business,2.41,2022-09-26
+101347,Ari,Law,3.37,2020-11-22
+101348,Budi,Law,3.73,2019-01-09
+101349,Budi,Computer Science,3.2,2020-07-27
+101350,Eka,Law,2.8,2022-03-21
+101351,Ari,Engineering,3.96,2018-06-16
+101352,Ari,Law,2.89,2022-09-02
+101353,Cici,Engineering,3.5,2019-01-27
+101354,Cici,Business,3.83,2020-08-28
+101355,Budi,Business,3.46,2020-12-30
+101356,Budi,Engineering,3.85,2022-02-06
+101357,Ari,Computer Science,3.13,2018-06-02
+101358,Budi,Engineering,2.02,2021-12-18
+101359,Dina,Business,3.33,2020-05-04
+101360,Eka,Business,2.52,2020-04-28
+101361,Budi,Computer Science,3.56,2021-07-11
+101362,Cici,Business,3.02,2022-01-09
+101363,Ari,Business,2.15,2022-07-12
+101364,Ari,Business,2.05,2019-12-18
+101365,Dina,Law,3.79,2018-09-09
+101366,Eka,Law,3.74,2018-07-14
+101367,Ari,Business,2.98,2020-12-04
+101368,Eka,Engineering,2.93,2018-06-17
+101369,Eka,Computer Science,2.31,2020-12-26
+101370,Eka,Law,2.68,2019-06-15
+101371,Budi,Business,3.72,2022-11-04
+101372,Ari,Computer Science,3.23,2020-04-27
+101373,Cici,Engineering,3.16,2020-05-07
+101374,Dina,Business,2.3,2020-04-12
+101375,Cici,Business,2.82,2018-01-22
+101376,Budi,Computer Science,3.89,2020-07-25
+101377,Eka,Business,2.61,2022-05-07
+101378,Cici,Engineering,3.29,2021-10-29
+101379,Budi,Law,2.7,2019-02-02
+101380,Ari,Business,2.08,2018-07-03
+101381,Eka,Business,2.54,2020-06-24
+101382,Cici,Business,2.28,2018-08-18
+101383,Budi,Computer Science,3.69,2022-08-13
+101384,Eka,Law,2.53,2020-04-27
+101385,Dina,Law,2.97,2018-02-24
+101386,Eka,Engineering,3.75,2021-01-13
+101387,Budi,Business,3.63,2020-01-01
+101388,Cici,Law,3.17,2022-08-12
+101389,Eka,Law,2.12,2018-02-07
+101390,Dina,Computer Science,2.43,2021-06-20
+101391,Budi,Law,3.47,2022-06-26
+101392,Cici,Law,3.81,2022-05-29
+101393,Cici,Law,3.86,2020-05-16
+101394,Ari,Law,3.22,2022-03-19
+101395,Budi,Engineering,3.86,2021-11-14
+101396,Dina,Computer Science,2.89,2020-03-14
+101397,Ari,Engineering,3.62,2020-05-21
+101398,Cici,Business,2.03,2020-02-29
+101399,Cici,Law,2.25,2022-07-07
+101400,Eka,Business,,2022-08-12
+101401,Cici,Computer Science,2.84,2018-02-06
+101402,Dina,Law,3.41,2020-08-20
+101403,Budi,Law,2.28,2018-12-06
+101404,Eka,Computer Science,2.23,2020-08-05
+101405,Budi,Business,3.06,2022-01-07
+101406,Eka,Computer Science,2.47,2022-11-26
+101407,Eka,Computer Science,3.72,2022-02-23
+101408,Budi,Law,2.24,2018-12-08
+101409,Budi,Engineering,3.74,2022-09-12
+101410,Dina,Law,2.67,2021-02-02
+101411,Cici,Business,2.62,2021-12-02
+101412,Dina,Computer Science,3.75,2021-12-19
+101413,Budi,Engineering,3.39,2020-07-20
+101414,Cici,Law,3.86,2019-02-23
+101415,Ari,Law,2.91,2022-11-05
+101416,Dina,Business,3.52,2020-04-20
+101417,Cici,Business,3.7,2020-03-01
+101418,Cici,Computer Science,2.67,2022-04-13
+101419,Eka,Engineering,2.39,2019-11-30
+101420,Dina,Business,3.1,2018-10-14
+101421,Dina,Engineering,3.84,2020-10-10
+101422,Ari,Engineering,2.47,2022-12-11
+101423,Dina,Law,3.42,2022-06-06
+101424,Eka,Business,2.59,2019-05-24
+101425,Budi,Law,3.45,2021-08-31
+101426,Dina,Business,2.01,2022-05-19
+101427,Budi,Law,2.33,2020-12-16
+101428,Eka,Business,3.11,2020-12-31
+101429,Ari,Law,2.56,2022-10-27
+101430,Eka,Computer Science,2.75,2022-01-05
+101431,Dina,Law,2.63,2018-12-31
+101432,Cici,Business,3.92,2021-11-30
+101433,Cici,Business,3.97,2018-02-14
+101434,Cici,Engineering,3.5,2020-02-24
+101435,Eka,Computer Science,3.86,2020-11-22
+101436,Eka,Computer Science,3.89,2019-10-14
+101437,Budi,Engineering,2.04,2018-02-19
+101438,Cici,Engineering,3.46,2018-03-07
+101439,Ari,Engineering,3.74,2019-03-04
+101440,Eka,Business,2.98,2018-04-23
+101441,Cici,Computer Science,2.93,2019-12-24
+101442,Cici,Business,3.52,2020-09-06
+101443,Dina,Computer Science,2.68,2022-04-19
+101444,Cici,Business,2.62,2020-06-11
+101445,Budi,Law,3.81,2018-07-25
+101446,Budi,Business,3.77,2020-11-09
+101447,Budi,Law,3.61,2022-08-12
+101448,Cici,Law,2.64,2021-06-06
+101449,Dina,Business,3.16,2020-08-14
+101450,Ari,Engineering,3.45,2019-05-05
+101451,Budi,Engineering,2.69,2021-08-10
+101452,Cici,Computer Science,3.24,2022-05-10
+101453,Eka,Computer Science,3.26,2018-01-21
+101454,Budi,Engineering,3.2,2018-01-07
+101455,Cici,Computer Science,2.96,2020-01-15
+101456,Budi,Business,3.63,2019-03-30
+101457,Dina,Business,2.76,2020-02-27
+101458,Budi,Business,3.21,2022-07-15
+101459,Cici,Business,2.01,2018-06-03
+101460,Cici,Business,2.42,2021-04-13
+101461,Cici,Business,2.06,2022-09-05
+101462,Cici,Business,3.93,2018-02-24
+101463,Cici,Business,2.27,2018-06-27
+101464,Eka,Engineering,2.47,2022-10-16
+101465,Budi,Engineering,3.44,2021-05-21
+101466,Dina,Engineering,3.63,2019-09-24
+101467,Ari,Business,2.64,2022-08-21
+101468,Cici,Computer Science,3.49,2021-04-12
+101469,Ari,Engineering,2.46,2020-03-25
+101470,Dina,Law,2.13,2022-02-06
+101471,Eka,Engineering,2.32,2019-01-04
+101472,Cici,Computer Science,3.72,2018-11-26
+101473,Budi,Computer Science,3.8,2019-06-27
+101474,Eka,Computer Science,2.48,2022-12-22
+101475,Cici,Law,3.69,2022-10-10
+101476,Eka,Business,3.13,2018-04-26
+101477,Ari,Engineering,3.3,2019-11-22
+101478,Budi,Business,2.49,2021-06-16
+101479,Cici,Law,3.91,2022-01-20
+101480,Budi,Business,3.87,2021-06-03
+101481,Eka,Business,3.36,2018-11-22
+101482,Ari,Engineering,2.7,2021-05-11
+101483,Eka,Engineering,2.4,2020-12-28
+101484,Ari,Engineering,2.52,2022-11-05
+101485,Cici,Engineering,3.06,2019-07-08
+101486,Dina,Law,2.87,2021-11-15
+101487,Cici,Engineering,3.4,2019-01-24
+101488,Ari,Computer Science,3.82,2019-07-16
+101489,Dina,Computer Science,3.17,2020-06-04
+101490,Ari,Computer Science,3.25,2022-03-18
+101491,Cici,Engineering,2.03,2019-12-29
+101492,Ari,Law,3.46,2021-09-09
+101493,Dina,Law,3.56,2021-08-21
+101494,Dina,Business,3.55,2018-09-15
+101495,Eka,Law,3.71,2021-09-12
+101496,Budi,Business,3.07,2020-08-07
+101497,Dina,Business,3.71,2019-03-26
+101498,Eka,Computer Science,3.8,2020-05-02
+101499,Budi,Computer Science,2.33,2019-05-17
+101500,Eka,Business,3.41,2022-11-26
+101501,Eka,Engineering,3.11,2020-04-01
+101502,Eka,Computer Science,2.3,2020-10-25
+101503,Ari,Business,3.76,2019-06-29
+101504,Budi,Engineering,3.48,2022-11-06
+101505,Ari,Computer Science,2.61,2018-10-02
+101506,Eka,Computer Science,3.99,2022-02-23
+101507,Budi,Business,3.54,2022-01-19
+101508,Cici,Business,2.9,2022-12-02
+101509,Budi,Business,3.5,2022-02-05
+101510,Eka,Computer Science,2.85,2019-08-02
+101511,Eka,Law,3.84,2021-11-17
+101512,Dina,Business,3.3,2018-11-15
+101513,Ari,Law,2.02,2020-11-26
+101514,Cici,Business,3.45,2020-05-02
+101515,Dina,Business,2.69,2019-07-05
+101516,Budi,Computer Science,3.68,2018-04-30
+101517,Ari,Computer Science,3.97,2018-12-07
+101518,Eka,Business,3.98,2020-05-06
+101519,Dina,Computer Science,3.89,2020-02-03
+101520,Budi,Law,3.0,2019-02-14
+101521,Budi,Engineering,2.49,2020-05-16
+101522,Ari,Engineering,2.22,2020-01-11
+101523,Budi,Law,2.29,2020-03-08
+101524,Cici,Business,3.17,2021-02-19
+101525,Eka,Engineering,3.75,2020-12-06
+101526,Ari,Business,3.76,2021-11-07
+101527,Eka,Engineering,3.19,2018-04-10
+101528,Dina,Computer Science,2.03,2018-12-07
+101529,Eka,Law,2.14,2020-03-12
+101530,Cici,Engineering,2.39,2020-06-10
+101531,Dina,Law,2.2,2020-09-15
+101532,Budi,Computer Science,3.62,2022-10-12
+101533,Ari,Computer Science,2.44,2018-09-08
+101534,Cici,Law,2.58,2020-11-08
+101535,Cici,Law,2.5,2022-03-24
+101536,Dina,Business,3.83,2018-01-04
+101537,Eka,Business,3.62,2019-11-07
+101538,Eka,Business,2.95,2019-05-14
+101539,Eka,Business,2.16,2021-07-26
+101540,Cici,Business,2.98,2021-04-13
+101541,Cici,Law,3.05,2020-10-20
+101542,Dina,Law,3.58,2022-12-07
+101543,Cici,Engineering,2.19,2018-02-08
+101544,Dina,Computer Science,3.34,2018-08-11
+101545,Cici,Computer Science,2.13,2022-10-27
+101546,Budi,Business,2.61,2020-01-24
+101547,Ari,Computer Science,3.91,2019-04-19
+101548,Cici,Law,3.59,2019-11-19
+101549,Budi,Computer Science,3.69,2022-04-24
+101550,Cici,Computer Science,2.37,2019-03-28
+101551,Ari,Computer Science,2.25,2019-12-11
+101552,Cici,Law,3.62,2022-02-25
+101553,Dina,Engineering,2.34,2018-09-24
+101554,Dina,Law,2.03,2019-11-13
+101555,Ari,Computer Science,3.41,2020-12-18
+101556,Ari,Engineering,3.56,2018-12-17
+101557,Budi,Computer Science,3.93,2020-02-10
+101558,Eka,Engineering,3.62,2020-12-08
+101559,Dina,Business,2.45,2020-09-14
+101560,Eka,Law,3.64,2019-12-30
+101561,Cici,Engineering,3.71,2018-02-07
+101562,Budi,Computer Science,3.32,2019-04-19
+101563,Dina,Business,3.77,2021-04-21
+101564,Dina,Engineering,2.85,2020-08-19
+101565,Eka,Law,3.37,2021-11-19
+101566,Dina,Engineering,3.11,2021-02-13
+101567,Dina,Business,2.65,2021-06-04
+101568,Eka,Business,2.22,2021-08-11
+101569,Ari,Computer Science,2.92,2019-12-10
+101570,Budi,Law,2.15,2021-12-12
+101571,Budi,Computer Science,2.58,2020-06-28
+101572,Ari,Business,3.25,2022-06-20
+101573,Dina,Computer Science,2.79,2020-06-03
+101574,Ari,Business,2.08,2022-12-23
+101575,Ari,Law,2.62,2021-07-24
+101576,Budi,Business,3.02,2022-07-17
+101577,Budi,Engineering,2.89,2021-06-28
+101578,Cici,Engineering,3.81,2021-12-18
+101579,Budi,Law,2.47,2020-08-04
+101580,Budi,Engineering,3.2,2018-11-15
+101581,Dina,Business,3.87,2020-12-11
+101582,Dina,Engineering,2.76,2022-11-17
+101583,Ari,Law,2.73,2021-10-12
+101584,Cici,Law,2.1,2020-08-22
+101585,Eka,Computer Science,3.0,2018-10-12
+101586,Eka,Business,3.88,2022-10-10
+101587,Dina,Law,2.24,2018-12-30
+101588,Dina,Law,2.65,2019-12-06
+101589,Dina,Computer Science,3.39,2020-03-22
+101590,Dina,Computer Science,2.84,2019-07-16
+101591,Eka,Business,3.87,2022-01-24
+101592,Ari,Business,2.18,2018-06-21
+101593,Cici,Law,2.05,2022-08-16
+101594,Eka,Business,3.17,2021-12-08
+101595,Dina,Law,3.31,2020-05-10
+101596,Budi,Computer Science,3.01,2020-06-04
+101597,Eka,Computer Science,3.82,2022-06-25
+101598,Cici,Business,3.03,2018-08-21
+101599,Dina,Business,3.08,2018-04-05
+101600,Budi,Business,,2022-03-15
+101601,Cici,Business,3.4,2021-04-12
+101602,Budi,Engineering,3.4,2020-09-28
+101603,Ari,Business,2.35,2020-01-04
+101604,Dina,Business,2.56,2022-10-30
+101605,Budi,Computer Science,3.54,2022-02-06
+101606,Dina,Business,3.75,2020-01-27
+101607,Ari,Business,3.06,2018-05-17
+101608,Cici,Engineering,3.99,2020-06-28
+101609,Ari,Business,3.44,2020-07-29
+101610,Budi,Law,3.7,2022-06-04
+101611,Dina,Law,2.22,2020-02-24
+101612,Dina,Computer Science,2.59,2020-12-22
+101613,Cici,Engineering,3.28,2021-07-30
+101614,Eka,Law,3.17,2019-07-13
+101615,Budi,Computer Science,2.72,2021-09-22
+101616,Cici,Law,4.0,2022-09-26
+101617,Budi,Law,2.03,2018-06-02
+101618,Budi,Computer Science,2.54,2020-02-13
+101619,Ari,Computer Science,2.22,2019-07-26
+101620,Cici,Engineering,2.36,2021-02-28
+101621,Ari,Engineering,3.3,2019-10-13
+101622,Eka,Law,2.73,2019-05-04
+101623,Ari,Law,2.4,2022-03-27
+101624,Ari,Engineering,3.73,2022-05-11
+101625,Budi,Computer Science,3.38,2020-07-18
+101626,Dina,Business,2.28,2018-06-09
+101627,Cici,Engineering,3.19,2020-03-03
+101628,Budi,Computer Science,3.72,2020-02-18
+101629,Budi,Computer Science,2.04,2018-08-31
+101630,Cici,Engineering,2.95,2018-07-25
+101631,Cici,Engineering,3.37,2020-10-01
+101632,Eka,Engineering,3.83,2020-04-19
+101633,Eka,Engineering,3.16,2020-05-02
+101634,Budi,Engineering,2.44,2019-07-26
+101635,Cici,Engineering,2.55,2020-01-06
+101636,Eka,Law,3.0,2020-07-07
+101637,Eka,Engineering,2.42,2018-03-22
+101638,Dina,Engineering,2.52,2020-11-13
+101639,Budi,Business,3.14,2019-01-12
+101640,Ari,Business,3.43,2018-10-04
+101641,Eka,Computer Science,2.19,2020-01-02
+101642,Dina,Business,3.74,2021-08-03
+101643,Ari,Business,2.32,2019-05-07
+101644,Budi,Law,3.64,2019-05-31
+101645,Eka,Computer Science,3.99,2018-03-09
+101646,Eka,Law,3.24,2019-11-27
+101647,Dina,Computer Science,3.75,2018-08-12
+101648,Ari,Business,3.91,2022-08-14
+101649,Dina,Law,2.29,2022-03-16
+101650,Dina,Computer Science,2.92,2021-06-16
+101651,Cici,Computer Science,3.54,2021-11-19
+101652,Dina,Business,2.17,2018-05-01
+101653,Dina,Engineering,2.34,2020-06-22
+101654,Budi,Law,3.13,2021-11-06
+101655,Eka,Business,3.63,2018-09-29
+101656,Ari,Computer Science,2.44,2018-07-20
+101657,Cici,Business,2.38,2019-06-26
+101658,Budi,Business,2.62,2019-05-24
+101659,Cici,Computer Science,2.83,2018-01-31
+101660,Dina,Computer Science,2.53,2019-08-20
+101661,Budi,Computer Science,2.17,2020-03-13
+101662,Eka,Law,3.59,2022-11-22
+101663,Cici,Law,2.94,2022-04-28
+101664,Dina,Law,2.49,2020-08-04
+101665,Eka,Engineering,3.6,2018-07-21
+101666,Ari,Law,3.4,2021-12-16
+101667,Budi,Engineering,3.16,2018-01-07
+101668,Dina,Engineering,2.39,2021-09-03
+101669,Dina,Computer Science,3.06,2018-08-05
+101670,Cici,Law,2.02,2022-08-24
+101671,Cici,Business,3.99,2018-07-02
+101672,Eka,Business,2.65,2022-05-18
+101673,Eka,Engineering,2.1,2019-06-02
+101674,Ari,Computer Science,2.62,2020-10-10
+101675,Cici,Business,2.11,2018-04-11
+101676,Eka,Law,3.3,2022-06-15
+101677,Budi,Engineering,3.52,2022-11-10
+101678,Budi,Law,3.26,2022-12-17
+101679,Eka,Engineering,2.96,2021-01-24
+101680,Dina,Engineering,2.38,2022-01-01
+101681,Cici,Law,2.04,2018-03-12
+101682,Dina,Business,2.73,2022-05-31
+101683,Eka,Law,2.32,2019-08-05
+101684,Eka,Law,2.52,2018-10-05
+101685,Dina,Law,3.02,2018-11-03
+101686,Cici,Computer Science,3.23,2022-05-27
+101687,Ari,Engineering,3.35,2022-07-25
+101688,Dina,Law,2.13,2018-10-19
+101689,Eka,Business,2.73,2019-05-20
+101690,Dina,Computer Science,3.9,2018-12-26
+101691,Dina,Business,2.6,2018-07-24
+101692,Dina,Computer Science,2.07,2021-08-27
+101693,Ari,Business,3.24,2020-08-22
+101694,Eka,Business,2.72,2020-09-13
+101695,Cici,Computer Science,2.82,2018-07-09
+101696,Ari,Law,2.22,2020-02-12
+101697,Dina,Engineering,3.09,2019-04-21
+101698,Eka,Computer Science,2.66,2018-08-20
+101699,Ari,Computer Science,2.13,2021-08-15
+101700,Budi,Engineering,2.58,2022-03-31
+101701,Cici,Computer Science,2.99,2018-05-26
+101702,Eka,Engineering,2.71,2021-07-05
+101703,Eka,Computer Science,2.0,2019-10-16
+101704,Ari,Engineering,3.2,2020-07-21
+101705,Eka,Computer Science,3.04,2021-11-08
+101706,Ari,Law,3.94,2020-12-01
+101707,Cici,Law,3.1,2022-08-18
+101708,Cici,Engineering,3.16,2018-10-04
+101709,Eka,Engineering,3.84,2022-11-05
+101710,Eka,Business,3.46,2020-06-11
+101711,Cici,Engineering,3.5,2022-06-05
+101712,Dina,Computer Science,2.82,2022-01-10
+101713,Budi,Business,2.98,2018-10-30
+101714,Ari,Business,2.62,2020-06-25
+101715,Ari,Engineering,2.82,2018-04-23
+101716,Budi,Computer Science,2.96,2020-08-02
+101717,Budi,Engineering,3.75,2022-09-02
+101718,Ari,Business,3.77,2022-03-02
+101719,Dina,Engineering,2.46,2019-08-24
+101720,Dina,Law,3.89,2022-09-26
+101721,Cici,Business,2.87,2022-10-05
+101722,Eka,Law,3.99,2022-07-18
+101723,Eka,Business,2.2,2019-06-24
+101724,Dina,Law,3.48,2018-02-28
+101725,Cici,Law,2.82,2018-01-14
+101726,Eka,Computer Science,3.26,2018-02-18
+101727,Dina,Law,2.53,2022-12-31
+101728,Eka,Engineering,3.89,2021-02-16
+101729,Budi,Computer Science,2.66,2018-02-07
+101730,Ari,Business,2.28,2022-12-05
+101731,Dina,Computer Science,3.16,2021-02-16
+101732,Eka,Computer Science,2.77,2018-06-28
+101733,Ari,Engineering,3.64,2019-11-13
+101734,Ari,Business,3.11,2018-11-25
+101735,Ari,Law,2.14,2020-10-01
+101736,Eka,Business,2.48,2018-05-04
+101737,Cici,Business,3.45,2022-12-13
+101738,Eka,Computer Science,3.56,2018-12-12
+101739,Cici,Business,3.13,2018-01-29
+101740,Budi,Law,2.01,2022-07-01
+101741,Eka,Computer Science,3.55,2022-08-01
+101742,Cici,Computer Science,3.6,2022-05-28
+101743,Dina,Business,2.29,2022-10-06
+101744,Budi,Engineering,2.62,2018-12-28
+101745,Eka,Computer Science,2.91,2018-07-10
+101746,Cici,Engineering,3.46,2021-07-01
+101747,Dina,Law,2.33,2019-05-31
+101748,Eka,Engineering,2.0,2019-10-06
+101749,Cici,Law,2.27,2021-10-06
+101750,Cici,Business,3.51,2022-02-20
+101751,Budi,Business,3.02,2019-09-14
+101752,Budi,Engineering,3.35,2021-03-28
+101753,Cici,Business,2.38,2018-04-17
+101754,Budi,Computer Science,2.68,2022-02-08
+101755,Ari,Engineering,3.07,2022-05-31
+101756,Cici,Business,2.88,2021-05-23
+101757,Eka,Business,3.97,2020-10-09
+101758,Dina,Engineering,2.34,2021-02-02
+101759,Cici,Computer Science,3.95,2018-11-13
+101760,Cici,Computer Science,3.58,2019-02-21
+101761,Budi,Engineering,3.89,2021-06-09
+101762,Ari,Law,2.66,2021-11-21
+101763,Budi,Law,2.45,2021-05-04
+101764,Cici,Computer Science,3.94,2019-08-10
+101765,Ari,Law,2.35,2020-03-08
+101766,Eka,Law,2.76,2018-10-15
+101767,Cici,Business,3.24,2022-04-15
+101768,Ari,Engineering,2.46,2018-03-24
+101769,Eka,Business,3.8,2018-01-09
+101770,Eka,Engineering,2.64,2020-04-02
+101771,Ari,Engineering,3.97,2019-07-27
+101772,Cici,Engineering,3.06,2021-03-24
+101773,Budi,Law,2.7,2021-07-06
+101774,Ari,Business,3.89,2022-01-21
+101775,Eka,Business,2.98,2022-12-16
+101776,Budi,Computer Science,2.16,2019-10-23
+101777,Dina,Business,2.07,2018-05-06
+101778,Eka,Business,3.03,2018-10-22
+101779,Dina,Law,2.34,2019-09-30
+101780,Dina,Computer Science,3.32,2021-03-10
+101781,Ari,Engineering,3.22,2019-04-22
+101782,Cici,Business,3.26,2021-02-25
+101783,Budi,Engineering,3.28,2020-04-15
+101784,Dina,Business,3.1,2019-01-26
+101785,Ari,Business,3.97,2018-12-02
+101786,Dina,Engineering,3.52,2021-12-16
+101787,Cici,Engineering,3.49,2022-07-23
+101788,Dina,Computer Science,2.57,2022-03-30
+101789,Cici,Business,3.35,2020-02-28
+101790,Ari,Business,2.2,2021-03-30
+101791,Ari,Business,3.35,2019-02-23
+101792,Ari,Engineering,3.45,2019-07-21
+101793,Budi,Engineering,2.03,2018-06-03
+101794,Budi,Business,2.77,2021-03-18
+101795,Eka,Law,2.16,2021-06-08
+101796,Dina,Computer Science,2.31,2022-10-27
+101797,Dina,Business,3.07,2019-07-26
+101798,Eka,Law,2.64,2020-10-31
+101799,Ari,Business,2.45,2020-09-19
+101800,Ari,Business,,2020-11-05
+101801,Ari,Engineering,2.02,2020-04-02
+101802,Budi,Computer Science,2.05,2020-02-26
+101803,Budi,Engineering,2.04,2018-04-27
+101804,Eka,Business,3.66,2022-05-24
+101805,Dina,Computer Science,2.77,2019-02-19
+101806,Cici,Engineering,3.61,2019-01-29
+101807,Dina,Computer Science,2.77,2019-09-11
+101808,Dina,Law,2.6,2019-08-01
+101809,Cici,Business,3.96,2021-03-13
+101810,Eka,Computer Science,2.54,2022-08-29
+101811,Eka,Computer Science,3.93,2021-05-12
+101812,Dina,Computer Science,3.72,2021-09-12
+101813,Dina,Business,3.19,2018-09-22
+101814,Cici,Engineering,3.19,2020-08-23
+101815,Ari,Computer Science,3.92,2018-10-07
+101816,Eka,Computer Science,2.14,2020-04-22
+101817,Dina,Engineering,2.53,2019-05-31
+101818,Eka,Computer Science,3.29,2018-07-10
+101819,Budi,Law,3.3,2021-07-15
+101820,Ari,Business,2.95,2022-04-11
+101821,Cici,Law,2.89,2022-07-13
+101822,Ari,Law,3.5,2022-09-19
+101823,Eka,Engineering,3.23,2022-07-10
+101824,Dina,Engineering,3.44,2018-05-15
+101825,Cici,Computer Science,2.36,2019-02-01
+101826,Ari,Business,2.08,2018-07-25
+101827,Budi,Law,3.28,2021-08-28
+101828,Dina,Law,2.69,2022-10-04
+101829,Budi,Engineering,3.05,2021-07-10
+101830,Eka,Engineering,3.42,2022-09-28
+101831,Ari,Computer Science,2.35,2019-11-25
+101832,Cici,Law,2.86,2018-01-23
+101833,Ari,Business,3.37,2022-09-11
+101834,Dina,Business,2.85,2021-09-26
+101835,Cici,Law,3.5,2021-05-06
+101836,Eka,Engineering,2.02,2019-12-10
+101837,Budi,Business,3.94,2020-11-04
+101838,Cici,Business,3.52,2021-04-26
+101839,Eka,Law,3.63,2021-04-12
+101840,Eka,Computer Science,3.61,2021-08-19
+101841,Eka,Computer Science,2.12,2019-04-29
+101842,Ari,Law,2.44,2021-04-06
+101843,Dina,Law,2.29,2021-10-02
+101844,Cici,Engineering,3.17,2021-09-24
+101845,Budi,Engineering,2.72,2020-10-09
+101846,Eka,Law,3.51,2018-12-02
+101847,Eka,Law,3.72,2022-11-04
+101848,Ari,Computer Science,3.61,2022-03-04
+101849,Cici,Business,2.23,2022-11-21
+101850,Cici,Business,3.8,2018-04-17
+101851,Cici,Business,3.12,2018-03-18
+101852,Cici,Law,2.74,2020-11-11
+101853,Cici,Engineering,2.13,2019-07-29
+101854,Cici,Business,2.86,2020-09-20
+101855,Cici,Engineering,3.18,2020-04-21
+101856,Cici,Business,3.79,2021-05-04
+101857,Cici,Computer Science,3.31,2020-03-29
+101858,Budi,Computer Science,2.33,2021-07-27
+101859,Ari,Computer Science,2.04,2020-07-15
+101860,Dina,Computer Science,2.79,2021-01-19
+101861,Budi,Computer Science,2.48,2019-12-01
+101862,Eka,Engineering,3.9,2019-08-19
+101863,Budi,Law,2.71,2018-05-16
+101864,Dina,Computer Science,2.88,2020-03-19
+101865,Eka,Engineering,2.88,2019-06-22
+101866,Cici,Engineering,3.7,2019-09-09
+101867,Cici,Business,3.18,2018-10-27
+101868,Eka,Law,2.02,2019-09-25
+101869,Eka,Law,2.97,2022-10-30
+101870,Cici,Engineering,2.58,2019-01-05
+101871,Cici,Business,3.92,2018-12-01
+101872,Eka,Law,2.19,2022-04-05
+101873,Cici,Business,2.55,2019-05-09
+101874,Dina,Business,2.45,2022-04-27
+101875,Eka,Computer Science,2.23,2019-04-29
+101876,Cici,Business,2.15,2019-02-17
+101877,Cici,Engineering,3.03,2022-06-12
+101878,Cici,Computer Science,2.45,2022-05-27
+101879,Cici,Law,3.33,2019-11-10
+101880,Dina,Engineering,2.22,2020-06-24
+101881,Ari,Law,2.23,2019-06-15
+101882,Budi,Engineering,3.16,2019-07-10
+101883,Ari,Business,2.86,2022-06-13
+101884,Ari,Law,3.7,2018-02-15
+101885,Budi,Business,2.98,2020-06-02
+101886,Cici,Computer Science,2.24,2021-05-12
+101887,Ari,Business,3.1,2018-06-20
+101888,Ari,Computer Science,2.16,2021-10-05
+101889,Eka,Engineering,2.86,2022-01-03
+101890,Cici,Law,3.64,2022-01-08
+101891,Cici,Computer Science,3.72,2019-06-21
+101892,Ari,Business,3.21,2018-07-07
+101893,Dina,Law,3.13,2022-01-10
+101894,Budi,Engineering,3.74,2022-07-22
+101895,Dina,Computer Science,3.81,2020-11-29
+101896,Budi,Computer Science,3.82,2021-05-24
+101897,Budi,Computer Science,2.86,2018-09-22
+101898,Cici,Law,2.89,2018-04-26
+101899,Budi,Law,2.01,2021-10-02
+101900,Ari,Business,2.66,2022-09-10
+101901,Ari,Law,2.81,2020-07-17
+101902,Eka,Business,2.31,2021-06-28
+101903,Cici,Business,2.26,2019-12-29
+101904,Cici,Law,3.37,2022-01-01
+101905,Eka,Business,3.85,2018-04-20
+101906,Cici,Law,2.9,2018-12-31
+101907,Eka,Computer Science,2.27,2021-06-17
+101908,Budi,Computer Science,3.26,2018-12-14
+101909,Cici,Law,2.77,2018-01-03
+101910,Dina,Law,3.99,2020-07-28
+101911,Eka,Law,3.14,2018-11-25
+101912,Dina,Engineering,2.21,2020-11-17
+101913,Dina,Law,2.62,2022-07-02
+101914,Ari,Business,2.1,2022-01-22
+101915,Budi,Business,2.96,2020-11-09
+101916,Ari,Engineering,2.44,2018-07-22
+101917,Eka,Computer Science,2.61,2021-03-03
+101918,Ari,Engineering,3.75,2022-09-11
+101919,Ari,Law,3.02,2018-10-29
+101920,Eka,Engineering,2.47,2022-06-04
+101921,Budi,Engineering,3.38,2018-10-08
+101922,Dina,Law,2.34,2019-11-23
+101923,Cici,Law,3.81,2018-10-11
+101924,Dina,Computer Science,2.09,2022-11-21
+101925,Eka,Business,3.37,2018-09-09
+101926,Eka,Law,2.36,2020-06-25
+101927,Ari,Engineering,2.71,2020-11-24
+101928,Budi,Business,3.36,2019-07-01
+101929,Eka,Computer Science,3.59,2022-04-24
+101930,Budi,Business,3.33,2021-11-11
+101931,Cici,Law,3.23,2018-08-17
+101932,Ari,Business,2.69,2020-09-08
+101933,Eka,Computer Science,2.7,2020-01-05
+101934,Dina,Engineering,2.4,2020-10-11
+101935,Budi,Business,3.18,2018-02-11
+101936,Ari,Law,3.69,2018-05-26
+101937,Budi,Computer Science,3.8,2019-11-18
+101938,Cici,Law,2.09,2022-02-23
+101939,Cici,Business,3.27,2021-02-08
+101940,Ari,Engineering,2.07,2018-08-29
+101941,Cici,Business,4.0,2021-02-16
+101942,Budi,Business,3.87,2019-07-04
+101943,Budi,Business,3.39,2018-11-10
+101944,Eka,Law,3.5,2021-07-28
+101945,Ari,Engineering,2.52,2022-01-09
+101946,Budi,Engineering,2.55,2020-09-03
+101947,Dina,Law,2.1,2019-10-07
+101948,Budi,Law,3.81,2020-07-20
+101949,Eka,Engineering,3.13,2021-12-26
+101950,Budi,Computer Science,2.99,2019-10-03
+101951,Cici,Computer Science,3.3,2021-03-17
+101952,Ari,Business,2.68,2018-01-10
+101953,Cici,Engineering,3.0,2020-08-17
+101954,Budi,Business,2.06,2022-05-28
+101955,Ari,Engineering,3.24,2022-06-03
+101956,Dina,Engineering,2.53,2018-09-22
+101957,Budi,Law,3.85,2021-04-27
+101958,Eka,Computer Science,3.22,2022-11-12
+101959,Eka,Law,3.36,2019-07-11
+101960,Dina,Business,2.72,2022-01-16
+101961,Budi,Engineering,3.98,2018-09-11
+101962,Dina,Law,3.49,2020-11-19
+101963,Ari,Business,3.68,2022-12-18
+101964,Eka,Engineering,2.82,2022-07-29
+101965,Cici,Engineering,3.1,2022-09-28
+101966,Eka,Engineering,2.16,2019-09-23
+101967,Budi,Engineering,2.1,2021-08-02
+101968,Ari,Business,2.63,2021-10-25
+101969,Dina,Engineering,2.82,2021-05-30
+101970,Cici,Engineering,2.17,2020-06-25
+101971,Eka,Business,2.74,2022-04-10
+101972,Eka,Computer Science,3.53,2022-04-20
+101973,Dina,Engineering,3.24,2021-09-20
+101974,Eka,Business,3.19,2019-06-25
+101975,Dina,Computer Science,2.13,2021-03-30
+101976,Budi,Business,2.2,2020-05-13
+101977,Budi,Law,3.89,2021-12-16
+101978,Dina,Business,2.31,2022-01-12
+101979,Ari,Engineering,2.48,2018-11-18
+101980,Eka,Business,2.37,2020-09-09
+101981,Dina,Engineering,2.48,2022-12-12
+101982,Budi,Law,2.68,2020-02-28
+101983,Eka,Engineering,3.78,2020-09-06
+101984,Ari,Business,3.58,2019-06-01
+101985,Eka,Engineering,3.81,2018-02-25
+101986,Dina,Business,3.76,2018-07-28
+101987,Ari,Engineering,3.12,2020-09-26
+101988,Cici,Engineering,3.7,2021-03-23
+101989,Ari,Engineering,3.33,2019-10-26
+101990,Ari,Law,3.59,2019-11-30
+101991,Budi,Computer Science,3.04,2020-12-15
+101992,Cici,Engineering,2.26,2021-03-31
+101993,Budi,Business,3.43,2022-08-03
+101994,Ari,Business,3.34,2022-05-02
+101995,Dina,Engineering,3.83,2018-04-03
+101996,Ari,Engineering,3.31,2020-10-30
+101997,Budi,Law,3.8,2020-07-10
+101998,Dina,Engineering,3.14,2022-10-24
+101999,Cici,Law,2.7,2021-05-22
+102000,Budi,Computer Science,,2019-06-21
+102001,Eka,Engineering,2.77,2021-08-26
+102002,Cici,Law,3.59,2022-06-24
+102003,Ari,Engineering,2.39,2020-07-20
+102004,Dina,Law,3.48,2021-03-26
+102005,Cici,Engineering,2.22,2021-10-31
+102006,Ari,Computer Science,2.75,2021-06-12
+102007,Ari,Business,2.95,2020-08-04
+102008,Ari,Law,2.96,2020-04-24
+102009,Cici,Business,3.02,2020-07-26
+102010,Eka,Engineering,3.86,2020-09-02
+102011,Dina,Engineering,3.76,2020-08-02
+102012,Ari,Computer Science,3.77,2018-09-26
+102013,Dina,Engineering,2.52,2021-05-12
+102014,Cici,Law,3.69,2022-11-20
+102015,Budi,Computer Science,3.79,2020-04-14
+102016,Eka,Business,2.68,2022-06-30
+102017,Budi,Business,2.97,2019-02-11
+102018,Ari,Computer Science,3.16,2021-05-11
+102019,Eka,Law,3.28,2022-01-03
+102020,Cici,Computer Science,3.65,2021-06-20
+102021,Eka,Business,3.7,2018-01-11
+102022,Cici,Business,2.65,2019-05-05
+102023,Eka,Engineering,2.07,2021-06-01
+102024,Budi,Business,2.68,2019-09-26
+102025,Ari,Computer Science,3.44,2019-01-20
+102026,Dina,Business,3.05,2022-02-20
+102027,Eka,Business,2.74,2018-04-13
+102028,Ari,Engineering,3.99,2020-06-25
+102029,Ari,Law,3.27,2018-12-15
+102030,Eka,Computer Science,3.99,2019-02-01
+102031,Dina,Computer Science,2.27,2021-12-05
+102032,Budi,Computer Science,2.66,2018-04-19
+102033,Ari,Business,3.71,2021-01-30
+102034,Ari,Engineering,2.92,2022-10-23
+102035,Budi,Law,2.35,2018-12-25
+102036,Dina,Business,3.45,2021-02-05
+102037,Eka,Business,2.32,2022-02-11
+102038,Ari,Business,3.9,2018-05-24
+102039,Dina,Business,3.25,2022-12-01
+102040,Ari,Computer Science,3.51,2022-08-04
+102041,Eka,Computer Science,3.07,2019-09-02
+102042,Budi,Engineering,2.14,2020-08-24
+102043,Budi,Engineering,2.15,2022-11-28
+102044,Eka,Business,2.98,2021-01-15
+102045,Cici,Computer Science,3.66,2020-06-07
+102046,Eka,Engineering,3.11,2021-05-07
+102047,Ari,Computer Science,2.36,2019-04-12
+102048,Budi,Law,3.03,2020-03-17
+102049,Ari,Business,3.57,2018-03-31
+102050,Cici,Computer Science,3.05,2022-11-02
+102051,Dina,Business,3.72,2021-08-17
+102052,Dina,Law,2.18,2022-06-23
+102053,Ari,Engineering,2.61,2020-09-25
+102054,Eka,Engineering,2.23,2018-04-20
+102055,Dina,Business,2.32,2022-08-25
+102056,Eka,Business,2.71,2021-08-03
+102057,Dina,Business,3.71,2020-04-06
+102058,Eka,Business,2.34,2018-09-04
+102059,Budi,Business,2.46,2019-08-29
+102060,Dina,Computer Science,3.21,2021-04-05
+102061,Eka,Computer Science,3.5,2020-09-04
+102062,Ari,Business,2.15,2020-01-22
+102063,Budi,Business,2.57,2021-09-29
+102064,Dina,Law,2.65,2022-12-29
+102065,Dina,Engineering,2.06,2018-10-25
+102066,Dina,Business,2.37,2019-02-03
+102067,Dina,Computer Science,3.28,2019-05-14
+102068,Eka,Engineering,3.04,2018-12-11
+102069,Eka,Engineering,2.23,2020-04-27
+102070,Budi,Business,2.03,2019-04-02
+102071,Cici,Law,2.95,2020-08-01
+102072,Eka,Business,3.92,2018-03-12
+102073,Budi,Computer Science,3.5,2020-04-02
+102074,Budi,Computer Science,2.91,2018-05-10
+102075,Eka,Computer Science,3.65,2019-05-27
+102076,Cici,Engineering,2.5,2020-04-13
+102077,Budi,Business,3.65,2018-10-14
+102078,Cici,Computer Science,2.07,2020-11-17
+102079,Ari,Law,3.26,2021-10-17
+102080,Cici,Engineering,3.47,2020-06-21
+102081,Dina,Engineering,3.91,2021-05-02
+102082,Budi,Engineering,3.21,2022-11-01
+102083,Budi,Engineering,2.55,2021-05-14
+102084,Eka,Computer Science,2.45,2020-08-08
+102085,Budi,Computer Science,3.18,2022-02-25
+102086,Ari,Engineering,2.48,2019-12-04
+102087,Eka,Law,3.41,2021-04-28
+102088,Ari,Business,3.95,2018-10-30
+102089,Cici,Law,2.85,2021-12-15
+102090,Dina,Business,2.91,2019-04-13
+102091,Ari,Engineering,2.16,2018-08-01
+102092,Budi,Law,3.52,2020-08-20
+102093,Ari,Computer Science,2.57,2018-03-04
+102094,Dina,Engineering,3.1,2018-02-06
+102095,Ari,Law,2.37,2019-08-18
+102096,Budi,Engineering,2.38,2020-05-04
+102097,Cici,Business,3.85,2018-10-31
+102098,Eka,Computer Science,3.55,2018-04-12
+102099,Cici,Business,3.67,2022-01-16
+102100,Ari,Computer Science,3.43,2018-04-17
+102101,Dina,Computer Science,2.16,2020-01-05
+102102,Ari,Business,2.9,2019-11-06
+102103,Dina,Engineering,3.87,2022-11-13
+102104,Eka,Law,2.93,2021-01-17
+102105,Budi,Business,2.36,2020-03-21
+102106,Cici,Law,3.15,2020-02-27
+102107,Budi,Business,2.26,2020-05-15
+102108,Dina,Engineering,2.19,2018-04-10
+102109,Ari,Computer Science,3.04,2018-03-20
+102110,Budi,Engineering,2.69,2018-03-15
+102111,Cici,Engineering,2.54,2019-03-28
+102112,Dina,Business,3.59,2022-09-04
+102113,Cici,Engineering,3.35,2022-10-01
+102114,Cici,Computer Science,3.0,2021-10-21
+102115,Cici,Business,3.55,2020-02-28
+102116,Dina,Engineering,2.59,2019-01-29
+102117,Budi,Engineering,2.24,2020-04-08
+102118,Ari,Computer Science,3.13,2018-06-10
+102119,Budi,Business,3.61,2020-01-24
+102120,Budi,Business,3.37,2018-12-26
+102121,Dina,Law,2.87,2018-08-27
+102122,Budi,Business,3.27,2018-05-10
+102123,Cici,Business,2.54,2019-01-09
+102124,Ari,Computer Science,2.28,2019-06-15
+102125,Dina,Law,2.93,2018-03-26
+102126,Cici,Engineering,3.16,2021-11-16
+102127,Budi,Law,3.66,2021-12-02
+102128,Cici,Engineering,2.7,2018-08-24
+102129,Dina,Law,2.24,2021-12-28
+102130,Cici,Business,3.33,2021-09-17
+102131,Ari,Law,2.75,2022-11-24
+102132,Cici,Business,3.58,2021-09-13
+102133,Dina,Law,3.45,2019-03-10
+102134,Dina,Computer Science,3.61,2018-11-16
+102135,Ari,Business,3.09,2020-10-07
+102136,Dina,Law,3.27,2020-04-14
+102137,Ari,Computer Science,3.08,2018-02-27
+102138,Cici,Law,3.6,2018-11-21
+102139,Cici,Engineering,2.42,2022-02-09
+102140,Cici,Computer Science,3.53,2021-11-15
+102141,Cici,Engineering,2.98,2018-08-05
+102142,Ari,Engineering,3.73,2021-11-26
+102143,Eka,Engineering,2.36,2020-07-16
+102144,Cici,Computer Science,3.06,2020-10-24
+102145,Ari,Law,2.18,2021-05-13
+102146,Ari,Computer Science,3.4,2018-10-30
+102147,Ari,Computer Science,3.11,2019-03-02
+102148,Eka,Law,3.57,2022-02-18
+102149,Dina,Engineering,2.5,2019-12-17
+102150,Budi,Law,3.87,2019-10-11
+102151,Eka,Engineering,2.17,2021-10-30
+102152,Eka,Law,3.81,2018-05-15
+102153,Ari,Engineering,2.1,2018-03-17
+102154,Cici,Law,2.96,2019-09-18
+102155,Eka,Computer Science,3.11,2018-10-22
+102156,Dina,Law,3.75,2021-11-16
+102157,Ari,Law,3.17,2022-05-05
+102158,Eka,Business,3.28,2022-11-18
+102159,Ari,Law,2.12,2020-07-12
+102160,Dina,Business,3.37,2021-08-26
+102161,Ari,Law,3.05,2021-04-15
+102162,Dina,Computer Science,3.71,2019-11-24
+102163,Cici,Business,2.04,2021-12-23
+102164,Eka,Business,3.18,2022-04-28
+102165,Budi,Engineering,2.77,2022-11-28
+102166,Eka,Business,3.09,2019-10-23
+102167,Ari,Business,3.42,2020-10-21
+102168,Budi,Law,3.25,2020-03-12
+102169,Dina,Computer Science,3.0,2020-01-30
+102170,Eka,Business,3.02,2018-05-17
+102171,Ari,Computer Science,2.42,2020-04-06
+102172,Ari,Computer Science,2.32,2018-07-23
+102173,Eka,Engineering,2.17,2021-05-15
+102174,Cici,Law,2.79,2019-04-04
+102175,Eka,Business,2.24,2020-08-28
+102176,Ari,Computer Science,2.29,2021-05-06
+102177,Ari,Engineering,2.37,2018-07-28
+102178,Ari,Engineering,2.43,2022-05-16
+102179,Budi,Business,3.65,2019-07-02
+102180,Dina,Engineering,3.28,2018-04-07
+102181,Eka,Business,2.52,2019-09-14
+102182,Eka,Computer Science,2.35,2018-02-13
+102183,Dina,Computer Science,2.2,2021-04-19
+102184,Ari,Engineering,3.33,2022-11-15
+102185,Cici,Engineering,3.14,2019-06-29
+102186,Ari,Computer Science,2.94,2020-04-17
+102187,Ari,Law,3.49,2022-12-15
+102188,Dina,Business,2.69,2019-05-10
+102189,Ari,Law,3.25,2022-03-25
+102190,Dina,Computer Science,2.77,2021-06-17
+102191,Dina,Computer Science,3.94,2020-10-02
+102192,Dina,Computer Science,2.36,2019-03-16
+102193,Dina,Engineering,2.56,2018-02-10
+102194,Dina,Business,3.85,2020-02-28
+102195,Cici,Computer Science,3.72,2020-09-28
+102196,Dina,Business,2.1,2019-10-08
+102197,Budi,Law,2.03,2020-05-17
+102198,Cici,Law,2.35,2022-07-16
+102199,Budi,Law,2.12,2020-07-21
+102200,Dina,Computer Science,,2021-08-29
+102201,Ari,Business,3.15,2021-01-10
+102202,Cici,Business,3.51,2018-01-22
+102203,Eka,Computer Science,2.25,2020-04-13
+102204,Dina,Engineering,2.29,2022-09-21
+102205,Ari,Business,3.62,2021-05-20
+102206,Cici,Law,2.4,2021-08-23
+102207,Budi,Business,3.59,2020-08-06
+102208,Ari,Engineering,2.03,2019-10-22
+102209,Cici,Law,3.38,2022-10-22
+102210,Cici,Computer Science,3.31,2020-11-20
+102211,Ari,Computer Science,2.78,2018-03-01
+102212,Dina,Business,3.08,2018-11-28
+102213,Budi,Engineering,2.43,2021-01-27
+102214,Budi,Engineering,2.91,2022-04-14
+102215,Cici,Law,3.36,2022-09-01
+102216,Dina,Computer Science,3.98,2019-09-29
+102217,Eka,Law,3.94,2021-08-04
+102218,Ari,Computer Science,3.7,2022-02-03
+102219,Dina,Engineering,3.71,2020-04-14
+102220,Eka,Computer Science,3.45,2018-02-02
+102221,Cici,Computer Science,2.48,2019-09-13
+102222,Budi,Law,2.85,2021-05-27
+102223,Ari,Business,3.14,2021-12-21
+102224,Ari,Business,3.01,2018-07-28
+102225,Ari,Engineering,2.49,2021-04-10
+102226,Ari,Computer Science,3.58,2022-04-27
+102227,Eka,Engineering,2.38,2022-07-05
+102228,Cici,Law,2.38,2020-03-06
+102229,Eka,Engineering,2.93,2020-06-26
+102230,Ari,Computer Science,3.39,2022-12-17
+102231,Eka,Engineering,2.17,2019-03-21
+102232,Dina,Engineering,3.28,2022-01-04
+102233,Budi,Law,3.88,2020-01-07
+102234,Dina,Law,3.34,2022-01-19
+102235,Eka,Law,2.94,2022-12-03
+102236,Budi,Engineering,2.91,2019-06-14
+102237,Eka,Computer Science,3.81,2019-09-10
+102238,Eka,Engineering,2.27,2020-11-02
+102239,Budi,Engineering,2.35,2019-08-15
+102240,Ari,Engineering,2.9,2022-08-24
+102241,Ari,Computer Science,2.15,2022-11-02
+102242,Dina,Engineering,2.97,2018-03-23
+102243,Dina,Business,2.77,2022-01-06
+102244,Dina,Computer Science,2.87,2018-04-11
+102245,Dina,Law,2.15,2019-05-11
+102246,Ari,Computer Science,3.25,2021-12-07
+102247,Ari,Business,2.25,2020-07-19
+102248,Dina,Law,3.65,2018-08-22
+102249,Cici,Business,3.65,2022-07-08
+102250,Dina,Engineering,3.15,2020-07-24
+102251,Budi,Computer Science,3.82,2018-11-30
+102252,Cici,Law,2.27,2021-02-16
+102253,Eka,Law,2.15,2018-05-28
+102254,Eka,Law,3.59,2018-04-01
+102255,Eka,Business,3.22,2019-07-12
+102256,Eka,Computer Science,2.36,2018-03-27
+102257,Eka,Business,3.58,2020-08-25
+102258,Budi,Business,2.05,2022-05-07
+102259,Ari,Engineering,2.66,2021-10-31
+102260,Ari,Law,3.36,2021-12-24
+102261,Ari,Business,2.92,2018-05-03
+102262,Ari,Business,2.34,2019-10-20
+102263,Dina,Law,3.42,2021-05-21
+102264,Dina,Business,3.21,2021-10-15
+102265,Cici,Computer Science,3.38,2022-04-10
+102266,Ari,Computer Science,2.12,2018-12-15
+102267,Cici,Law,3.41,2018-10-13
+102268,Cici,Engineering,2.7,2021-11-25
+102269,Eka,Computer Science,2.13,2018-04-27
+102270,Dina,Business,2.44,2021-03-29
+102271,Ari,Business,3.12,2020-11-22
+102272,Cici,Business,3.45,2021-04-30
+102273,Eka,Business,2.11,2020-07-05
+102274,Dina,Law,3.93,2022-09-05
+102275,Cici,Engineering,3.07,2021-03-02
+102276,Cici,Law,3.33,2020-04-19
+102277,Budi,Law,2.91,2020-10-13
+102278,Dina,Engineering,3.07,2021-07-16
+102279,Cici,Engineering,2.15,2018-08-16
+102280,Ari,Law,3.57,2019-04-01
+102281,Dina,Computer Science,3.72,2018-06-19
+102282,Cici,Computer Science,2.82,2019-08-24
+102283,Eka,Engineering,2.98,2018-03-21
+102284,Eka,Engineering,2.35,2022-08-05
+102285,Cici,Law,2.52,2022-03-28
+102286,Dina,Engineering,2.97,2021-08-30
+102287,Dina,Business,2.9,2020-10-05
+102288,Eka,Engineering,3.61,2020-01-12
+102289,Cici,Business,2.5,2019-10-31
+102290,Dina,Computer Science,2.76,2022-06-14
+102291,Dina,Engineering,2.62,2019-10-17
+102292,Dina,Engineering,2.77,2018-09-14
+102293,Dina,Law,2.43,2021-07-14
+102294,Budi,Computer Science,3.84,2021-12-22
+102295,Ari,Law,2.94,2020-08-02
+102296,Dina,Computer Science,3.63,2018-11-18
+102297,Budi,Business,2.88,2018-05-14
+102298,Budi,Computer Science,3.48,2019-04-28
+102299,Ari,Law,3.06,2022-02-20
+102300,Budi,Law,3.94,2019-04-23
+102301,Eka,Business,3.78,2021-11-17
+102302,Dina,Engineering,3.42,2022-11-19
+102303,Eka,Engineering,2.24,2020-10-19
+102304,Dina,Computer Science,3.19,2020-02-18
+102305,Eka,Computer Science,2.95,2021-12-29
+102306,Cici,Computer Science,3.01,2018-06-15
+102307,Dina,Computer Science,2.86,2018-02-17
+102308,Cici,Engineering,3.17,2022-02-07
+102309,Eka,Computer Science,2.37,2020-06-23
+102310,Eka,Business,3.46,2021-06-08
+102311,Dina,Law,2.15,2021-11-12
+102312,Budi,Computer Science,2.97,2022-10-15
+102313,Ari,Business,2.62,2020-07-31
+102314,Ari,Law,3.84,2020-08-01
+102315,Dina,Law,2.55,2020-10-09
+102316,Dina,Engineering,3.9,2019-07-10
+102317,Eka,Computer Science,3.24,2018-04-20
+102318,Eka,Computer Science,3.36,2018-03-04
+102319,Budi,Computer Science,3.28,2022-02-12
+102320,Budi,Engineering,3.13,2018-03-08
+102321,Cici,Law,2.7,2019-09-01
+102322,Budi,Law,3.37,2018-03-30
+102323,Dina,Law,2.78,2022-10-07
+102324,Cici,Business,3.0,2022-04-29
+102325,Budi,Business,2.7,2021-06-15
+102326,Cici,Law,2.17,2018-10-23
+102327,Cici,Engineering,2.1,2021-02-26
+102328,Ari,Business,2.68,2021-10-18
+102329,Budi,Law,2.46,2022-06-01
+102330,Eka,Law,2.14,2019-11-11
+102331,Ari,Business,3.78,2020-07-14
+102332,Budi,Computer Science,2.48,2022-05-02
+102333,Eka,Engineering,2.82,2019-06-11
+102334,Eka,Business,2.68,2020-11-21
+102335,Eka,Law,3.26,2018-02-21
+102336,Dina,Business,2.93,2018-10-12
+102337,Dina,Computer Science,3.75,2020-01-23
+102338,Dina,Law,2.43,2021-12-05
+102339,Ari,Business,3.48,2021-10-02
+102340,Eka,Engineering,2.07,2018-05-26
+102341,Eka,Business,2.4,2022-10-06
+102342,Dina,Computer Science,3.94,2020-03-31
+102343,Cici,Computer Science,3.68,2022-08-05
+102344,Dina,Law,2.37,2019-01-03
+102345,Ari,Business,2.61,2018-07-31
+102346,Eka,Business,2.32,2021-05-20
+102347,Ari,Engineering,3.51,2019-02-25
+102348,Ari,Computer Science,2.7,2018-02-11
+102349,Dina,Business,2.71,2018-08-28
+102350,Eka,Computer Science,2.23,2018-05-05
+102351,Budi,Engineering,2.4,2021-08-18
+102352,Eka,Engineering,3.1,2021-10-18
+102353,Dina,Computer Science,3.22,2022-04-07
+102354,Budi,Business,2.94,2018-06-03
+102355,Cici,Business,2.52,2020-06-18
+102356,Eka,Business,2.24,2020-07-03
+102357,Dina,Business,3.39,2022-10-11
+102358,Eka,Business,2.39,2019-06-11
+102359,Eka,Computer Science,3.95,2019-08-13
+102360,Budi,Engineering,3.76,2021-02-06
+102361,Eka,Law,3.01,2020-02-22
+102362,Dina,Engineering,3.45,2018-07-16
+102363,Dina,Computer Science,2.1,2022-05-10
+102364,Dina,Business,3.47,2021-04-02
+102365,Budi,Engineering,2.89,2018-12-16
+102366,Cici,Business,2.18,2020-02-19
+102367,Budi,Computer Science,2.58,2022-01-30
+102368,Cici,Business,2.83,2018-01-27
+102369,Dina,Computer Science,2.89,2022-06-26
+102370,Eka,Computer Science,3.45,2022-02-04
+102371,Cici,Engineering,2.59,2021-03-16
+102372,Cici,Business,3.14,2021-06-21
+102373,Dina,Law,2.52,2020-07-14
+102374,Ari,Law,2.09,2022-05-31
+102375,Dina,Business,3.89,2019-04-07
+102376,Cici,Law,3.87,2019-04-07
+102377,Budi,Computer Science,2.47,2020-04-12
+102378,Budi,Business,2.4,2020-08-11
+102379,Eka,Law,3.42,2022-10-23
+102380,Ari,Computer Science,2.32,2022-04-08
+102381,Ari,Business,3.92,2020-08-05
+102382,Cici,Engineering,2.79,2020-04-07
+102383,Dina,Law,2.36,2022-12-16
+102384,Budi,Business,3.0,2018-12-31
+102385,Cici,Business,3.3,2021-03-25
+102386,Dina,Engineering,3.79,2019-09-23
+102387,Budi,Law,3.06,2020-11-25
+102388,Cici,Law,3.15,2018-03-11
+102389,Ari,Business,2.75,2020-04-04
+102390,Eka,Computer Science,3.34,2019-11-15
+102391,Dina,Engineering,3.25,2022-08-18
+102392,Dina,Engineering,3.11,2022-07-29
+102393,Dina,Business,2.19,2020-06-02
+102394,Cici,Computer Science,3.23,2020-10-14
+102395,Dina,Law,3.68,2021-04-03
+102396,Budi,Law,3.97,2020-05-16
+102397,Cici,Business,2.81,2021-06-21
+102398,Dina,Engineering,2.11,2018-08-03
+102399,Dina,Computer Science,3.29,2019-10-04
+102400,Dina,Computer Science,,2019-04-02
+102401,Ari,Law,3.36,2019-06-18
+102402,Cici,Law,3.17,2022-02-24
+102403,Budi,Computer Science,3.34,2018-08-28
+102404,Cici,Computer Science,3.58,2019-12-06
+102405,Ari,Engineering,2.5,2022-08-26
+102406,Eka,Computer Science,2.58,2019-03-24
+102407,Budi,Engineering,2.11,2021-02-19
+102408,Dina,Computer Science,3.31,2019-09-05
+102409,Eka,Law,3.54,2019-12-07
+102410,Budi,Law,3.84,2020-03-13
+102411,Budi,Law,3.21,2020-12-15
+102412,Dina,Law,3.09,2021-01-15
+102413,Eka,Business,2.06,2019-07-14
+102414,Budi,Computer Science,2.32,2021-10-08
+102415,Cici,Business,3.08,2022-03-05
+102416,Ari,Business,3.2,2022-06-19
+102417,Budi,Law,2.03,2019-07-12
+102418,Cici,Business,3.27,2022-12-07
+102419,Ari,Law,2.32,2019-07-13
+102420,Budi,Law,2.17,2019-10-30
+102421,Ari,Business,3.37,2021-08-12
+102422,Dina,Engineering,2.58,2019-01-07
+102423,Cici,Business,2.73,2021-12-14
+102424,Eka,Computer Science,3.76,2020-04-14
+102425,Dina,Computer Science,3.06,2020-11-01
+102426,Budi,Law,2.9,2022-11-10
+102427,Dina,Computer Science,3.3,2022-09-19
+102428,Eka,Engineering,2.78,2018-05-26
+102429,Dina,Law,3.68,2020-05-25
+102430,Dina,Computer Science,2.17,2018-02-24
+102431,Ari,Engineering,3.16,2022-05-20
+102432,Cici,Engineering,2.49,2019-02-04
+102433,Budi,Business,3.48,2022-11-24
+102434,Cici,Computer Science,2.72,2022-08-16
+102435,Ari,Business,2.17,2019-07-20
+102436,Eka,Engineering,3.54,2020-02-11
+102437,Dina,Engineering,3.06,2018-03-06
+102438,Eka,Business,2.06,2019-09-25
+102439,Ari,Engineering,2.42,2021-11-27
+102440,Budi,Law,3.19,2022-08-01
+102441,Cici,Law,3.53,2018-05-20
+102442,Eka,Engineering,3.15,2019-05-04
+102443,Cici,Computer Science,2.2,2021-05-25
+102444,Cici,Engineering,3.08,2020-06-15
+102445,Cici,Computer Science,3.56,2021-12-15
+102446,Budi,Law,2.67,2019-05-21
+102447,Cici,Law,3.16,2019-03-03
+102448,Dina,Computer Science,2.18,2022-12-15
+102449,Cici,Business,3.84,2019-06-03
+102450,Ari,Computer Science,2.92,2018-07-04
+102451,Budi,Business,3.63,2022-07-30
+102452,Budi,Computer Science,3.24,2019-11-15
+102453,Cici,Computer Science,3.54,2020-10-28
+102454,Ari,Engineering,2.67,2019-02-10
+102455,Ari,Business,3.13,2019-12-20
+102456,Cici,Business,3.48,2020-12-13
+102457,Cici,Engineering,2.42,2018-02-28
+102458,Budi,Engineering,2.18,2022-04-22
+102459,Ari,Business,2.94,2022-02-04
+102460,Dina,Computer Science,2.49,2018-04-09
+102461,Cici,Computer Science,3.41,2021-04-29
+102462,Ari,Law,3.1,2020-04-04
+102463,Cici,Business,2.78,2022-08-22
+102464,Ari,Computer Science,3.04,2019-09-27
+102465,Ari,Law,2.7,2019-02-02
+102466,Cici,Business,2.67,2019-02-18
+102467,Ari,Business,3.45,2022-12-08
+102468,Dina,Law,2.76,2022-05-12
+102469,Dina,Computer Science,2.88,2020-06-14
+102470,Eka,Business,2.72,2020-03-01
+102471,Eka,Law,3.81,2021-08-23
+102472,Ari,Engineering,2.12,2019-05-08
+102473,Budi,Engineering,2.97,2018-04-24
+102474,Cici,Business,3.69,2018-03-24
+102475,Cici,Computer Science,2.97,2022-09-26
+102476,Dina,Law,3.57,2022-05-11
+102477,Eka,Computer Science,2.62,2019-08-16
+102478,Ari,Computer Science,3.81,2021-07-18
+102479,Dina,Business,2.61,2019-10-25
+102480,Budi,Computer Science,3.51,2022-10-20
+102481,Dina,Law,3.55,2022-03-17
+102482,Budi,Law,3.91,2022-06-26
+102483,Eka,Computer Science,3.74,2022-04-22
+102484,Cici,Computer Science,2.83,2020-05-16
+102485,Dina,Law,3.33,2022-09-23
+102486,Ari,Engineering,3.73,2019-07-17
+102487,Budi,Business,3.04,2019-01-27
+102488,Budi,Law,3.44,2022-12-03
+102489,Dina,Computer Science,3.76,2018-10-17
+102490,Eka,Computer Science,2.73,2019-01-22
+102491,Dina,Computer Science,3.39,2019-01-21
+102492,Cici,Law,2.7,2020-03-07
+102493,Ari,Business,2.64,2022-01-25
+102494,Dina,Law,3.52,2019-06-15
+102495,Ari,Law,3.84,2019-08-17
+102496,Dina,Engineering,2.63,2020-12-19
+102497,Eka,Engineering,3.93,2020-10-04
+102498,Dina,Computer Science,2.84,2019-12-31
+102499,Ari,Law,2.91,2022-01-26
+102500,Dina,Engineering,3.24,2018-12-25
+102501,Eka,Law,3.21,2019-11-22
+102502,Eka,Business,2.25,2022-01-06
+102503,Dina,Engineering,2.53,2022-12-13
+102504,Dina,Law,3.28,2021-10-24
+102505,Cici,Engineering,3.37,2018-12-28
+102506,Budi,Computer Science,3.49,2018-04-22
+102507,Budi,Engineering,2.12,2021-04-15
+102508,Budi,Engineering,2.89,2021-12-17
+102509,Cici,Business,2.81,2018-05-13
+102510,Dina,Law,2.17,2018-10-27
+102511,Cici,Computer Science,2.72,2022-11-02
+102512,Dina,Law,2.46,2021-02-06
+102513,Eka,Engineering,2.02,2019-10-16
+102514,Cici,Computer Science,2.82,2018-09-05
+102515,Budi,Law,2.52,2021-06-01
+102516,Ari,Computer Science,3.44,2022-07-11
+102517,Dina,Business,2.19,2018-06-14
+102518,Ari,Business,2.56,2021-06-30
+102519,Cici,Business,2.28,2020-06-16
+102520,Cici,Law,2.18,2018-02-08
+102521,Dina,Engineering,2.81,2019-08-11
+102522,Cici,Law,3.18,2019-07-20
+102523,Budi,Law,3.5,2021-03-31
+102524,Dina,Business,3.68,2019-12-21
+102525,Cici,Law,3.34,2019-03-26
+102526,Cici,Computer Science,3.41,2021-11-18
+102527,Budi,Computer Science,2.37,2020-12-22
+102528,Cici,Business,2.53,2018-08-22
+102529,Budi,Engineering,2.19,2021-07-24
+102530,Ari,Law,3.95,2018-10-17
+102531,Eka,Law,2.25,2021-11-26
+102532,Dina,Engineering,2.51,2019-11-28
+102533,Ari,Engineering,2.86,2021-04-02
+102534,Cici,Business,2.95,2020-12-08
+102535,Dina,Engineering,3.85,2018-03-01
+102536,Ari,Computer Science,2.91,2018-10-11
+102537,Cici,Engineering,3.29,2019-03-05
+102538,Cici,Law,2.2,2018-10-19
+102539,Eka,Computer Science,2.56,2018-05-14
+102540,Cici,Engineering,3.04,2019-11-26
+102541,Ari,Law,2.41,2019-09-01
+102542,Dina,Business,3.67,2021-04-26
+102543,Dina,Computer Science,3.51,2022-10-21
+102544,Budi,Computer Science,2.07,2020-09-13
+102545,Dina,Computer Science,2.43,2019-02-24
+102546,Ari,Business,3.42,2021-09-29
+102547,Budi,Law,3.78,2022-05-07
+102548,Dina,Engineering,3.23,2018-06-28
+102549,Eka,Computer Science,3.1,2018-06-29
+102550,Eka,Computer Science,3.06,2022-10-28
+102551,Dina,Business,2.2,2020-01-02
+102552,Dina,Business,2.16,2018-12-04
+102553,Ari,Computer Science,3.93,2022-06-25
+102554,Dina,Business,3.91,2020-11-13
+102555,Ari,Law,3.73,2022-10-17
+102556,Dina,Engineering,2.71,2018-05-30
+102557,Eka,Computer Science,2.59,2019-01-01
+102558,Ari,Engineering,2.49,2018-06-12
+102559,Budi,Business,2.98,2018-05-10
+102560,Ari,Law,3.66,2021-01-10
+102561,Budi,Business,3.38,2018-01-09
+102562,Ari,Computer Science,3.1,2021-08-18
+102563,Cici,Law,2.1,2022-12-13
+102564,Dina,Engineering,3.55,2022-11-08
+102565,Eka,Engineering,2.43,2019-10-13
+102566,Eka,Law,3.26,2020-06-12
+102567,Cici,Business,3.41,2018-12-24
+102568,Ari,Computer Science,3.43,2018-03-26
+102569,Budi,Business,2.28,2021-06-16
+102570,Eka,Business,3.8,2020-10-29
+102571,Ari,Business,3.03,2019-12-09
+102572,Cici,Law,3.51,2021-05-16
+102573,Budi,Engineering,3.07,2021-11-22
+102574,Cici,Law,2.07,2019-02-18
+102575,Ari,Computer Science,2.19,2018-11-10
+102576,Eka,Law,3.6,2021-06-13
+102577,Eka,Computer Science,2.4,2022-06-28
+102578,Cici,Business,3.66,2019-01-08
+102579,Eka,Business,2.63,2018-08-26
+102580,Cici,Engineering,3.19,2021-10-02
+102581,Cici,Business,2.39,2022-11-03
+102582,Budi,Business,2.64,2021-07-06
+102583,Budi,Law,2.93,2022-11-28
+102584,Cici,Business,2.64,2020-03-24
+102585,Budi,Computer Science,3.31,2019-08-14
+102586,Dina,Business,3.7,2018-11-29
+102587,Budi,Engineering,3.03,2019-02-16
+102588,Dina,Engineering,3.62,2019-06-21
+102589,Dina,Law,3.0,2020-11-11
+102590,Budi,Computer Science,2.3,2020-01-02
+102591,Cici,Computer Science,2.26,2018-08-23
+102592,Cici,Law,2.09,2019-09-15
+102593,Cici,Law,3.86,2020-03-19
+102594,Ari,Business,2.43,2018-12-06
+102595,Ari,Computer Science,2.74,2020-09-14
+102596,Ari,Engineering,3.24,2022-02-06
+102597,Budi,Engineering,2.79,2022-01-08
+102598,Ari,Law,3.71,2021-03-28
+102599,Budi,Computer Science,2.54,2018-04-19
+102600,Eka,Computer Science,,2019-03-16
+102601,Dina,Law,2.54,2020-11-28
+102602,Budi,Law,3.31,2020-12-21
+102603,Ari,Law,2.47,2021-06-02
+102604,Budi,Engineering,3.2,2021-05-30
+102605,Dina,Engineering,3.79,2020-04-22
+102606,Budi,Computer Science,3.84,2022-07-26
+102607,Cici,Business,2.45,2021-10-26
+102608,Cici,Computer Science,3.14,2020-05-29
+102609,Eka,Computer Science,2.73,2021-01-11
+102610,Dina,Business,2.58,2018-02-11
+102611,Ari,Business,3.26,2022-03-05
+102612,Ari,Computer Science,2.27,2021-11-02
+102613,Eka,Law,2.74,2019-08-17
+102614,Ari,Computer Science,3.78,2021-10-07
+102615,Budi,Engineering,2.03,2018-04-03
+102616,Eka,Computer Science,2.41,2019-09-16
+102617,Budi,Engineering,2.41,2018-08-06
+102618,Ari,Business,3.43,2022-12-26
+102619,Eka,Computer Science,3.3,2018-05-06
+102620,Ari,Engineering,3.71,2019-10-03
+102621,Cici,Law,3.12,2020-06-09
+102622,Dina,Engineering,3.41,2018-08-25
+102623,Ari,Engineering,3.77,2021-02-12
+102624,Cici,Computer Science,3.13,2021-11-30
+102625,Eka,Law,3.86,2019-05-22
+102626,Dina,Engineering,2.88,2021-03-08
+102627,Eka,Law,3.04,2022-03-28
+102628,Budi,Computer Science,3.96,2020-07-29
+102629,Ari,Business,3.5,2021-06-19
+102630,Cici,Business,2.18,2019-05-02
+102631,Cici,Business,3.48,2019-08-04
+102632,Cici,Engineering,3.0,2019-12-22
+102633,Dina,Law,3.13,2018-01-16
+102634,Cici,Engineering,3.37,2021-12-04
+102635,Ari,Computer Science,3.52,2018-06-11
+102636,Cici,Law,2.46,2018-06-21
+102637,Dina,Law,3.83,2020-10-12
+102638,Eka,Computer Science,3.39,2020-02-28
+102639,Budi,Business,2.21,2019-09-14
+102640,Dina,Law,2.35,2018-05-27
+102641,Eka,Law,3.34,2018-11-25
+102642,Cici,Engineering,3.0,2022-02-13
+102643,Dina,Computer Science,2.73,2019-08-01
+102644,Budi,Law,2.9,2019-07-10
+102645,Budi,Law,3.46,2021-02-13
+102646,Dina,Law,2.27,2019-02-01
+102647,Ari,Law,3.11,2020-08-12
+102648,Cici,Engineering,3.06,2022-10-18
+102649,Dina,Engineering,2.76,2019-06-12
+102650,Ari,Business,3.57,2019-02-28
+102651,Dina,Law,2.55,2022-01-04
+102652,Eka,Engineering,2.18,2022-06-26
+102653,Cici,Engineering,2.24,2019-04-26
+102654,Eka,Computer Science,3.97,2021-10-07
+102655,Dina,Engineering,2.67,2018-05-08
+102656,Eka,Computer Science,2.06,2020-01-01
+102657,Budi,Computer Science,3.74,2019-04-02
+102658,Eka,Computer Science,2.63,2019-02-20
+102659,Budi,Engineering,2.02,2022-03-05
+102660,Ari,Engineering,3.2,2021-12-29
+102661,Budi,Business,2.44,2018-06-09
+102662,Cici,Computer Science,2.6,2020-02-11
+102663,Ari,Law,3.07,2018-10-02
+102664,Ari,Engineering,3.9,2020-04-16
+102665,Dina,Engineering,3.86,2021-09-25
+102666,Ari,Business,2.07,2022-12-15
+102667,Dina,Computer Science,3.08,2021-03-08
+102668,Eka,Law,2.31,2018-01-02
+102669,Budi,Law,2.17,2019-10-18
+102670,Eka,Engineering,3.07,2019-03-30
+102671,Ari,Engineering,2.02,2018-11-21
+102672,Budi,Computer Science,2.79,2020-09-17
+102673,Dina,Computer Science,2.46,2021-10-13
+102674,Ari,Engineering,3.19,2018-01-15
+102675,Ari,Law,3.69,2018-04-04
+102676,Ari,Computer Science,4.0,2021-07-08
+102677,Eka,Engineering,2.62,2020-02-18
+102678,Dina,Law,2.7,2019-07-10
+102679,Budi,Business,2.64,2022-12-16
+102680,Cici,Law,3.11,2021-05-02
+102681,Eka,Computer Science,2.48,2020-08-18
+102682,Ari,Computer Science,2.35,2022-01-17
+102683,Eka,Engineering,2.98,2018-02-12
+102684,Eka,Law,3.68,2019-03-03
+102685,Ari,Business,2.54,2018-08-20
+102686,Budi,Law,2.81,2020-08-11
+102687,Eka,Engineering,2.46,2022-12-08
+102688,Ari,Engineering,2.91,2018-04-03
+102689,Cici,Computer Science,3.89,2021-01-06
+102690,Eka,Engineering,3.36,2020-01-09
+102691,Budi,Engineering,3.0,2020-06-19
+102692,Eka,Engineering,2.33,2018-12-06
+102693,Budi,Computer Science,2.34,2018-10-19
+102694,Budi,Law,3.65,2019-11-25
+102695,Dina,Law,3.78,2022-10-15
+102696,Dina,Computer Science,2.48,2018-08-03
+102697,Budi,Computer Science,3.68,2021-01-22
+102698,Dina,Business,2.44,2020-08-23
+102699,Ari,Business,3.8,2022-04-18
+102700,Budi,Law,3.25,2019-05-03
+102701,Ari,Computer Science,2.27,2020-09-16
+102702,Budi,Computer Science,2.84,2020-03-23
+102703,Ari,Law,2.73,2021-07-24
+102704,Ari,Engineering,2.98,2021-04-13
+102705,Cici,Engineering,2.51,2022-12-23
+102706,Eka,Computer Science,3.36,2022-04-16
+102707,Budi,Engineering,3.41,2018-02-28
+102708,Budi,Computer Science,3.7,2019-09-29
+102709,Ari,Computer Science,2.41,2019-01-13
+102710,Dina,Engineering,2.42,2022-09-29
+102711,Eka,Business,2.74,2018-07-14
+102712,Cici,Engineering,2.72,2019-10-12
+102713,Dina,Business,2.63,2018-11-27
+102714,Eka,Business,2.55,2020-11-28
+102715,Budi,Engineering,3.24,2019-07-31
+102716,Ari,Engineering,3.22,2020-07-27
+102717,Cici,Computer Science,3.07,2020-07-22
+102718,Budi,Computer Science,3.06,2022-08-13
+102719,Ari,Law,3.93,2020-11-22
+102720,Budi,Computer Science,3.73,2020-05-08
+102721,Dina,Engineering,2.86,2022-04-05
+102722,Eka,Business,2.82,2018-03-28
+102723,Cici,Law,3.56,2020-10-18
+102724,Cici,Computer Science,3.1,2020-01-11
+102725,Budi,Engineering,2.39,2022-10-22
+102726,Budi,Law,2.43,2018-04-30
+102727,Eka,Engineering,2.5,2020-07-21
+102728,Dina,Law,3.71,2022-11-28
+102729,Dina,Law,3.21,2020-09-24
+102730,Cici,Engineering,2.52,2020-04-09
+102731,Ari,Business,3.38,2022-12-06
+102732,Eka,Computer Science,2.65,2021-07-11
+102733,Dina,Business,2.45,2019-02-20
+102734,Budi,Law,3.72,2021-06-25
+102735,Eka,Law,3.29,2019-06-22
+102736,Dina,Law,3.68,2021-09-15
+102737,Budi,Engineering,2.84,2018-06-19
+102738,Eka,Business,3.19,2020-05-07
+102739,Budi,Engineering,3.87,2022-06-23
+102740,Cici,Law,3.57,2020-10-18
+102741,Ari,Computer Science,2.71,2020-10-09
+102742,Eka,Law,2.92,2021-09-13
+102743,Cici,Business,2.34,2018-02-07
+102744,Budi,Computer Science,3.47,2019-01-23
+102745,Cici,Computer Science,2.95,2019-11-04
+102746,Eka,Engineering,3.19,2019-02-04
+102747,Budi,Business,2.14,2020-12-16
+102748,Cici,Engineering,3.07,2019-01-02
+102749,Budi,Law,2.78,2019-07-28
+102750,Eka,Law,2.05,2021-08-19
+102751,Eka,Law,3.72,2022-10-15
+102752,Budi,Business,2.14,2022-05-04
+102753,Eka,Computer Science,2.72,2020-09-02
+102754,Ari,Computer Science,3.19,2022-11-19
+102755,Ari,Business,2.15,2021-01-16
+102756,Budi,Engineering,2.02,2020-06-04
+102757,Eka,Business,3.04,2018-10-30
+102758,Dina,Business,2.09,2020-08-14
+102759,Dina,Engineering,3.3,2022-02-16
+102760,Budi,Business,3.41,2018-06-19
+102761,Cici,Engineering,3.72,2021-10-24
+102762,Eka,Engineering,2.26,2021-02-16
+102763,Ari,Law,2.31,2020-11-15
+102764,Eka,Law,2.38,2022-11-12
+102765,Eka,Engineering,2.64,2020-06-20
+102766,Ari,Business,3.84,2020-04-23
+102767,Ari,Computer Science,2.29,2019-07-30
+102768,Ari,Law,3.05,2019-02-26
+102769,Dina,Engineering,2.61,2022-01-29
+102770,Budi,Law,3.24,2018-12-22
+102771,Eka,Law,2.89,2018-01-15
+102772,Dina,Computer Science,3.82,2020-06-25
+102773,Cici,Computer Science,3.31,2019-09-14
+102774,Dina,Computer Science,3.7,2021-05-08
+102775,Eka,Computer Science,3.04,2018-10-29
+102776,Budi,Law,3.21,2018-10-20
+102777,Budi,Law,2.72,2018-12-06
+102778,Cici,Law,2.41,2019-02-17
+102779,Budi,Business,3.99,2022-06-25
+102780,Dina,Engineering,2.31,2018-10-25
+102781,Budi,Business,3.35,2020-03-19
+102782,Ari,Business,2.79,2022-08-05
+102783,Cici,Computer Science,3.84,2019-10-11
+102784,Eka,Computer Science,3.21,2020-12-04
+102785,Ari,Engineering,2.27,2022-07-06
+102786,Budi,Business,3.4,2021-06-01
+102787,Dina,Computer Science,3.29,2020-05-15
+102788,Cici,Computer Science,3.27,2022-09-09
+102789,Budi,Computer Science,3.62,2022-08-29
+102790,Dina,Law,3.89,2021-04-23
+102791,Cici,Engineering,2.98,2020-05-09
+102792,Cici,Business,3.99,2019-05-18
+102793,Cici,Law,3.26,2020-01-25
+102794,Eka,Law,2.44,2022-05-06
+102795,Dina,Engineering,3.91,2020-02-27
+102796,Dina,Computer Science,3.15,2020-12-07
+102797,Dina,Computer Science,3.82,2019-02-24
+102798,Cici,Engineering,2.37,2021-02-17
+102799,Ari,Engineering,2.14,2022-05-30
+102800,Ari,Engineering,,2019-12-22
+102801,Eka,Law,3.99,2022-06-13
+102802,Eka,Engineering,2.72,2020-02-13
+102803,Eka,Engineering,2.87,2020-06-08
+102804,Eka,Business,2.8,2020-06-18
+102805,Eka,Law,3.77,2019-09-29
+102806,Cici,Engineering,3.94,2019-09-29
+102807,Budi,Law,2.24,2020-08-09
+102808,Budi,Law,2.54,2020-04-04
+102809,Dina,Engineering,2.74,2019-07-07
+102810,Cici,Engineering,3.43,2020-08-16
+102811,Budi,Engineering,2.41,2021-02-09
+102812,Dina,Computer Science,3.44,2019-07-10
+102813,Cici,Engineering,2.67,2018-10-04
+102814,Cici,Law,2.07,2018-08-26
+102815,Cici,Business,2.22,2020-06-22
+102816,Dina,Computer Science,3.84,2022-04-28
+102817,Budi,Engineering,3.24,2019-03-17
+102818,Dina,Computer Science,3.28,2019-06-06
+102819,Cici,Engineering,3.82,2021-05-01
+102820,Cici,Law,2.12,2018-01-24
+102821,Dina,Engineering,3.95,2021-08-15
+102822,Eka,Law,3.7,2020-10-25
+102823,Cici,Computer Science,3.67,2021-03-03
+102824,Budi,Computer Science,2.94,2018-05-27
+102825,Budi,Business,2.91,2019-09-06
+102826,Ari,Law,3.52,2020-01-19
+102827,Ari,Business,2.5,2018-09-15
+102828,Ari,Business,2.7,2018-04-04
+102829,Dina,Law,3.27,2020-05-26
+102830,Eka,Business,2.14,2020-10-29
+102831,Cici,Law,3.42,2021-11-05
+102832,Eka,Business,3.28,2018-05-10
+102833,Cici,Computer Science,3.37,2019-07-15
+102834,Cici,Engineering,3.02,2021-06-01
+102835,Cici,Law,2.77,2018-02-01
+102836,Eka,Engineering,3.54,2020-08-05
+102837,Eka,Business,3.25,2020-12-24
+102838,Budi,Business,2.85,2019-04-23
+102839,Budi,Computer Science,3.87,2018-12-10
+102840,Budi,Law,2.77,2018-05-02
+102841,Cici,Business,2.93,2020-09-01
+102842,Ari,Computer Science,2.94,2021-04-01
+102843,Budi,Business,2.37,2022-03-29
+102844,Budi,Computer Science,2.69,2021-10-03
+102845,Cici,Computer Science,2.96,2019-08-07
+102846,Eka,Business,3.21,2018-06-01
+102847,Dina,Business,2.93,2022-06-18
+102848,Eka,Computer Science,3.86,2021-12-13
+102849,Budi,Computer Science,3.75,2022-12-01
+102850,Ari,Law,3.89,2019-09-18
+102851,Dina,Computer Science,2.38,2018-08-29
+102852,Cici,Engineering,2.96,2022-05-19
+102853,Cici,Law,2.05,2022-12-30
+102854,Budi,Law,3.7,2019-09-15
+102855,Cici,Law,3.75,2018-08-02
+102856,Dina,Business,3.21,2021-07-29
+102857,Eka,Engineering,2.65,2019-10-07
+102858,Dina,Computer Science,2.16,2020-04-27
+102859,Dina,Computer Science,3.93,2018-03-04
+102860,Cici,Business,3.75,2020-08-01
+102861,Budi,Business,2.57,2020-10-03
+102862,Cici,Engineering,3.31,2022-08-18
+102863,Ari,Computer Science,3.62,2022-11-17
+102864,Budi,Computer Science,2.13,2019-08-26
+102865,Budi,Business,2.34,2020-02-09
+102866,Ari,Business,3.79,2018-10-11
+102867,Ari,Engineering,3.13,2019-01-25
+102868,Cici,Computer Science,3.07,2019-06-24
+102869,Ari,Engineering,3.87,2022-04-07
+102870,Budi,Engineering,2.38,2020-02-11
+102871,Cici,Business,2.5,2021-02-16
+102872,Ari,Business,2.49,2018-06-04
+102873,Ari,Engineering,3.3,2018-10-03
+102874,Budi,Computer Science,2.26,2018-08-06
+102875,Eka,Computer Science,3.03,2022-08-28
+102876,Eka,Business,2.93,2021-03-03
+102877,Budi,Law,3.47,2018-03-03
+102878,Eka,Business,3.32,2022-11-25
+102879,Budi,Business,2.0,2021-11-23
+102880,Budi,Computer Science,3.91,2019-11-16
+102881,Cici,Business,3.09,2022-08-21
+102882,Dina,Computer Science,2.44,2020-12-23
+102883,Ari,Engineering,3.15,2021-04-17
+102884,Budi,Law,3.99,2018-01-15
+102885,Ari,Computer Science,3.23,2018-06-10
+102886,Ari,Computer Science,3.31,2019-10-04
+102887,Dina,Computer Science,3.91,2022-04-03
+102888,Eka,Business,2.54,2018-08-14
+102889,Ari,Engineering,3.78,2019-08-19
+102890,Cici,Law,2.81,2018-11-24
+102891,Budi,Law,3.57,2021-03-08
+102892,Cici,Computer Science,2.95,2021-07-02
+102893,Budi,Business,2.12,2021-08-14
+102894,Dina,Computer Science,3.13,2022-06-04
+102895,Cici,Engineering,3.42,2018-01-01
+102896,Eka,Engineering,2.48,2022-10-12
+102897,Eka,Law,3.22,2018-01-05
+102898,Budi,Business,2.84,2021-07-19
+102899,Eka,Law,3.35,2021-04-25
+102900,Cici,Engineering,2.15,2022-02-14
+102901,Eka,Business,2.63,2020-11-24
+102902,Dina,Business,2.6,2018-05-23
+102903,Budi,Business,3.11,2018-02-14
+102904,Cici,Law,3.51,2018-05-19
+102905,Dina,Computer Science,2.45,2022-05-29
+102906,Ari,Computer Science,2.42,2018-03-24
+102907,Dina,Law,3.77,2022-05-27
+102908,Cici,Engineering,2.41,2020-06-26
+102909,Cici,Law,3.98,2020-11-09
+102910,Ari,Law,3.12,2020-12-05
+102911,Dina,Computer Science,3.43,2019-06-07
+102912,Ari,Business,2.26,2021-09-06
+102913,Ari,Computer Science,2.2,2022-04-10
+102914,Eka,Engineering,2.12,2022-10-21
+102915,Eka,Engineering,3.74,2021-03-05
+102916,Cici,Law,2.55,2019-08-01
+102917,Budi,Computer Science,3.93,2019-06-29
+102918,Ari,Law,3.58,2022-10-18
+102919,Budi,Engineering,2.52,2019-08-11
+102920,Budi,Business,3.17,2018-05-29
+102921,Budi,Computer Science,2.64,2021-04-23
+102922,Ari,Law,3.36,2019-02-22
+102923,Cici,Business,3.7,2022-11-20
+102924,Budi,Computer Science,2.9,2018-03-31
+102925,Budi,Computer Science,2.64,2019-03-10
+102926,Cici,Law,3.73,2018-07-21
+102927,Ari,Engineering,2.44,2021-01-14
+102928,Budi,Computer Science,2.7,2022-12-28
+102929,Cici,Business,3.7,2022-03-31
+102930,Ari,Law,3.58,2020-06-14
+102931,Budi,Law,2.06,2020-07-30
+102932,Dina,Law,3.9,2020-11-28
+102933,Dina,Computer Science,3.61,2020-06-05
+102934,Ari,Business,3.19,2020-04-14
+102935,Eka,Engineering,3.27,2020-06-07
+102936,Eka,Computer Science,2.4,2018-01-18
+102937,Cici,Law,3.6,2020-10-16
+102938,Eka,Business,2.7,2021-03-17
+102939,Cici,Computer Science,2.25,2019-05-08
+102940,Ari,Law,3.99,2022-10-04
+102941,Budi,Engineering,2.05,2022-04-29
+102942,Dina,Business,3.15,2022-01-29
+102943,Dina,Law,2.88,2019-05-15
+102944,Budi,Law,3.39,2022-02-26
+102945,Dina,Law,3.57,2022-01-08
+102946,Dina,Law,3.47,2020-01-06
+102947,Ari,Engineering,3.23,2022-09-21
+102948,Dina,Computer Science,3.35,2018-10-04
+102949,Budi,Law,2.98,2018-06-21
+102950,Eka,Business,3.19,2020-04-17
+102951,Budi,Computer Science,3.11,2021-02-04
+102952,Cici,Business,3.8,2022-05-12
+102953,Dina,Law,3.27,2019-07-25
+102954,Cici,Business,3.96,2021-12-04
+102955,Dina,Computer Science,2.35,2020-05-31
+102956,Budi,Law,2.34,2018-05-23
+102957,Eka,Computer Science,3.19,2022-08-11
+102958,Budi,Engineering,2.93,2019-05-29
+102959,Cici,Computer Science,3.44,2019-07-09
+102960,Dina,Computer Science,3.05,2020-09-01
+102961,Ari,Law,2.31,2020-08-07
+102962,Budi,Business,2.88,2018-04-29
+102963,Ari,Law,2.19,2020-01-22
+102964,Ari,Computer Science,3.47,2021-12-14
+102965,Dina,Business,2.19,2021-02-11
+102966,Budi,Engineering,2.5,2020-11-10
+102967,Budi,Engineering,2.76,2018-02-28
+102968,Cici,Law,2.94,2019-01-20
+102969,Ari,Computer Science,2.15,2019-08-30
+102970,Ari,Engineering,3.63,2021-02-11
+102971,Dina,Law,2.31,2022-11-23
+102972,Cici,Computer Science,2.96,2022-06-06
+102973,Cici,Computer Science,2.19,2019-03-07
+102974,Budi,Computer Science,2.28,2018-07-07
+102975,Dina,Business,3.55,2021-02-17
+102976,Ari,Business,3.95,2021-08-06
+102977,Dina,Business,3.13,2020-10-28
+102978,Budi,Business,3.49,2020-04-27
+102979,Ari,Law,3.18,2019-12-17
+102980,Dina,Business,2.72,2020-03-21
+102981,Cici,Engineering,2.45,2019-11-11
+102982,Cici,Engineering,3.65,2019-11-14
+102983,Ari,Engineering,3.26,2020-02-23
+102984,Budi,Law,2.3,2020-02-21
+102985,Eka,Business,3.63,2020-03-20
+102986,Eka,Business,3.6,2021-02-28
+102987,Budi,Law,2.84,2021-07-22
+102988,Cici,Computer Science,3.35,2020-04-27
+102989,Cici,Computer Science,2.6,2019-01-10
+102990,Cici,Computer Science,3.36,2022-08-31
+102991,Budi,Engineering,2.62,2022-08-18
+102992,Dina,Computer Science,3.44,2018-01-29
+102993,Dina,Computer Science,2.39,2021-07-17
+102994,Budi,Law,3.63,2018-04-22
+102995,Cici,Engineering,3.91,2021-08-28
+102996,Ari,Engineering,2.83,2021-07-27
+102997,Eka,Computer Science,3.81,2018-11-01
+102998,Dina,Business,2.83,2021-09-21
+102999,Budi,Computer Science,2.02,2021-06-12
+103000,Ari,Computer Science,,2021-04-09
+103001,Dina,Law,3.98,2019-04-14
+103002,Ari,Engineering,3.19,2022-11-18
+103003,Dina,Computer Science,3.36,2019-05-26
+103004,Cici,Engineering,2.32,2020-01-18
+103005,Cici,Engineering,3.86,2020-07-20
+103006,Dina,Engineering,3.98,2019-09-12
+103007,Ari,Engineering,3.23,2020-05-13
+103008,Budi,Law,2.77,2022-03-04
+103009,Ari,Business,2.31,2021-07-01
+103010,Budi,Law,2.62,2020-07-11
+103011,Ari,Law,2.85,2021-01-10
+103012,Ari,Business,2.29,2022-09-06
+103013,Budi,Computer Science,2.52,2022-10-28
+103014,Dina,Business,4.0,2018-07-20
+103015,Ari,Business,2.31,2018-05-07
+103016,Ari,Business,2.79,2021-06-20
+103017,Budi,Computer Science,3.7,2019-11-02
+103018,Dina,Law,3.33,2019-06-13
+103019,Dina,Business,2.79,2018-01-04
+103020,Ari,Business,2.96,2022-04-22
+103021,Ari,Law,3.27,2019-01-03
+103022,Cici,Engineering,3.41,2020-06-01
+103023,Dina,Law,2.52,2022-07-22
+103024,Eka,Computer Science,3.73,2019-08-02
+103025,Eka,Business,3.95,2020-12-16
+103026,Budi,Engineering,3.21,2022-11-10
+103027,Ari,Law,3.72,2018-03-15
+103028,Dina,Business,3.91,2022-10-11
+103029,Eka,Engineering,3.61,2020-12-08
+103030,Eka,Law,2.89,2021-12-06
+103031,Eka,Business,2.07,2020-03-13
+103032,Ari,Computer Science,2.84,2022-01-06
+103033,Eka,Computer Science,3.86,2021-01-15
+103034,Eka,Law,2.34,2019-01-07
+103035,Eka,Engineering,3.8,2019-02-14
+103036,Cici,Business,2.81,2022-12-24
+103037,Cici,Law,2.25,2021-05-16
+103038,Dina,Law,2.01,2021-10-06
+103039,Budi,Business,2.4,2020-10-12
+103040,Dina,Computer Science,3.9,2019-02-03
+103041,Cici,Engineering,2.57,2021-05-01
+103042,Budi,Computer Science,3.9,2018-01-26
+103043,Dina,Computer Science,3.95,2022-08-31
+103044,Dina,Engineering,3.9,2021-02-03
+103045,Cici,Business,3.96,2020-01-17
+103046,Ari,Law,2.91,2022-09-12
+103047,Eka,Computer Science,2.17,2022-02-25
+103048,Cici,Business,2.54,2018-11-23
+103049,Eka,Engineering,3.68,2020-05-14
+103050,Dina,Engineering,3.15,2021-01-07
+103051,Ari,Computer Science,2.13,2018-06-05
+103052,Eka,Law,3.76,2018-12-07
+103053,Ari,Law,3.13,2018-12-21
+103054,Ari,Computer Science,3.23,2021-01-08
+103055,Budi,Engineering,3.44,2019-03-29
+103056,Eka,Engineering,3.13,2018-08-08
+103057,Cici,Computer Science,2.95,2021-10-11
+103058,Cici,Engineering,2.32,2022-02-08
+103059,Cici,Engineering,3.62,2019-05-15
+103060,Budi,Law,2.17,2018-10-19
+103061,Eka,Law,3.61,2020-01-24
+103062,Eka,Business,2.75,2022-07-01
+103063,Ari,Engineering,2.22,2022-09-13
+103064,Dina,Engineering,3.36,2020-09-21
+103065,Dina,Business,2.18,2020-07-16
+103066,Budi,Business,3.0,2019-01-26
+103067,Eka,Business,3.97,2021-10-26
+103068,Eka,Engineering,3.73,2020-03-23
+103069,Eka,Computer Science,2.5,2022-11-24
+103070,Eka,Computer Science,3.87,2019-03-21
+103071,Ari,Engineering,3.82,2022-05-19
+103072,Budi,Engineering,3.76,2021-01-31
+103073,Budi,Law,2.02,2021-01-07
+103074,Budi,Engineering,3.65,2018-03-15
+103075,Eka,Computer Science,2.86,2020-11-26
+103076,Eka,Law,2.55,2021-12-26
+103077,Eka,Business,3.19,2022-07-09
+103078,Cici,Law,3.52,2018-06-28
+103079,Dina,Business,3.61,2022-12-05
+103080,Dina,Computer Science,2.44,2020-08-14
+103081,Budi,Computer Science,2.01,2018-10-02
+103082,Eka,Business,2.17,2019-06-03
+103083,Dina,Business,3.03,2020-10-07
+103084,Budi,Engineering,3.47,2020-07-22
+103085,Ari,Computer Science,3.38,2020-10-28
+103086,Budi,Engineering,3.36,2022-05-16
+103087,Ari,Computer Science,2.12,2022-10-29
+103088,Eka,Business,2.76,2019-02-21
+103089,Ari,Law,3.32,2018-12-25
+103090,Ari,Engineering,3.38,2018-01-29
+103091,Budi,Computer Science,3.9,2022-10-01
+103092,Ari,Business,3.27,2020-02-18
+103093,Ari,Engineering,3.51,2021-01-13
+103094,Budi,Business,2.9,2019-04-02
+103095,Ari,Engineering,3.61,2021-01-30
+103096,Dina,Law,3.02,2021-01-25
+103097,Eka,Law,2.01,2019-02-18
+103098,Budi,Business,3.4,2022-07-16
+103099,Dina,Computer Science,3.52,2019-05-02
+103100,Cici,Law,2.98,2022-03-27
+103101,Dina,Law,3.55,2021-09-05
+103102,Dina,Computer Science,2.9,2018-08-19
+103103,Eka,Computer Science,2.72,2019-09-24
+103104,Dina,Engineering,2.3,2018-08-14
+103105,Ari,Law,3.46,2022-05-17
+103106,Budi,Law,3.26,2019-09-02
+103107,Eka,Law,3.37,2022-09-15
+103108,Eka,Business,3.62,2018-07-23
+103109,Dina,Business,3.11,2018-07-16
+103110,Dina,Business,3.89,2018-02-11
+103111,Eka,Engineering,2.73,2018-02-27
+103112,Cici,Computer Science,2.56,2019-04-23
+103113,Budi,Engineering,3.68,2021-05-31
+103114,Ari,Engineering,3.28,2018-03-04
+103115,Ari,Law,2.68,2022-11-25
+103116,Dina,Law,2.92,2020-09-18
+103117,Cici,Computer Science,3.75,2022-08-02
+103118,Cici,Engineering,2.35,2018-03-20
+103119,Ari,Business,3.66,2019-07-11
+103120,Cici,Law,3.13,2022-04-18
+103121,Dina,Law,2.51,2021-12-12
+103122,Budi,Engineering,3.53,2022-01-27
+103123,Budi,Business,3.83,2019-02-09
+103124,Ari,Computer Science,3.92,2018-10-20
+103125,Budi,Engineering,2.23,2020-08-17
+103126,Cici,Business,3.41,2018-08-12
+103127,Cici,Engineering,3.91,2018-11-07
+103128,Budi,Law,3.53,2018-03-23
+103129,Ari,Business,3.28,2022-04-13
+103130,Dina,Computer Science,2.8,2022-01-27
+103131,Dina,Law,3.4,2022-04-26
+103132,Budi,Engineering,2.07,2019-01-11
+103133,Cici,Business,2.34,2022-04-28
+103134,Cici,Law,2.87,2021-03-10
+103135,Ari,Law,3.9,2022-12-27
+103136,Cici,Business,3.25,2022-02-19
+103137,Ari,Business,3.74,2019-05-25
+103138,Eka,Law,3.61,2022-07-17
+103139,Cici,Engineering,3.12,2021-08-02
+103140,Cici,Engineering,2.58,2022-08-30
+103141,Ari,Engineering,2.84,2019-10-26
+103142,Dina,Business,2.08,2022-06-04
+103143,Cici,Computer Science,2.33,2018-08-31
+103144,Eka,Engineering,2.55,2022-04-21
+103145,Dina,Business,3.95,2021-08-16
+103146,Cici,Law,3.07,2019-04-21
+103147,Dina,Business,3.82,2018-04-29
+103148,Ari,Computer Science,3.09,2019-10-16
+103149,Eka,Law,3.63,2021-01-03
+103150,Budi,Business,2.29,2022-12-11
+103151,Budi,Business,3.84,2018-11-22
+103152,Eka,Engineering,2.6,2022-12-16
+103153,Budi,Law,3.93,2018-02-26
+103154,Budi,Computer Science,3.59,2021-11-09
+103155,Budi,Computer Science,2.21,2020-05-11
+103156,Budi,Business,2.65,2018-12-18
+103157,Budi,Computer Science,2.4,2019-03-11
+103158,Cici,Business,3.71,2022-04-14
+103159,Budi,Business,2.46,2021-12-31
+103160,Ari,Computer Science,2.52,2019-03-10
+103161,Dina,Business,3.16,2022-04-10
+103162,Budi,Computer Science,3.9,2022-07-14
+103163,Cici,Law,2.81,2020-04-18
+103164,Eka,Computer Science,3.99,2018-10-01
+103165,Budi,Business,2.14,2018-12-26
+103166,Cici,Computer Science,2.4,2020-07-19
+103167,Eka,Business,3.77,2022-05-16
+103168,Ari,Computer Science,3.19,2019-06-10
+103169,Cici,Engineering,3.43,2019-05-11
+103170,Eka,Business,2.15,2021-07-27
+103171,Eka,Computer Science,2.44,2018-03-14
+103172,Eka,Engineering,2.54,2018-08-06
+103173,Ari,Engineering,3.89,2019-02-07
+103174,Dina,Engineering,2.34,2020-07-26
+103175,Ari,Engineering,3.32,2020-11-04
+103176,Dina,Law,3.16,2019-08-31
+103177,Dina,Engineering,3.31,2021-05-21
+103178,Ari,Business,2.43,2021-09-14
+103179,Dina,Business,3.5,2019-07-11
+103180,Eka,Business,3.5,2021-08-10
+103181,Eka,Engineering,3.79,2018-06-21
+103182,Eka,Business,3.47,2020-08-27
+103183,Budi,Computer Science,3.12,2020-02-17
+103184,Ari,Law,2.68,2020-05-20
+103185,Cici,Law,2.24,2019-06-28
+103186,Ari,Business,2.08,2020-11-16
+103187,Budi,Engineering,3.83,2018-02-09
+103188,Budi,Business,2.65,2021-07-15
+103189,Dina,Engineering,2.26,2019-05-09
+103190,Cici,Business,3.32,2021-10-16
+103191,Eka,Law,2.88,2018-03-28
+103192,Budi,Engineering,3.18,2021-02-17
+103193,Budi,Engineering,3.0,2021-11-17
+103194,Ari,Engineering,3.31,2022-03-10
+103195,Budi,Computer Science,3.06,2019-07-18
+103196,Budi,Business,2.96,2020-03-03
+103197,Eka,Business,3.23,2020-10-30
+103198,Dina,Business,3.58,2018-05-01
+103199,Dina,Business,3.49,2021-11-14
+103200,Eka,Engineering,,2022-05-01
+103201,Ari,Computer Science,2.54,2022-05-22
+103202,Ari,Law,3.56,2019-07-06
+103203,Cici,Business,3.33,2020-07-30
+103204,Dina,Computer Science,2.41,2019-08-21
+103205,Ari,Engineering,2.37,2019-05-18
+103206,Budi,Engineering,3.43,2020-12-29
+103207,Budi,Law,3.02,2021-07-20
+103208,Budi,Business,2.93,2018-07-17
+103209,Eka,Engineering,2.63,2020-09-28
+103210,Eka,Business,3.04,2019-04-08
+103211,Dina,Computer Science,3.97,2022-03-24
+103212,Eka,Engineering,2.43,2018-12-14
+103213,Dina,Law,2.4,2018-11-07
+103214,Cici,Law,3.0,2022-04-16
+103215,Eka,Law,3.46,2018-03-16
+103216,Cici,Law,3.36,2018-11-23
+103217,Eka,Computer Science,3.19,2019-02-06
+103218,Dina,Computer Science,3.6,2018-04-24
+103219,Ari,Computer Science,3.96,2021-02-03
+103220,Ari,Business,3.0,2022-07-16
+103221,Cici,Business,2.58,2021-12-20
+103222,Budi,Computer Science,2.63,2019-05-09
+103223,Eka,Computer Science,3.2,2020-03-14
+103224,Eka,Computer Science,2.68,2019-06-26
+103225,Budi,Engineering,2.67,2020-08-10
+103226,Eka,Computer Science,2.52,2020-09-14
+103227,Ari,Computer Science,2.05,2019-09-28
+103228,Budi,Law,2.18,2021-08-19
+103229,Eka,Engineering,2.66,2021-06-15
+103230,Ari,Law,2.82,2019-07-05
+103231,Ari,Law,2.31,2022-09-06
+103232,Budi,Business,2.78,2021-07-21
+103233,Ari,Business,2.93,2020-02-03
+103234,Dina,Business,3.3,2018-07-24
+103235,Budi,Law,3.0,2021-08-17
+103236,Ari,Engineering,2.92,2019-11-18
+103237,Cici,Engineering,3.76,2022-02-09
+103238,Cici,Law,3.38,2022-10-06
+103239,Ari,Business,3.98,2020-11-19
+103240,Eka,Engineering,2.38,2020-06-08
+103241,Ari,Computer Science,3.88,2021-10-23
+103242,Dina,Law,3.01,2021-12-01
+103243,Ari,Computer Science,2.08,2022-10-23
+103244,Ari,Computer Science,2.54,2021-05-01
+103245,Cici,Engineering,3.73,2022-02-06
+103246,Cici,Computer Science,2.58,2022-04-08
+103247,Ari,Business,3.59,2022-11-01
+103248,Cici,Law,3.39,2019-02-21
+103249,Ari,Business,3.02,2021-03-08
+103250,Budi,Computer Science,2.43,2020-05-18
+103251,Eka,Law,2.86,2020-03-16
+103252,Dina,Business,3.68,2020-07-09
+103253,Budi,Law,2.01,2019-01-23
+103254,Ari,Engineering,2.98,2020-01-28
+103255,Budi,Computer Science,3.15,2021-07-17
+103256,Eka,Law,3.04,2022-12-26
+103257,Budi,Computer Science,2.46,2019-11-05
+103258,Cici,Business,3.59,2022-07-24
+103259,Dina,Law,2.79,2020-08-15
+103260,Eka,Business,3.17,2022-06-02
+103261,Ari,Computer Science,2.99,2019-05-06
+103262,Dina,Computer Science,2.02,2022-05-11
+103263,Ari,Law,2.21,2021-04-21
+103264,Ari,Business,2.1,2019-09-02
+103265,Cici,Computer Science,2.94,2021-10-30
+103266,Ari,Engineering,2.07,2020-01-23
+103267,Ari,Business,2.43,2018-07-18
+103268,Dina,Law,3.69,2022-10-02
+103269,Cici,Business,3.37,2022-03-28
+103270,Cici,Engineering,2.17,2019-03-21
+103271,Eka,Law,3.58,2021-04-26
+103272,Ari,Business,2.37,2020-11-30
+103273,Dina,Computer Science,2.76,2021-08-27
+103274,Ari,Computer Science,2.79,2020-03-01
+103275,Budi,Engineering,2.09,2021-03-04
+103276,Eka,Business,2.31,2020-03-04
+103277,Dina,Engineering,3.49,2019-06-04
+103278,Budi,Business,3.82,2022-08-19
+103279,Dina,Computer Science,3.82,2020-04-08
+103280,Cici,Law,3.32,2022-09-26
+103281,Ari,Law,2.03,2022-11-22
+103282,Ari,Law,3.41,2022-07-19
+103283,Eka,Law,2.97,2021-03-30
+103284,Dina,Law,2.56,2021-10-20
+103285,Cici,Business,2.03,2022-12-19
+103286,Eka,Business,2.23,2021-04-19
+103287,Eka,Engineering,2.76,2020-09-16
+103288,Eka,Engineering,2.91,2019-09-19
+103289,Dina,Computer Science,2.57,2020-05-03
+103290,Ari,Business,3.14,2020-01-04
+103291,Cici,Engineering,3.35,2019-06-24
+103292,Dina,Business,3.12,2020-11-24
+103293,Cici,Computer Science,2.76,2018-02-11
+103294,Cici,Business,2.27,2019-10-12
+103295,Dina,Business,2.45,2022-10-18
+103296,Budi,Business,3.18,2022-01-30
+103297,Cici,Business,3.17,2021-03-05
+103298,Budi,Law,2.28,2022-03-01
+103299,Cici,Law,3.77,2021-05-25
+103300,Ari,Computer Science,2.72,2018-11-03
+103301,Dina,Computer Science,2.38,2019-09-13
+103302,Eka,Computer Science,3.7,2021-11-25
+103303,Cici,Engineering,3.76,2021-11-01
+103304,Dina,Law,3.66,2021-08-13
+103305,Budi,Business,2.34,2020-05-11
+103306,Budi,Law,2.59,2018-11-21
+103307,Ari,Law,3.1,2022-02-19
+103308,Dina,Engineering,2.99,2019-11-14
+103309,Dina,Business,2.7,2021-11-30
+103310,Dina,Business,3.3,2021-05-15
+103311,Budi,Engineering,2.36,2019-07-27
+103312,Dina,Business,2.06,2020-01-20
+103313,Eka,Law,3.74,2020-12-17
+103314,Cici,Engineering,2.55,2020-10-05
+103315,Dina,Law,3.34,2022-09-24
+103316,Ari,Business,2.48,2021-02-22
+103317,Ari,Engineering,3.73,2022-12-12
+103318,Cici,Business,3.44,2019-06-02
+103319,Ari,Law,2.03,2020-01-15
+103320,Ari,Business,3.81,2019-05-15
+103321,Dina,Law,3.53,2020-06-08
+103322,Budi,Business,2.67,2018-06-28
+103323,Cici,Engineering,3.59,2020-12-30
+103324,Ari,Business,3.97,2019-09-13
+103325,Ari,Engineering,3.24,2019-06-28
+103326,Eka,Business,2.64,2022-11-24
+103327,Cici,Law,3.57,2019-10-10
+103328,Eka,Computer Science,2.83,2022-11-26
+103329,Eka,Computer Science,3.41,2022-01-11
+103330,Ari,Computer Science,2.55,2019-02-09
+103331,Eka,Business,3.78,2018-06-05
+103332,Eka,Business,2.49,2018-06-19
+103333,Cici,Law,3.38,2022-05-08
+103334,Budi,Business,2.7,2021-11-30
+103335,Budi,Business,2.13,2021-11-05
+103336,Ari,Law,3.86,2021-01-29
+103337,Eka,Engineering,3.2,2020-05-31
+103338,Dina,Business,3.65,2019-12-04
+103339,Budi,Engineering,2.73,2018-03-14
+103340,Ari,Engineering,2.27,2021-02-12
+103341,Budi,Law,2.64,2021-05-11
+103342,Ari,Business,3.29,2021-10-28
+103343,Eka,Engineering,2.86,2022-10-21
+103344,Budi,Engineering,3.53,2019-01-09
+103345,Budi,Computer Science,2.36,2021-03-11
+103346,Budi,Law,3.51,2021-03-11
+103347,Ari,Law,2.4,2019-02-20
+103348,Ari,Law,2.07,2019-05-26
+103349,Ari,Engineering,2.14,2022-07-25
+103350,Budi,Engineering,3.54,2021-10-16
+103351,Eka,Computer Science,2.55,2022-03-04
+103352,Budi,Business,2.17,2019-11-06
+103353,Budi,Computer Science,3.32,2020-03-07
+103354,Eka,Computer Science,3.27,2022-09-27
+103355,Budi,Law,3.53,2022-01-27
+103356,Dina,Computer Science,3.95,2021-08-14
+103357,Ari,Computer Science,2.27,2019-02-08
+103358,Cici,Business,2.24,2021-06-30
+103359,Dina,Engineering,2.59,2018-06-26
+103360,Ari,Law,2.15,2021-05-17
+103361,Ari,Business,2.81,2022-08-11
+103362,Budi,Business,2.7,2018-07-09
+103363,Dina,Business,2.52,2022-01-04
+103364,Eka,Business,3.06,2021-03-25
+103365,Eka,Computer Science,2.7,2018-11-26
+103366,Eka,Engineering,2.9,2020-02-01
+103367,Cici,Computer Science,2.88,2021-09-24
+103368,Budi,Law,2.46,2019-10-31
+103369,Cici,Business,2.1,2018-01-05
+103370,Ari,Engineering,3.66,2022-09-12
+103371,Cici,Law,3.49,2018-11-14
+103372,Dina,Law,2.99,2018-01-06
+103373,Budi,Law,2.2,2021-01-06
+103374,Cici,Business,2.11,2020-06-08
+103375,Budi,Law,3.24,2020-12-26
+103376,Ari,Engineering,2.83,2022-11-02
+103377,Cici,Computer Science,2.07,2019-11-28
+103378,Ari,Engineering,2.12,2021-04-03
+103379,Eka,Law,2.77,2020-07-07
+103380,Ari,Engineering,3.44,2020-06-02
+103381,Eka,Computer Science,2.9,2021-09-24
+103382,Dina,Business,3.25,2019-06-02
+103383,Budi,Engineering,3.42,2021-10-31
+103384,Dina,Business,2.67,2020-06-04
+103385,Eka,Business,2.52,2019-01-12
+103386,Budi,Law,2.21,2020-07-17
+103387,Budi,Computer Science,2.25,2021-01-24
+103388,Dina,Engineering,2.15,2022-10-21
+103389,Ari,Law,2.66,2021-07-22
+103390,Budi,Engineering,2.6,2022-01-06
+103391,Ari,Engineering,2.78,2022-02-06
+103392,Budi,Law,3.33,2022-06-21
+103393,Ari,Engineering,3.54,2019-07-05
+103394,Budi,Law,3.43,2022-03-16
+103395,Ari,Business,2.02,2022-10-19
+103396,Eka,Business,2.59,2018-01-02
+103397,Ari,Engineering,3.4,2021-09-28
+103398,Eka,Business,2.3,2018-01-03
+103399,Budi,Business,2.89,2022-08-19
+103400,Dina,Business,,2019-06-14
+103401,Eka,Computer Science,3.71,2018-12-25
+103402,Ari,Engineering,2.05,2020-11-27
+103403,Cici,Engineering,2.0,2021-04-29
+103404,Budi,Engineering,2.67,2022-02-12
+103405,Cici,Business,3.48,2018-05-14
+103406,Cici,Computer Science,2.98,2022-05-30
+103407,Ari,Business,3.66,2019-08-04
+103408,Cici,Law,2.52,2018-10-27
+103409,Eka,Law,2.81,2021-01-17
+103410,Ari,Engineering,2.69,2018-02-28
+103411,Dina,Engineering,3.74,2022-02-23
+103412,Budi,Business,3.57,2018-10-18
+103413,Ari,Law,3.33,2019-11-01
+103414,Cici,Computer Science,2.93,2020-10-31
+103415,Cici,Computer Science,3.67,2018-07-25
+103416,Dina,Business,2.91,2019-02-13
+103417,Ari,Business,3.19,2021-10-09
+103418,Budi,Engineering,2.47,2019-02-12
+103419,Eka,Engineering,2.88,2019-09-20
+103420,Cici,Business,3.47,2022-08-17
+103421,Budi,Engineering,3.23,2018-07-03
+103422,Ari,Computer Science,3.6,2022-02-17
+103423,Budi,Computer Science,3.9,2020-03-07
+103424,Ari,Law,2.32,2018-12-29
+103425,Cici,Business,2.48,2021-09-13
+103426,Ari,Business,2.06,2022-01-15
+103427,Dina,Law,2.5,2019-06-10
+103428,Ari,Engineering,3.38,2020-12-27
+103429,Dina,Computer Science,3.05,2018-09-04
+103430,Ari,Law,2.75,2022-08-17
+103431,Cici,Computer Science,2.81,2018-11-17
+103432,Eka,Computer Science,2.67,2021-04-18
+103433,Ari,Computer Science,3.44,2018-05-15
+103434,Budi,Engineering,2.87,2021-08-22
+103435,Eka,Business,2.95,2019-12-15
+103436,Budi,Engineering,3.31,2022-02-05
+103437,Ari,Business,2.02,2021-09-03
+103438,Dina,Computer Science,2.74,2019-04-21
+103439,Cici,Business,3.66,2019-01-09
+103440,Cici,Business,3.88,2022-02-09
+103441,Ari,Engineering,3.82,2021-02-07
+103442,Budi,Engineering,3.54,2022-07-05
+103443,Eka,Computer Science,2.26,2021-06-17
+103444,Ari,Business,2.55,2019-03-30
+103445,Ari,Computer Science,3.57,2020-11-30
+103446,Ari,Law,2.89,2020-02-14
+103447,Dina,Business,3.48,2021-09-16
+103448,Dina,Engineering,3.58,2020-02-09
+103449,Eka,Computer Science,2.26,2021-01-02
+103450,Eka,Business,3.94,2022-10-07
+103451,Eka,Law,2.41,2018-11-09
+103452,Dina,Business,3.58,2018-01-27
+103453,Dina,Engineering,3.61,2021-02-07
+103454,Dina,Engineering,3.39,2020-10-08
+103455,Dina,Engineering,3.66,2018-06-10
+103456,Ari,Engineering,2.1,2021-12-04
+103457,Budi,Law,2.81,2020-11-26
+103458,Eka,Law,2.07,2021-07-07
+103459,Ari,Engineering,3.43,2020-06-12
+103460,Cici,Engineering,2.14,2022-09-14
+103461,Cici,Business,2.6,2019-12-16
+103462,Cici,Engineering,2.72,2018-07-11
+103463,Ari,Business,3.95,2022-03-12
+103464,Budi,Business,2.04,2018-08-27
+103465,Dina,Engineering,3.75,2020-01-29
+103466,Ari,Computer Science,3.81,2020-02-16
+103467,Cici,Engineering,2.37,2021-03-20
+103468,Eka,Engineering,3.67,2018-09-27
+103469,Cici,Engineering,3.86,2022-02-13
+103470,Eka,Engineering,2.48,2022-04-25
+103471,Budi,Business,2.31,2018-01-15
+103472,Ari,Law,3.89,2019-06-10
+103473,Eka,Law,2.65,2018-12-03
+103474,Ari,Computer Science,2.3,2022-07-07
+103475,Dina,Business,3.81,2019-01-27
+103476,Dina,Law,2.43,2019-04-01
+103477,Budi,Computer Science,2.95,2020-03-21
+103478,Cici,Business,2.89,2018-02-08
+103479,Eka,Engineering,2.84,2020-04-15
+103480,Eka,Business,2.21,2019-11-12
+103481,Dina,Business,2.04,2022-08-17
+103482,Ari,Computer Science,3.0,2021-06-19
+103483,Eka,Engineering,3.92,2020-11-17
+103484,Eka,Engineering,3.84,2022-11-10
+103485,Dina,Business,3.88,2022-08-26
+103486,Dina,Engineering,2.37,2020-10-18
+103487,Budi,Business,3.88,2021-08-29
+103488,Ari,Business,3.22,2021-04-11
+103489,Budi,Computer Science,3.89,2022-08-13
+103490,Ari,Computer Science,3.47,2021-05-07
+103491,Dina,Engineering,2.72,2022-04-26
+103492,Cici,Engineering,2.29,2022-03-12
+103493,Eka,Law,2.73,2020-01-08
+103494,Eka,Engineering,3.04,2021-01-15
+103495,Dina,Business,3.1,2022-04-18
+103496,Cici,Computer Science,2.84,2019-08-18
+103497,Eka,Engineering,3.45,2021-07-01
+103498,Cici,Engineering,2.68,2020-10-19
+103499,Ari,Law,2.89,2022-07-02
+103500,Eka,Business,2.74,2020-12-23
+103501,Cici,Computer Science,3.09,2019-07-23
+103502,Budi,Business,3.7,2022-09-29
+103503,Ari,Engineering,3.34,2022-02-23
+103504,Cici,Engineering,3.19,2019-05-14
+103505,Budi,Computer Science,2.49,2018-10-18
+103506,Cici,Law,2.74,2019-04-04
+103507,Budi,Engineering,2.1,2019-06-21
+103508,Ari,Engineering,3.69,2020-10-28
+103509,Ari,Law,3.24,2019-12-14
+103510,Budi,Computer Science,2.03,2018-09-03
+103511,Budi,Engineering,2.43,2018-05-03
+103512,Ari,Engineering,3.83,2018-03-29
+103513,Budi,Law,3.7,2019-06-19
+103514,Dina,Engineering,2.37,2022-08-17
+103515,Budi,Engineering,3.64,2018-01-24
+103516,Cici,Engineering,3.67,2019-01-06
+103517,Cici,Law,2.44,2021-09-04
+103518,Dina,Business,3.87,2019-11-05
+103519,Budi,Computer Science,2.01,2021-04-24
+103520,Eka,Engineering,2.95,2021-12-20
+103521,Eka,Computer Science,3.01,2022-10-29
+103522,Ari,Law,2.36,2022-03-11
+103523,Cici,Business,2.72,2018-04-20
+103524,Eka,Engineering,3.04,2018-12-05
+103525,Cici,Business,3.06,2019-05-14
+103526,Cici,Engineering,3.74,2018-09-13
+103527,Ari,Computer Science,2.97,2020-09-10
+103528,Cici,Business,2.78,2022-08-14
+103529,Cici,Engineering,2.24,2022-10-30
+103530,Eka,Law,3.63,2021-11-02
+103531,Cici,Engineering,3.74,2021-02-28
+103532,Dina,Computer Science,3.47,2022-08-24
+103533,Budi,Law,2.09,2018-09-10
+103534,Cici,Law,3.62,2022-11-24
+103535,Ari,Computer Science,3.32,2019-04-27
+103536,Cici,Engineering,3.48,2020-07-15
+103537,Ari,Business,2.79,2020-12-20
+103538,Dina,Engineering,3.72,2022-11-28
+103539,Ari,Computer Science,3.15,2021-07-23
+103540,Eka,Law,3.3,2019-07-02
+103541,Dina,Law,2.79,2021-12-13
+103542,Budi,Engineering,2.18,2018-03-10
+103543,Ari,Business,2.83,2022-06-18
+103544,Dina,Computer Science,2.86,2018-04-24
+103545,Budi,Law,3.36,2021-07-26
+103546,Cici,Law,3.89,2020-11-08
+103547,Ari,Computer Science,2.76,2019-10-23
+103548,Cici,Law,3.56,2019-03-31
+103549,Cici,Law,2.05,2019-11-22
+103550,Dina,Business,2.26,2021-10-02
+103551,Cici,Engineering,3.64,2019-12-09
+103552,Ari,Computer Science,2.92,2022-03-05
+103553,Cici,Computer Science,2.17,2021-11-13
+103554,Budi,Business,3.19,2018-03-12
+103555,Cici,Computer Science,3.79,2019-06-14
+103556,Ari,Law,3.72,2020-09-28
+103557,Dina,Business,2.3,2020-10-29
+103558,Ari,Business,3.87,2018-09-13
+103559,Dina,Law,3.91,2022-09-24
+103560,Dina,Computer Science,3.02,2020-07-07
+103561,Dina,Business,3.2,2018-06-17
+103562,Eka,Engineering,3.3,2019-02-28
+103563,Cici,Law,2.06,2021-11-11
+103564,Cici,Law,2.2,2021-12-02
+103565,Cici,Law,3.13,2018-04-20
+103566,Ari,Engineering,2.72,2018-07-01
+103567,Cici,Engineering,2.26,2022-09-13
+103568,Dina,Engineering,2.76,2020-05-02
+103569,Dina,Computer Science,3.37,2019-01-03
+103570,Eka,Computer Science,2.79,2020-09-14
+103571,Budi,Computer Science,2.3,2020-10-03
+103572,Budi,Computer Science,2.33,2019-11-05
+103573,Cici,Law,2.38,2021-09-09
+103574,Eka,Law,2.34,2019-01-02
+103575,Budi,Law,2.13,2020-12-12
+103576,Ari,Computer Science,3.52,2020-09-03
+103577,Cici,Engineering,3.99,2020-08-19
+103578,Cici,Engineering,2.93,2018-01-17
+103579,Cici,Computer Science,3.78,2021-02-07
+103580,Dina,Engineering,3.09,2021-09-29
+103581,Ari,Business,2.86,2021-10-14
+103582,Cici,Engineering,2.29,2021-05-28
+103583,Dina,Business,2.48,2018-09-04
+103584,Cici,Law,3.42,2018-11-01
+103585,Eka,Law,2.63,2019-02-10
+103586,Eka,Law,2.98,2022-07-05
+103587,Ari,Law,3.61,2022-11-04
+103588,Eka,Business,2.24,2020-01-18
+103589,Cici,Computer Science,3.94,2021-05-08
+103590,Cici,Engineering,3.47,2021-08-01
+103591,Budi,Engineering,2.1,2022-07-12
+103592,Ari,Engineering,2.81,2019-02-27
+103593,Ari,Business,3.32,2018-12-03
+103594,Cici,Engineering,3.41,2020-03-22
+103595,Eka,Law,2.32,2020-10-15
+103596,Ari,Law,3.24,2021-09-08
+103597,Cici,Business,3.43,2022-11-01
+103598,Cici,Business,2.81,2018-11-08
+103599,Budi,Computer Science,2.24,2019-04-17
+103600,Budi,Computer Science,,2021-03-07
+103601,Cici,Engineering,3.1,2020-11-07
+103602,Cici,Engineering,2.33,2018-08-21
+103603,Dina,Engineering,2.56,2018-10-01
+103604,Ari,Engineering,2.94,2022-03-26
+103605,Budi,Engineering,3.73,2019-03-09
+103606,Dina,Business,3.89,2021-09-01
+103607,Cici,Engineering,2.63,2021-01-22
+103608,Eka,Law,2.22,2019-05-13
+103609,Budi,Law,2.13,2018-12-29
+103610,Eka,Business,3.84,2021-10-22
+103611,Ari,Computer Science,3.4,2020-03-21
+103612,Budi,Computer Science,2.78,2018-10-18
+103613,Dina,Engineering,2.18,2020-01-30
+103614,Dina,Computer Science,3.86,2019-04-12
+103615,Cici,Law,3.2,2019-08-10
+103616,Budi,Computer Science,2.36,2020-07-19
+103617,Ari,Computer Science,3.73,2019-11-01
+103618,Ari,Law,2.03,2019-11-04
+103619,Dina,Computer Science,2.5,2022-04-11
+103620,Eka,Business,2.42,2018-03-03
+103621,Dina,Business,2.28,2020-08-13
+103622,Ari,Computer Science,2.6,2021-04-21
+103623,Budi,Computer Science,3.81,2020-07-31
+103624,Budi,Computer Science,3.47,2020-05-23
+103625,Eka,Law,3.87,2021-11-01
+103626,Budi,Law,3.18,2022-06-20
+103627,Cici,Business,3.91,2021-06-10
+103628,Cici,Engineering,3.62,2018-04-27
+103629,Eka,Business,3.54,2021-09-03
+103630,Ari,Computer Science,2.41,2021-02-28
+103631,Dina,Business,3.03,2021-12-17
+103632,Budi,Business,2.22,2022-05-19
+103633,Ari,Law,2.29,2019-11-24
+103634,Dina,Computer Science,2.42,2021-10-30
+103635,Cici,Engineering,3.77,2018-01-12
+103636,Eka,Business,2.87,2020-11-08
+103637,Budi,Engineering,3.48,2020-09-28
+103638,Eka,Business,2.85,2020-09-02
+103639,Dina,Business,3.38,2018-01-09
+103640,Eka,Law,3.86,2018-12-14
+103641,Ari,Business,3.4,2018-02-28
+103642,Dina,Computer Science,2.72,2018-12-25
+103643,Ari,Engineering,3.58,2018-12-16
+103644,Cici,Business,2.91,2020-05-12
+103645,Ari,Law,2.36,2018-01-20
+103646,Eka,Law,3.65,2021-01-22
+103647,Budi,Law,2.07,2022-11-13
+103648,Ari,Business,2.56,2021-01-28
+103649,Dina,Law,3.31,2020-08-28
+103650,Dina,Law,3.0,2021-08-09
+103651,Eka,Law,3.01,2022-12-09
+103652,Cici,Engineering,2.14,2019-07-13
+103653,Eka,Business,2.47,2020-08-04
+103654,Budi,Law,2.77,2021-04-19
+103655,Ari,Law,2.78,2018-09-18
+103656,Cici,Engineering,3.37,2021-04-30
+103657,Cici,Business,2.94,2020-08-17
+103658,Eka,Business,2.18,2018-11-18
+103659,Dina,Law,3.07,2018-03-29
+103660,Cici,Law,2.75,2021-10-22
+103661,Budi,Engineering,3.8,2020-10-27
+103662,Dina,Law,2.74,2019-01-10
+103663,Budi,Business,3.12,2018-11-19
+103664,Eka,Engineering,3.41,2018-12-25
+103665,Eka,Computer Science,3.63,2020-12-22
+103666,Budi,Engineering,3.13,2018-03-27
+103667,Dina,Computer Science,2.63,2020-10-11
+103668,Dina,Law,2.34,2020-11-19
+103669,Ari,Computer Science,2.51,2021-11-24
+103670,Cici,Engineering,3.11,2018-07-15
+103671,Ari,Business,2.48,2022-11-12
+103672,Budi,Law,3.24,2020-03-29
+103673,Eka,Law,2.15,2022-03-13
+103674,Eka,Business,3.99,2021-04-14
+103675,Ari,Law,3.93,2022-08-09
+103676,Ari,Business,3.7,2019-03-04
+103677,Budi,Business,2.82,2018-02-01
+103678,Budi,Law,2.25,2021-01-20
+103679,Cici,Law,2.37,2020-09-29
+103680,Dina,Engineering,3.44,2022-09-03
+103681,Cici,Law,2.27,2018-04-02
+103682,Budi,Business,3.76,2019-05-28
+103683,Budi,Business,2.21,2018-09-19
+103684,Ari,Engineering,3.08,2021-05-23
+103685,Budi,Computer Science,3.35,2019-08-19
+103686,Budi,Engineering,3.4,2021-12-25
+103687,Dina,Engineering,3.7,2019-11-19
+103688,Dina,Business,3.84,2018-12-26
+103689,Eka,Engineering,2.77,2022-03-20
+103690,Eka,Law,3.58,2019-01-26
+103691,Cici,Engineering,3.18,2021-01-16
+103692,Budi,Computer Science,3.72,2018-03-28
+103693,Eka,Business,2.88,2018-09-04
+103694,Eka,Engineering,3.13,2020-11-19
+103695,Dina,Computer Science,2.93,2021-06-10
+103696,Ari,Business,3.04,2022-06-19
+103697,Ari,Business,2.12,2022-05-25
+103698,Eka,Business,3.44,2021-05-12
+103699,Ari,Engineering,2.67,2021-12-07
+103700,Eka,Law,2.4,2022-06-22
+103701,Eka,Law,3.22,2022-08-24
+103702,Dina,Engineering,2.73,2020-05-26
+103703,Eka,Law,3.31,2021-10-19
+103704,Ari,Engineering,2.94,2018-09-15
+103705,Eka,Computer Science,2.02,2019-05-16
+103706,Ari,Engineering,3.92,2022-04-08
+103707,Budi,Engineering,2.52,2018-12-29
+103708,Ari,Business,3.57,2022-02-03
+103709,Eka,Law,2.52,2018-03-21
+103710,Budi,Law,2.46,2019-02-06
+103711,Eka,Business,2.93,2022-06-18
+103712,Cici,Law,2.86,2022-07-10
+103713,Cici,Law,3.0,2021-11-17
+103714,Dina,Business,3.8,2020-06-20
+103715,Dina,Engineering,3.64,2020-04-20
+103716,Ari,Computer Science,2.09,2020-09-06
+103717,Dina,Engineering,3.54,2018-08-05
+103718,Dina,Computer Science,3.46,2019-12-09
+103719,Budi,Engineering,3.32,2020-07-13
+103720,Cici,Business,3.53,2019-07-19
+103721,Eka,Business,2.03,2019-06-26
+103722,Budi,Computer Science,3.55,2020-04-04
+103723,Cici,Law,3.67,2019-06-28
+103724,Ari,Computer Science,2.04,2018-09-18
+103725,Eka,Business,3.86,2019-06-05
+103726,Eka,Law,3.29,2018-12-08
+103727,Dina,Business,3.13,2021-12-11
+103728,Budi,Business,3.26,2019-03-08
+103729,Eka,Computer Science,3.04,2022-08-08
+103730,Dina,Law,3.24,2022-11-05
+103731,Dina,Law,2.48,2022-12-12
+103732,Dina,Business,2.85,2022-03-08
+103733,Cici,Computer Science,3.02,2022-11-30
+103734,Budi,Engineering,3.73,2022-04-17
+103735,Eka,Engineering,2.55,2020-08-19
+103736,Budi,Computer Science,2.05,2019-03-27
+103737,Ari,Computer Science,3.2,2018-05-17
+103738,Budi,Law,2.94,2021-05-29
+103739,Cici,Law,2.73,2020-05-03
+103740,Cici,Law,3.14,2020-03-09
+103741,Dina,Engineering,3.13,2019-10-04
+103742,Budi,Business,2.45,2021-06-22
+103743,Eka,Business,2.38,2022-02-27
+103744,Eka,Law,3.61,2021-07-05
+103745,Ari,Law,2.91,2022-03-17
+103746,Cici,Computer Science,3.58,2018-01-11
+103747,Cici,Computer Science,3.22,2018-03-12
+103748,Cici,Business,2.15,2019-03-16
+103749,Eka,Business,3.38,2018-09-11
+103750,Eka,Computer Science,3.57,2020-07-23
+103751,Ari,Business,2.85,2020-01-11
+103752,Cici,Business,2.7,2020-04-30
+103753,Ari,Law,2.57,2022-08-19
+103754,Ari,Law,3.8,2019-03-24
+103755,Eka,Computer Science,3.63,2022-10-07
+103756,Budi,Computer Science,3.69,2018-01-15
+103757,Eka,Computer Science,2.24,2018-06-23
+103758,Dina,Computer Science,3.16,2020-12-12
+103759,Eka,Business,2.52,2022-10-18
+103760,Cici,Engineering,3.44,2020-09-06
+103761,Eka,Engineering,2.22,2022-09-30
+103762,Budi,Computer Science,2.85,2018-10-01
+103763,Eka,Law,2.32,2019-07-28
+103764,Budi,Engineering,2.33,2019-11-12
+103765,Budi,Law,2.07,2022-07-17
+103766,Dina,Business,3.46,2020-07-23
+103767,Dina,Business,2.05,2022-11-02
+103768,Ari,Business,2.14,2019-03-03
+103769,Cici,Business,3.53,2018-10-28
+103770,Dina,Computer Science,3.01,2018-01-20
+103771,Eka,Computer Science,3.75,2019-08-25
+103772,Eka,Law,2.94,2019-04-02
+103773,Cici,Business,3.67,2020-06-13
+103774,Dina,Computer Science,2.35,2021-03-17
+103775,Ari,Engineering,3.63,2019-06-28
+103776,Dina,Computer Science,3.1,2022-08-03
+103777,Cici,Engineering,2.92,2022-01-18
+103778,Dina,Engineering,3.4,2020-12-03
+103779,Ari,Law,3.38,2021-04-30
+103780,Eka,Engineering,3.32,2022-10-21
+103781,Dina,Business,2.49,2019-11-22
+103782,Budi,Business,2.24,2022-11-22
+103783,Eka,Computer Science,3.32,2020-12-02
+103784,Cici,Computer Science,2.85,2019-08-18
+103785,Ari,Law,3.38,2018-11-28
+103786,Cici,Law,3.41,2020-07-19
+103787,Budi,Business,3.64,2021-05-08
+103788,Ari,Business,3.97,2018-01-16
+103789,Eka,Law,3.9,2020-02-09
+103790,Ari,Engineering,2.89,2021-01-30
+103791,Ari,Engineering,2.53,2022-05-18
+103792,Budi,Law,3.87,2018-11-04
+103793,Dina,Law,2.15,2019-02-02
+103794,Cici,Engineering,3.74,2022-04-22
+103795,Cici,Business,2.83,2020-04-25
+103796,Eka,Law,3.64,2018-07-12
+103797,Cici,Business,2.51,2021-09-27
+103798,Ari,Law,3.63,2018-11-29
+103799,Dina,Business,2.57,2020-12-17
+103800,Budi,Computer Science,,2018-01-12
+103801,Ari,Law,3.81,2022-06-27
+103802,Eka,Business,3.54,2019-11-06
+103803,Cici,Law,3.2,2020-11-24
+103804,Cici,Computer Science,2.76,2018-09-10
+103805,Eka,Computer Science,3.74,2021-06-24
+103806,Dina,Engineering,2.21,2020-08-14
+103807,Dina,Engineering,3.26,2021-11-28
+103808,Cici,Computer Science,3.45,2021-08-20
+103809,Budi,Computer Science,2.01,2019-05-10
+103810,Dina,Computer Science,2.64,2019-07-19
+103811,Cici,Computer Science,2.08,2019-04-07
+103812,Dina,Computer Science,3.49,2019-06-02
+103813,Eka,Computer Science,2.1,2020-03-10
+103814,Cici,Computer Science,3.95,2020-07-18
+103815,Cici,Business,2.2,2020-05-16
+103816,Cici,Engineering,3.42,2020-08-03
+103817,Eka,Law,2.91,2020-02-07
+103818,Budi,Law,2.35,2018-03-23
+103819,Eka,Engineering,2.97,2022-10-06
+103820,Dina,Computer Science,3.13,2020-06-14
+103821,Budi,Business,3.06,2018-12-06
+103822,Eka,Business,3.81,2018-03-29
+103823,Ari,Engineering,2.76,2022-10-21
+103824,Cici,Computer Science,2.55,2019-09-21
+103825,Budi,Engineering,3.37,2019-06-08
+103826,Dina,Computer Science,3.0,2021-05-13
+103827,Eka,Business,3.87,2020-11-25
+103828,Eka,Business,2.84,2020-05-02
+103829,Ari,Engineering,2.43,2018-07-27
+103830,Dina,Business,2.43,2022-11-17
+103831,Budi,Business,3.07,2021-11-16
+103832,Eka,Computer Science,3.42,2021-07-28
+103833,Ari,Law,3.22,2020-07-16
+103834,Dina,Computer Science,3.6,2021-12-04
+103835,Dina,Computer Science,2.41,2022-06-10
+103836,Ari,Business,2.63,2021-12-24
+103837,Dina,Business,2.3,2019-06-05
+103838,Eka,Business,3.33,2020-04-19
+103839,Cici,Business,3.55,2020-05-12
+103840,Budi,Business,3.74,2018-07-17
+103841,Eka,Engineering,3.42,2020-01-20
+103842,Budi,Business,3.94,2019-09-30
+103843,Budi,Law,3.26,2020-07-01
+103844,Budi,Engineering,2.35,2019-09-02
+103845,Cici,Business,2.34,2022-02-26
+103846,Dina,Engineering,3.84,2022-06-04
+103847,Ari,Business,3.08,2019-03-03
+103848,Budi,Computer Science,2.46,2019-10-26
+103849,Ari,Business,3.55,2020-01-28
+103850,Eka,Law,3.18,2018-12-17
+103851,Dina,Law,2.15,2020-03-02
+103852,Dina,Computer Science,3.9,2021-04-19
+103853,Dina,Computer Science,2.17,2018-09-04
+103854,Ari,Computer Science,3.82,2018-02-03
+103855,Eka,Law,3.34,2022-02-03
+103856,Budi,Business,3.34,2018-03-08
+103857,Dina,Business,3.26,2021-10-27
+103858,Cici,Engineering,2.79,2021-04-13
+103859,Ari,Business,2.74,2022-12-08
+103860,Dina,Law,3.33,2022-01-26
+103861,Eka,Business,3.53,2019-03-27
+103862,Ari,Business,3.51,2019-10-04
+103863,Dina,Business,3.21,2022-11-30
+103864,Ari,Engineering,2.12,2021-02-19
+103865,Dina,Law,3.88,2019-12-04
+103866,Budi,Engineering,3.6,2019-12-07
+103867,Dina,Engineering,3.29,2019-06-06
+103868,Dina,Computer Science,2.43,2021-06-12
+103869,Cici,Business,2.23,2018-05-07
+103870,Budi,Computer Science,2.77,2022-05-19
+103871,Budi,Business,2.99,2021-03-27
+103872,Cici,Engineering,2.95,2018-11-11
+103873,Ari,Law,2.85,2020-04-24
+103874,Budi,Business,2.75,2019-10-01
+103875,Dina,Law,2.26,2019-11-04
+103876,Ari,Business,3.32,2021-08-31
+103877,Cici,Engineering,3.0,2018-02-18
+103878,Eka,Computer Science,2.37,2019-05-15
+103879,Ari,Law,2.15,2021-04-24
+103880,Budi,Business,2.47,2019-05-25
+103881,Ari,Computer Science,3.41,2020-02-06
+103882,Ari,Engineering,3.86,2021-06-16
+103883,Ari,Business,3.48,2021-01-24
+103884,Budi,Business,3.6,2020-05-10
+103885,Budi,Law,2.19,2020-10-18
+103886,Ari,Engineering,3.55,2021-01-04
+103887,Eka,Engineering,2.54,2020-08-26
+103888,Cici,Business,3.02,2020-07-08
+103889,Cici,Computer Science,2.27,2020-05-30
+103890,Dina,Computer Science,2.45,2021-09-15
+103891,Budi,Business,3.62,2018-02-17
+103892,Ari,Business,2.75,2018-04-19
+103893,Eka,Business,2.04,2019-01-18
+103894,Dina,Business,2.72,2018-06-14
+103895,Ari,Business,3.21,2019-11-12
+103896,Dina,Engineering,2.19,2022-09-26
+103897,Budi,Engineering,3.39,2018-05-16
+103898,Budi,Engineering,3.16,2020-08-20
+103899,Budi,Law,2.38,2022-03-04
+103900,Eka,Computer Science,2.14,2020-10-18
+103901,Budi,Law,2.59,2019-07-26
+103902,Eka,Engineering,3.66,2019-03-12
+103903,Dina,Law,3.67,2022-02-05
+103904,Dina,Law,2.24,2021-10-08
+103905,Eka,Computer Science,3.68,2020-09-24
+103906,Ari,Computer Science,2.04,2018-12-20
+103907,Eka,Business,3.37,2019-09-18
+103908,Budi,Law,2.78,2022-08-03
+103909,Budi,Computer Science,3.34,2019-02-24
+103910,Dina,Business,2.47,2018-09-21
+103911,Cici,Law,2.53,2022-04-18
+103912,Eka,Business,3.02,2022-09-24
+103913,Dina,Business,3.45,2019-06-28
+103914,Eka,Business,3.77,2021-12-01
+103915,Cici,Engineering,3.2,2022-07-02
+103916,Eka,Law,2.85,2019-10-26
+103917,Budi,Computer Science,2.38,2019-03-25
+103918,Ari,Business,3.36,2018-06-24
+103919,Cici,Computer Science,2.87,2020-07-15
+103920,Cici,Business,3.79,2021-01-21
+103921,Ari,Computer Science,3.07,2020-11-19
+103922,Budi,Computer Science,2.05,2022-09-19
+103923,Dina,Law,2.77,2020-12-01
+103924,Ari,Business,2.22,2020-12-11
+103925,Eka,Law,2.52,2021-10-15
+103926,Eka,Engineering,3.04,2018-05-27
+103927,Cici,Engineering,3.29,2018-02-12
+103928,Eka,Law,2.61,2021-10-02
+103929,Cici,Business,2.84,2018-03-09
+103930,Budi,Law,3.64,2018-11-15
+103931,Eka,Business,2.57,2022-01-28
+103932,Dina,Business,3.44,2020-05-04
+103933,Eka,Law,3.46,2019-05-12
+103934,Ari,Engineering,3.24,2019-07-26
+103935,Eka,Computer Science,2.91,2022-12-13
+103936,Eka,Engineering,3.69,2022-11-25
+103937,Eka,Law,3.62,2022-07-11
+103938,Eka,Computer Science,3.25,2022-12-29
+103939,Budi,Computer Science,2.29,2022-12-17
+103940,Budi,Engineering,3.04,2018-11-02
+103941,Dina,Computer Science,2.39,2019-07-21
+103942,Budi,Engineering,2.39,2019-10-29
+103943,Eka,Engineering,2.82,2021-12-06
+103944,Cici,Engineering,3.73,2019-08-06
+103945,Eka,Computer Science,2.42,2021-01-12
+103946,Ari,Law,2.95,2022-10-10
+103947,Dina,Computer Science,3.19,2019-09-28
+103948,Budi,Engineering,2.47,2021-01-06
+103949,Dina,Computer Science,3.3,2019-07-09
+103950,Budi,Law,3.76,2018-07-20
+103951,Dina,Business,3.49,2020-07-22
+103952,Eka,Engineering,2.63,2019-12-17
+103953,Dina,Business,3.67,2018-09-06
+103954,Ari,Engineering,2.97,2021-03-25
+103955,Cici,Business,3.47,2018-06-11
+103956,Ari,Business,3.73,2019-12-30
+103957,Budi,Business,2.03,2019-07-22
+103958,Dina,Computer Science,3.35,2018-01-05
+103959,Eka,Computer Science,2.94,2020-09-23
+103960,Eka,Law,3.47,2021-10-01
+103961,Cici,Law,2.37,2021-09-05
+103962,Budi,Law,3.21,2020-10-03
+103963,Ari,Computer Science,3.2,2018-05-23
+103964,Budi,Law,3.19,2019-09-23
+103965,Eka,Law,3.08,2018-11-02
+103966,Dina,Law,2.0,2018-05-08
+103967,Eka,Law,3.99,2020-01-20
+103968,Ari,Law,3.3,2018-04-27
+103969,Eka,Computer Science,3.12,2020-03-24
+103970,Cici,Law,2.94,2018-06-14
+103971,Eka,Law,2.18,2019-05-13
+103972,Eka,Business,2.29,2018-05-31
+103973,Ari,Computer Science,3.32,2020-11-01
+103974,Cici,Computer Science,3.2,2021-06-19
+103975,Ari,Law,3.11,2021-05-09
+103976,Cici,Law,2.03,2020-11-09
+103977,Eka,Engineering,3.89,2018-04-15
+103978,Ari,Business,2.71,2019-07-08
+103979,Cici,Computer Science,3.07,2019-02-01
+103980,Ari,Law,3.04,2021-03-02
+103981,Budi,Business,2.9,2022-06-21
+103982,Cici,Engineering,3.2,2021-07-31
+103983,Ari,Computer Science,3.9,2020-11-07
+103984,Ari,Computer Science,2.31,2021-08-08
+103985,Budi,Engineering,3.06,2021-04-07
+103986,Budi,Computer Science,2.95,2019-08-28
+103987,Ari,Law,3.63,2018-08-28
+103988,Cici,Business,3.63,2020-05-01
+103989,Cici,Engineering,2.06,2018-07-02
+103990,Eka,Law,3.92,2020-09-28
+103991,Dina,Engineering,2.52,2021-03-30
+103992,Dina,Computer Science,3.59,2018-04-24
+103993,Eka,Engineering,3.91,2020-04-09
+103994,Eka,Business,3.58,2020-10-23
+103995,Dina,Engineering,3.1,2019-03-27
+103996,Eka,Engineering,2.09,2020-06-26
+103997,Cici,Business,2.44,2019-12-29
+103998,Ari,Engineering,2.66,2021-01-26
+103999,Eka,Law,3.02,2020-11-27
+104000,Budi,Engineering,,2020-09-01
+104001,Ari,Law,3.57,2018-12-02
+104002,Ari,Computer Science,3.53,2022-08-22
+104003,Dina,Computer Science,2.4,2021-11-05
+104004,Dina,Law,2.52,2018-07-03
+104005,Dina,Business,2.2,2020-10-25
+104006,Cici,Engineering,2.55,2018-07-30
+104007,Budi,Engineering,2.99,2021-02-23
+104008,Eka,Business,3.03,2022-12-17
+104009,Dina,Law,2.45,2022-03-14
+104010,Ari,Business,3.74,2019-10-31
+104011,Eka,Law,3.78,2019-07-10
+104012,Eka,Business,3.27,2022-11-16
+104013,Budi,Business,3.15,2019-07-26
+104014,Cici,Engineering,3.32,2020-08-01
+104015,Ari,Law,3.73,2022-08-02
+104016,Budi,Business,3.21,2022-07-11
+104017,Dina,Engineering,3.91,2018-05-14
+104018,Ari,Business,3.88,2019-04-03
+104019,Ari,Computer Science,3.26,2021-01-12
+104020,Ari,Computer Science,2.75,2020-12-23
+104021,Ari,Computer Science,3.27,2022-02-01
+104022,Budi,Engineering,2.62,2021-03-25
+104023,Budi,Computer Science,2.28,2022-08-08
+104024,Cici,Law,3.35,2018-12-05
+104025,Dina,Business,3.95,2020-05-14
+104026,Cici,Business,2.38,2021-07-30
+104027,Eka,Law,3.13,2018-11-25
+104028,Eka,Computer Science,2.42,2020-03-04
+104029,Cici,Law,2.75,2019-04-27
+104030,Budi,Computer Science,2.85,2021-02-20
+104031,Cici,Engineering,2.52,2021-12-31
+104032,Cici,Engineering,3.63,2021-06-19
+104033,Ari,Computer Science,2.52,2020-09-30
+104034,Eka,Computer Science,3.78,2021-01-26
+104035,Budi,Business,3.0,2018-06-07
+104036,Ari,Engineering,2.35,2021-07-21
+104037,Dina,Business,2.87,2021-02-09
+104038,Ari,Business,2.91,2021-10-28
+104039,Ari,Law,2.8,2018-05-04
+104040,Cici,Engineering,2.82,2018-11-08
+104041,Budi,Computer Science,3.82,2019-03-11
+104042,Budi,Law,2.44,2020-01-23
+104043,Ari,Engineering,3.89,2018-11-27
+104044,Ari,Engineering,2.63,2019-03-18
+104045,Ari,Law,3.94,2021-12-02
+104046,Eka,Computer Science,3.79,2021-06-01
+104047,Dina,Computer Science,2.44,2018-04-05
+104048,Eka,Business,2.37,2019-01-10
+104049,Eka,Computer Science,2.93,2020-05-05
+104050,Budi,Computer Science,3.53,2018-11-28
+104051,Ari,Law,2.13,2019-07-27
+104052,Cici,Computer Science,2.53,2019-07-12
+104053,Budi,Computer Science,3.64,2020-10-06
+104054,Eka,Computer Science,2.11,2021-07-08
+104055,Cici,Computer Science,3.45,2021-07-29
+104056,Dina,Computer Science,2.4,2022-04-20
+104057,Cici,Law,3.02,2020-02-05
+104058,Cici,Engineering,2.02,2022-04-27
+104059,Eka,Computer Science,2.62,2021-08-15
+104060,Eka,Law,3.28,2020-01-09
+104061,Dina,Law,2.47,2022-06-10
+104062,Dina,Law,2.16,2018-04-12
+104063,Budi,Computer Science,3.76,2018-08-06
+104064,Eka,Business,2.26,2018-12-11
+104065,Budi,Business,3.65,2019-02-11
+104066,Dina,Engineering,3.92,2022-06-07
+104067,Eka,Business,2.1,2022-10-22
+104068,Budi,Engineering,3.6,2022-01-29
+104069,Dina,Business,3.48,2021-11-07
+104070,Ari,Business,3.6,2019-10-03
+104071,Cici,Law,3.19,2019-10-03
+104072,Ari,Law,3.0,2019-11-10
+104073,Budi,Engineering,2.03,2021-09-05
+104074,Cici,Law,3.29,2019-08-22
+104075,Ari,Computer Science,2.15,2022-08-15
+104076,Dina,Law,2.83,2022-08-14
+104077,Ari,Computer Science,2.82,2022-05-11
+104078,Ari,Law,3.87,2021-08-29
+104079,Eka,Business,2.96,2020-01-21
+104080,Ari,Engineering,2.91,2021-01-06
+104081,Budi,Business,3.08,2019-01-28
+104082,Eka,Business,2.42,2022-04-05
+104083,Cici,Business,2.68,2020-10-06
+104084,Dina,Law,3.19,2020-09-30
+104085,Ari,Business,2.06,2022-11-03
+104086,Budi,Law,2.55,2020-05-12
+104087,Cici,Law,2.87,2022-11-02
+104088,Ari,Business,3.51,2018-11-08
+104089,Cici,Business,3.01,2020-01-16
+104090,Dina,Law,2.48,2019-04-11
+104091,Eka,Business,2.41,2021-04-23
+104092,Dina,Engineering,2.18,2020-10-28
+104093,Ari,Law,2.77,2020-11-03
+104094,Budi,Law,3.63,2019-01-07
+104095,Budi,Business,3.93,2022-12-04
+104096,Budi,Law,3.62,2022-07-03
+104097,Ari,Law,3.43,2019-07-29
+104098,Ari,Engineering,3.63,2019-01-09
+104099,Budi,Engineering,3.16,2021-07-08
+104100,Ari,Law,2.01,2018-10-11
+104101,Dina,Law,3.79,2022-02-26
+104102,Cici,Engineering,3.44,2018-05-05
+104103,Cici,Law,2.0,2020-09-03
+104104,Cici,Business,3.13,2018-11-01
+104105,Ari,Law,3.6,2019-06-21
+104106,Dina,Engineering,3.99,2018-09-13
+104107,Budi,Computer Science,2.71,2020-08-21
+104108,Cici,Business,2.02,2020-09-02
+104109,Dina,Computer Science,2.62,2021-02-06
+104110,Cici,Business,2.77,2020-01-27
+104111,Cici,Engineering,2.09,2022-12-26
+104112,Dina,Business,2.8,2019-06-16
+104113,Budi,Engineering,2.56,2020-08-17
+104114,Budi,Engineering,3.49,2021-07-13
+104115,Ari,Engineering,3.59,2020-09-29
+104116,Dina,Engineering,3.04,2021-09-27
+104117,Ari,Computer Science,2.61,2021-10-15
+104118,Cici,Business,3.28,2018-02-26
+104119,Dina,Engineering,2.14,2022-08-10
+104120,Cici,Law,2.94,2020-02-12
+104121,Cici,Law,3.23,2020-06-16
+104122,Budi,Engineering,2.38,2019-10-04
+104123,Cici,Engineering,3.18,2018-03-14
+104124,Eka,Business,3.87,2018-12-12
+104125,Cici,Computer Science,3.55,2020-10-06
+104126,Cici,Law,2.28,2022-06-24
+104127,Ari,Business,2.02,2022-08-29
+104128,Dina,Law,2.88,2018-08-17
+104129,Dina,Business,2.35,2020-03-16
+104130,Budi,Computer Science,3.17,2022-03-18
+104131,Cici,Engineering,3.7,2018-05-23
+104132,Budi,Engineering,3.4,2019-12-06
+104133,Ari,Law,3.84,2021-03-10
+104134,Ari,Computer Science,3.23,2018-03-25
+104135,Ari,Engineering,2.94,2022-01-18
+104136,Eka,Engineering,2.87,2019-03-01
+104137,Eka,Engineering,3.17,2019-04-08
+104138,Ari,Law,2.32,2021-05-17
+104139,Ari,Computer Science,2.96,2020-10-08
+104140,Budi,Computer Science,2.09,2022-10-30
+104141,Dina,Business,2.93,2019-09-01
+104142,Ari,Law,2.07,2018-04-26
+104143,Eka,Law,3.77,2019-02-01
+104144,Budi,Engineering,2.64,2019-09-29
+104145,Cici,Computer Science,2.97,2022-03-17
+104146,Cici,Computer Science,3.38,2019-05-28
+104147,Ari,Engineering,3.23,2018-09-15
+104148,Budi,Business,3.65,2020-04-04
+104149,Eka,Computer Science,2.24,2019-05-10
+104150,Ari,Engineering,3.97,2020-09-17
+104151,Dina,Business,2.2,2018-05-28
+104152,Dina,Business,2.19,2020-01-31
+104153,Eka,Business,2.35,2019-12-21
+104154,Dina,Engineering,2.48,2021-06-19
+104155,Budi,Computer Science,2.13,2021-07-12
+104156,Cici,Computer Science,2.51,2018-11-25
+104157,Cici,Business,3.22,2019-11-05
+104158,Dina,Computer Science,2.57,2018-11-22
+104159,Cici,Business,3.62,2018-09-05
+104160,Eka,Computer Science,2.48,2018-04-08
+104161,Budi,Computer Science,3.81,2021-06-08
+104162,Ari,Engineering,2.37,2020-08-26
+104163,Dina,Business,3.8,2019-11-14
+104164,Budi,Business,3.06,2019-01-30
+104165,Dina,Law,2.85,2018-12-19
+104166,Budi,Business,2.78,2019-04-18
+104167,Eka,Engineering,3.14,2020-01-20
+104168,Ari,Computer Science,2.81,2021-10-11
+104169,Budi,Computer Science,2.32,2020-08-07
+104170,Dina,Engineering,3.54,2020-06-01
+104171,Eka,Business,2.84,2020-01-15
+104172,Ari,Business,3.19,2020-05-08
+104173,Eka,Law,2.79,2019-02-02
+104174,Dina,Business,3.57,2020-10-14
+104175,Eka,Computer Science,2.43,2018-06-04
+104176,Budi,Computer Science,2.23,2022-07-11
+104177,Eka,Business,3.08,2018-04-04
+104178,Dina,Law,3.24,2021-03-18
+104179,Cici,Engineering,2.19,2022-11-29
+104180,Dina,Business,2.76,2022-05-12
+104181,Cici,Law,2.94,2020-06-09
+104182,Cici,Law,2.67,2022-03-27
+104183,Dina,Law,2.14,2022-11-30
+104184,Dina,Law,3.59,2020-03-29
+104185,Budi,Engineering,2.94,2020-10-13
+104186,Cici,Engineering,2.41,2022-12-11
+104187,Dina,Computer Science,2.25,2018-02-09
+104188,Dina,Law,2.18,2020-04-08
+104189,Ari,Engineering,3.44,2018-08-09
+104190,Ari,Business,2.84,2022-01-07
+104191,Budi,Business,3.89,2022-04-04
+104192,Eka,Law,2.35,2018-12-18
+104193,Ari,Business,2.21,2020-09-24
+104194,Ari,Law,3.91,2022-03-26
+104195,Dina,Business,2.56,2019-09-14
+104196,Budi,Law,2.2,2020-04-20
+104197,Cici,Law,2.4,2020-11-19
+104198,Budi,Engineering,3.85,2018-07-04
+104199,Eka,Law,3.23,2018-12-20
+104200,Dina,Law,,2020-07-22
+104201,Dina,Computer Science,3.05,2018-07-10
+104202,Eka,Engineering,3.86,2021-03-28
+104203,Cici,Computer Science,2.1,2019-08-11
+104204,Cici,Engineering,2.26,2021-09-04
+104205,Dina,Law,3.13,2020-10-25
+104206,Cici,Business,3.76,2022-10-01
+104207,Ari,Business,2.42,2022-08-26
+104208,Budi,Computer Science,3.92,2022-06-12
+104209,Eka,Law,2.85,2021-07-04
+104210,Cici,Computer Science,3.35,2018-11-12
+104211,Ari,Computer Science,2.29,2018-06-26
+104212,Budi,Computer Science,3.79,2019-06-06
+104213,Cici,Law,2.81,2018-05-16
+104214,Eka,Law,2.78,2019-03-25
+104215,Eka,Engineering,3.11,2019-06-22
+104216,Dina,Engineering,2.16,2021-08-24
+104217,Ari,Business,2.42,2022-06-21
+104218,Cici,Business,2.47,2018-07-22
+104219,Dina,Business,3.38,2022-04-26
+104220,Ari,Business,2.9,2019-09-12
+104221,Budi,Law,2.69,2022-09-21
+104222,Dina,Law,3.95,2021-05-29
+104223,Eka,Computer Science,2.08,2022-04-13
+104224,Cici,Computer Science,2.62,2020-04-05
+104225,Budi,Engineering,3.42,2022-08-16
+104226,Cici,Computer Science,2.95,2018-11-27
+104227,Cici,Engineering,3.73,2022-06-05
+104228,Dina,Business,2.33,2020-11-01
+104229,Budi,Engineering,2.92,2021-04-23
+104230,Dina,Engineering,2.68,2022-11-21
+104231,Ari,Law,3.45,2019-07-02
+104232,Budi,Engineering,2.78,2022-04-03
+104233,Ari,Engineering,2.48,2022-02-22
+104234,Dina,Computer Science,2.16,2018-04-04
+104235,Budi,Business,3.1,2022-12-05
+104236,Ari,Computer Science,3.84,2022-04-05
+104237,Eka,Engineering,3.47,2020-06-13
+104238,Eka,Law,3.32,2021-06-11
+104239,Ari,Engineering,2.81,2020-01-12
+104240,Eka,Business,2.5,2021-12-29
+104241,Ari,Computer Science,3.27,2018-12-21
+104242,Budi,Business,2.65,2022-02-16
+104243,Ari,Computer Science,3.67,2020-04-10
+104244,Ari,Engineering,3.44,2018-04-12
+104245,Budi,Business,2.11,2020-06-29
+104246,Cici,Business,2.49,2020-09-08
+104247,Budi,Law,3.97,2020-02-24
+104248,Dina,Business,2.11,2020-10-23
+104249,Dina,Computer Science,3.96,2020-12-26
+104250,Eka,Law,2.47,2018-06-13
+104251,Ari,Business,2.87,2021-04-12
+104252,Cici,Computer Science,3.2,2020-04-15
+104253,Dina,Engineering,3.77,2020-05-13
+104254,Eka,Business,3.64,2019-02-16
+104255,Ari,Business,3.1,2020-07-21
+104256,Ari,Law,3.15,2022-06-20
+104257,Cici,Engineering,2.17,2022-02-04
+104258,Ari,Law,3.59,2019-10-10
+104259,Ari,Law,2.66,2020-12-28
+104260,Ari,Business,2.01,2020-05-27
+104261,Eka,Engineering,3.53,2021-02-08
+104262,Cici,Business,2.21,2020-10-07
+104263,Ari,Business,3.28,2018-08-28
+104264,Budi,Computer Science,2.25,2021-04-20
+104265,Budi,Computer Science,3.21,2022-12-17
+104266,Ari,Engineering,2.37,2020-09-12
+104267,Eka,Business,2.69,2018-08-26
+104268,Budi,Law,2.48,2022-03-20
+104269,Budi,Computer Science,2.08,2018-01-30
+104270,Budi,Computer Science,3.38,2018-01-13
+104271,Ari,Business,2.97,2022-05-13
+104272,Dina,Business,2.49,2021-09-15
+104273,Ari,Business,2.84,2022-10-17
+104274,Eka,Computer Science,3.59,2020-12-13
+104275,Budi,Computer Science,2.62,2021-08-15
+104276,Eka,Engineering,3.25,2018-07-27
+104277,Dina,Business,3.78,2022-07-24
+104278,Eka,Engineering,3.9,2019-03-14
+104279,Budi,Business,2.02,2022-09-14
+104280,Dina,Law,3.8,2019-08-21
+104281,Ari,Engineering,3.72,2019-10-09
+104282,Dina,Business,2.88,2022-07-21
+104283,Dina,Law,2.03,2022-05-12
+104284,Ari,Law,2.46,2018-06-10
+104285,Eka,Business,2.53,2019-10-10
+104286,Cici,Engineering,2.59,2022-06-18
+104287,Ari,Law,2.76,2022-10-13
+104288,Eka,Law,2.86,2020-08-05
+104289,Cici,Engineering,3.17,2021-01-02
+104290,Eka,Engineering,2.93,2018-11-27
+104291,Cici,Computer Science,3.46,2021-01-28
+104292,Cici,Law,2.87,2021-04-08
+104293,Budi,Law,3.34,2022-04-10
+104294,Ari,Engineering,3.29,2021-08-10
+104295,Ari,Computer Science,3.9,2020-04-18
+104296,Dina,Business,2.28,2019-12-07
+104297,Budi,Engineering,3.7,2018-07-02
+104298,Dina,Law,2.29,2021-01-26
+104299,Ari,Computer Science,3.84,2018-01-19
+104300,Eka,Business,3.87,2018-05-15
+104301,Budi,Law,2.4,2022-05-15
+104302,Ari,Engineering,3.61,2018-05-02
+104303,Budi,Business,3.66,2019-03-16
+104304,Cici,Computer Science,3.61,2022-06-05
+104305,Cici,Business,2.4,2019-03-29
+104306,Cici,Law,3.41,2022-03-28
+104307,Dina,Law,3.02,2018-08-23
+104308,Eka,Engineering,2.42,2019-08-14
+104309,Budi,Law,3.19,2018-12-24
+104310,Ari,Computer Science,3.62,2019-01-23
+104311,Eka,Business,3.72,2020-03-23
+104312,Budi,Law,3.16,2018-06-25
+104313,Dina,Engineering,2.46,2019-02-17
+104314,Dina,Computer Science,2.09,2021-09-13
+104315,Budi,Engineering,3.61,2021-10-21
+104316,Eka,Engineering,2.52,2021-06-07
+104317,Ari,Computer Science,2.32,2021-07-25
+104318,Cici,Engineering,3.25,2018-03-29
+104319,Dina,Computer Science,3.31,2021-10-11
+104320,Dina,Engineering,3.57,2020-03-24
+104321,Eka,Computer Science,2.19,2021-08-26
+104322,Cici,Engineering,2.95,2020-01-14
+104323,Dina,Engineering,3.09,2019-10-05
+104324,Budi,Computer Science,2.64,2018-12-24
+104325,Dina,Law,2.22,2019-07-03
+104326,Cici,Law,3.05,2018-11-29
+104327,Dina,Engineering,3.46,2022-04-12
+104328,Dina,Engineering,3.36,2022-04-28
+104329,Eka,Law,3.02,2020-01-14
+104330,Eka,Law,3.01,2020-02-02
+104331,Eka,Computer Science,3.81,2019-04-15
+104332,Dina,Law,2.77,2019-01-06
+104333,Ari,Engineering,3.61,2019-08-25
+104334,Budi,Computer Science,3.11,2019-06-18
+104335,Cici,Engineering,3.01,2022-12-13
+104336,Budi,Computer Science,3.18,2022-09-02
+104337,Dina,Business,2.2,2021-12-03
+104338,Dina,Computer Science,2.8,2021-03-11
+104339,Cici,Engineering,2.5,2020-09-21
+104340,Budi,Engineering,3.58,2018-11-07
+104341,Budi,Business,3.43,2020-12-31
+104342,Ari,Computer Science,2.19,2022-02-14
+104343,Dina,Law,2.64,2020-11-14
+104344,Cici,Engineering,2.89,2020-08-09
+104345,Budi,Law,3.54,2021-09-21
+104346,Dina,Business,2.22,2022-11-28
+104347,Eka,Law,2.78,2019-08-27
+104348,Ari,Engineering,3.91,2019-01-06
+104349,Eka,Engineering,3.14,2020-10-01
+104350,Budi,Business,3.02,2022-12-30
+104351,Dina,Computer Science,3.83,2020-10-26
+104352,Dina,Law,3.9,2020-11-07
+104353,Dina,Engineering,2.43,2022-09-10
+104354,Eka,Engineering,3.41,2022-08-07
+104355,Dina,Engineering,3.37,2022-07-12
+104356,Eka,Business,3.77,2021-02-09
+104357,Budi,Business,3.85,2018-12-28
+104358,Ari,Engineering,2.33,2022-07-13
+104359,Ari,Computer Science,2.39,2020-07-05
+104360,Cici,Engineering,2.49,2022-05-12
+104361,Budi,Computer Science,2.32,2020-01-04
+104362,Eka,Engineering,3.79,2018-11-03
+104363,Budi,Law,2.23,2021-05-04
+104364,Cici,Law,2.61,2021-04-08
+104365,Dina,Computer Science,2.24,2020-12-04
+104366,Budi,Law,2.84,2019-03-12
+104367,Cici,Business,2.12,2019-03-31
+104368,Ari,Engineering,3.68,2022-01-18
+104369,Dina,Law,2.77,2021-11-23
+104370,Budi,Computer Science,3.19,2020-10-06
+104371,Budi,Business,3.74,2018-12-11
+104372,Eka,Law,2.17,2018-01-11
+104373,Budi,Computer Science,2.7,2019-04-26
+104374,Cici,Computer Science,3.42,2018-01-08
+104375,Eka,Engineering,3.29,2022-10-28
+104376,Budi,Business,3.01,2020-04-12
+104377,Eka,Computer Science,3.2,2020-01-06
+104378,Dina,Business,2.88,2018-08-27
+104379,Dina,Engineering,2.8,2021-08-09
+104380,Budi,Business,2.85,2022-03-17
+104381,Ari,Law,2.29,2018-02-12
+104382,Budi,Law,2.01,2022-04-03
+104383,Budi,Computer Science,3.45,2022-11-08
+104384,Ari,Law,2.13,2022-02-21
+104385,Cici,Business,2.33,2018-09-16
+104386,Ari,Engineering,3.59,2019-02-15
+104387,Eka,Business,2.39,2020-06-13
+104388,Eka,Business,3.57,2022-02-20
+104389,Budi,Law,3.01,2021-12-07
+104390,Dina,Engineering,2.91,2018-06-03
+104391,Budi,Law,3.05,2022-03-13
+104392,Cici,Law,3.86,2020-10-26
+104393,Cici,Engineering,3.45,2019-10-12
+104394,Dina,Engineering,3.27,2021-08-19
+104395,Budi,Law,3.87,2019-01-13
+104396,Budi,Business,2.98,2021-07-08
+104397,Ari,Law,2.34,2019-01-02
+104398,Ari,Engineering,3.11,2020-11-04
+104399,Budi,Computer Science,3.92,2021-04-17
+104400,Ari,Engineering,,2020-03-02
+104401,Dina,Law,3.72,2022-02-11
+104402,Ari,Law,2.77,2018-10-29
+104403,Budi,Engineering,2.19,2020-11-04
+104404,Dina,Law,2.63,2021-04-22
+104405,Dina,Business,3.89,2022-09-16
+104406,Ari,Engineering,3.05,2019-07-15
+104407,Ari,Business,2.24,2020-12-18
+104408,Budi,Business,3.43,2020-03-24
+104409,Cici,Business,3.56,2018-09-28
+104410,Ari,Computer Science,3.5,2021-06-13
+104411,Ari,Engineering,2.19,2022-11-27
+104412,Dina,Engineering,3.2,2022-01-18
+104413,Dina,Engineering,3.13,2018-04-21
+104414,Budi,Computer Science,2.9,2022-01-09
+104415,Cici,Business,2.07,2018-03-27
+104416,Dina,Engineering,2.4,2021-02-17
+104417,Eka,Business,2.53,2022-04-02
+104418,Ari,Law,3.19,2022-08-20
+104419,Dina,Engineering,2.14,2019-01-02
+104420,Eka,Computer Science,2.56,2019-10-04
+104421,Ari,Engineering,2.67,2018-04-08
+104422,Cici,Computer Science,3.44,2021-01-23
+104423,Dina,Computer Science,2.55,2022-03-04
+104424,Cici,Law,2.13,2021-05-03
+104425,Ari,Engineering,2.5,2021-03-13
+104426,Eka,Law,3.29,2018-05-24
+104427,Budi,Engineering,2.68,2018-12-09
+104428,Ari,Computer Science,2.09,2021-06-07
+104429,Ari,Law,3.94,2021-12-08
+104430,Eka,Computer Science,3.96,2018-04-06
+104431,Eka,Computer Science,3.26,2019-05-14
+104432,Ari,Engineering,2.09,2019-02-01
+104433,Dina,Computer Science,3.08,2021-11-22
+104434,Cici,Engineering,3.73,2020-06-11
+104435,Dina,Business,2.66,2019-11-18
+104436,Cici,Engineering,2.77,2020-06-08
+104437,Ari,Law,2.39,2021-08-03
+104438,Dina,Law,3.78,2021-04-26
+104439,Ari,Law,3.84,2019-03-20
+104440,Cici,Computer Science,2.44,2021-08-04
+104441,Eka,Engineering,3.92,2021-05-10
+104442,Cici,Computer Science,3.49,2022-09-28
+104443,Cici,Engineering,3.04,2018-03-10
+104444,Cici,Engineering,2.82,2019-08-07
+104445,Dina,Engineering,4.0,2022-12-19
+104446,Eka,Computer Science,3.59,2020-09-26
+104447,Ari,Engineering,2.46,2018-06-16
+104448,Budi,Law,3.81,2021-01-07
+104449,Cici,Engineering,3.63,2020-09-16
+104450,Budi,Business,3.93,2022-06-03
+104451,Eka,Engineering,2.44,2018-09-18
+104452,Ari,Computer Science,2.46,2018-05-06
+104453,Budi,Engineering,3.01,2019-05-07
+104454,Cici,Computer Science,2.13,2019-11-12
+104455,Eka,Engineering,2.38,2020-08-09
+104456,Eka,Computer Science,2.87,2020-09-19
+104457,Eka,Computer Science,2.09,2018-09-05
+104458,Cici,Computer Science,3.1,2018-04-27
+104459,Ari,Law,3.5,2020-12-26
+104460,Eka,Business,3.21,2022-08-01
+104461,Dina,Engineering,2.17,2018-02-10
+104462,Budi,Computer Science,3.4,2022-10-09
+104463,Cici,Engineering,3.03,2020-06-05
+104464,Eka,Engineering,3.31,2022-09-22
+104465,Ari,Business,3.52,2020-12-13
+104466,Eka,Business,2.04,2022-06-17
+104467,Ari,Computer Science,3.04,2018-05-05
+104468,Eka,Engineering,2.57,2021-07-23
+104469,Ari,Computer Science,2.07,2020-01-05
+104470,Budi,Engineering,3.13,2020-05-07
+104471,Cici,Business,2.09,2021-09-15
+104472,Ari,Engineering,3.95,2022-02-01
+104473,Dina,Computer Science,3.32,2020-02-20
+104474,Ari,Engineering,3.03,2022-05-28
+104475,Dina,Computer Science,2.81,2018-02-05
+104476,Ari,Business,2.82,2021-05-21
+104477,Dina,Business,2.72,2021-01-26
+104478,Cici,Law,2.53,2019-04-22
+104479,Eka,Engineering,2.41,2020-05-09
+104480,Budi,Engineering,3.65,2021-06-27
+104481,Dina,Business,3.34,2021-06-24
+104482,Eka,Engineering,2.01,2022-01-25
+104483,Cici,Law,2.06,2021-06-13
+104484,Eka,Computer Science,2.48,2019-11-13
+104485,Budi,Engineering,3.95,2022-01-23
+104486,Dina,Business,3.44,2018-01-30
+104487,Budi,Engineering,2.6,2019-08-02
+104488,Ari,Law,2.09,2022-11-20
+104489,Budi,Business,2.94,2022-10-28
+104490,Ari,Computer Science,3.76,2021-11-10
+104491,Dina,Engineering,2.66,2018-10-28
+104492,Ari,Computer Science,2.35,2019-12-09
+104493,Cici,Law,2.96,2021-09-24
+104494,Dina,Engineering,3.49,2022-09-19
+104495,Dina,Law,3.94,2021-09-27
+104496,Cici,Business,2.42,2018-10-07
+104497,Cici,Law,3.66,2021-01-29
+104498,Budi,Business,2.48,2021-01-09
+104499,Budi,Law,3.0,2018-04-19
+104500,Eka,Engineering,3.5,2018-05-22
+104501,Budi,Engineering,3.46,2018-06-14
+104502,Ari,Business,2.99,2021-10-07
+104503,Cici,Engineering,3.04,2022-01-05
+104504,Dina,Business,2.42,2019-07-11
+104505,Ari,Engineering,2.1,2018-01-22
+104506,Dina,Business,2.92,2019-02-15
+104507,Cici,Business,2.12,2020-04-15
+104508,Eka,Business,2.21,2021-09-20
+104509,Dina,Business,2.29,2019-05-04
+104510,Dina,Law,3.83,2018-04-12
+104511,Dina,Computer Science,2.92,2021-02-26
+104512,Dina,Business,3.2,2018-11-13
+104513,Dina,Law,3.18,2021-01-14
+104514,Eka,Law,2.66,2019-03-11
+104515,Dina,Engineering,2.17,2018-04-25
+104516,Ari,Computer Science,3.56,2018-05-08
+104517,Budi,Business,3.25,2022-11-22
+104518,Ari,Law,2.38,2019-11-03
+104519,Budi,Computer Science,2.83,2021-03-20
+104520,Eka,Law,2.6,2022-05-09
+104521,Ari,Law,2.83,2018-02-24
+104522,Eka,Engineering,2.46,2021-12-12
+104523,Dina,Law,3.86,2021-06-30
+104524,Budi,Computer Science,3.51,2021-04-23
+104525,Cici,Engineering,3.82,2021-02-06
+104526,Cici,Business,3.7,2021-06-11
+104527,Budi,Engineering,3.9,2021-11-04
+104528,Dina,Business,2.68,2020-08-03
+104529,Dina,Law,2.73,2018-07-14
+104530,Budi,Computer Science,2.27,2018-12-29
+104531,Budi,Engineering,3.8,2021-02-21
+104532,Dina,Law,3.73,2018-05-28
+104533,Budi,Engineering,3.96,2018-04-09
+104534,Eka,Law,3.68,2020-09-18
+104535,Eka,Engineering,2.13,2018-04-23
+104536,Eka,Computer Science,3.26,2019-11-19
+104537,Dina,Computer Science,3.88,2020-06-01
+104538,Dina,Computer Science,2.45,2022-09-10
+104539,Ari,Law,2.21,2022-06-05
+104540,Cici,Law,3.49,2021-12-20
+104541,Cici,Law,2.81,2018-09-19
+104542,Dina,Computer Science,2.01,2018-06-22
+104543,Dina,Engineering,4.0,2018-06-04
+104544,Eka,Law,2.49,2018-05-17
+104545,Eka,Business,2.83,2022-12-20
+104546,Eka,Law,2.09,2021-11-13
+104547,Budi,Law,3.58,2019-02-23
+104548,Cici,Business,2.19,2020-07-23
+104549,Ari,Engineering,2.2,2019-03-09
+104550,Dina,Engineering,2.29,2022-07-23
+104551,Eka,Law,2.3,2022-08-28
+104552,Budi,Computer Science,2.14,2021-01-24
+104553,Cici,Business,2.58,2022-06-29
+104554,Cici,Business,3.0,2021-05-25
+104555,Dina,Engineering,2.98,2018-04-24
+104556,Eka,Engineering,2.73,2019-07-21
+104557,Cici,Business,3.58,2019-08-26
+104558,Dina,Business,3.65,2019-01-14
+104559,Dina,Computer Science,3.89,2022-03-27
+104560,Eka,Law,3.67,2021-09-13
+104561,Budi,Business,3.16,2018-07-08
+104562,Ari,Business,3.14,2020-12-13
+104563,Eka,Law,3.78,2020-03-13
+104564,Eka,Computer Science,2.62,2022-04-25
+104565,Cici,Engineering,3.33,2022-01-28
+104566,Dina,Engineering,2.01,2021-11-02
+104567,Eka,Engineering,2.98,2022-04-05
+104568,Ari,Computer Science,2.76,2019-07-11
+104569,Eka,Law,2.98,2018-02-08
+104570,Ari,Law,2.85,2019-10-22
+104571,Ari,Law,2.82,2019-11-07
+104572,Cici,Computer Science,2.69,2022-09-16
+104573,Dina,Engineering,2.93,2020-01-07
+104574,Eka,Computer Science,3.14,2020-11-04
+104575,Dina,Computer Science,2.19,2018-09-10
+104576,Budi,Law,2.39,2022-02-01
+104577,Eka,Law,2.13,2022-01-11
+104578,Eka,Computer Science,3.85,2018-06-27
+104579,Budi,Law,2.36,2021-11-08
+104580,Budi,Law,2.35,2021-05-13
+104581,Budi,Engineering,2.84,2022-03-07
+104582,Dina,Engineering,2.18,2020-01-31
+104583,Dina,Engineering,3.71,2020-09-14
+104584,Cici,Engineering,2.76,2020-08-29
+104585,Eka,Law,3.27,2022-02-28
+104586,Ari,Computer Science,3.25,2020-01-11
+104587,Budi,Computer Science,2.21,2020-01-06
+104588,Cici,Business,2.76,2019-06-17
+104589,Cici,Law,3.95,2019-12-02
+104590,Budi,Business,3.52,2022-04-19
+104591,Ari,Engineering,2.92,2018-05-26
+104592,Dina,Law,2.67,2022-07-04
+104593,Cici,Computer Science,2.07,2022-07-09
+104594,Cici,Engineering,3.02,2020-06-01
+104595,Cici,Computer Science,2.15,2018-01-20
+104596,Budi,Engineering,2.09,2018-12-16
+104597,Cici,Law,3.51,2019-01-08
+104598,Budi,Law,3.7,2020-09-29
+104599,Cici,Engineering,2.64,2021-08-18
+104600,Eka,Computer Science,,2019-03-15
+104601,Budi,Law,2.24,2022-05-17
+104602,Budi,Business,3.42,2020-04-27
+104603,Ari,Computer Science,3.18,2019-09-07
+104604,Dina,Computer Science,3.54,2022-05-11
+104605,Dina,Engineering,3.18,2020-05-24
+104606,Cici,Law,3.69,2022-04-13
+104607,Budi,Law,2.97,2018-02-03
+104608,Budi,Engineering,2.79,2018-04-14
+104609,Cici,Engineering,3.74,2022-11-08
+104610,Dina,Engineering,2.1,2019-01-09
+104611,Ari,Computer Science,2.45,2019-01-25
+104612,Ari,Engineering,2.62,2020-10-08
+104613,Budi,Law,3.7,2020-01-29
+104614,Cici,Business,3.43,2021-08-12
+104615,Cici,Business,2.88,2019-08-11
+104616,Ari,Engineering,2.12,2021-06-21
+104617,Dina,Computer Science,2.57,2021-11-28
+104618,Ari,Business,2.81,2022-06-03
+104619,Eka,Law,3.28,2019-03-18
+104620,Ari,Business,2.38,2018-04-23
+104621,Dina,Engineering,2.01,2020-01-11
+104622,Cici,Computer Science,2.38,2018-09-28
+104623,Cici,Engineering,3.9,2020-07-24
+104624,Budi,Law,2.02,2022-01-20
+104625,Cici,Computer Science,3.59,2021-05-12
+104626,Cici,Business,2.04,2022-08-25
+104627,Dina,Engineering,3.56,2020-02-24
+104628,Dina,Law,2.54,2018-05-14
+104629,Ari,Computer Science,2.28,2018-02-28
+104630,Dina,Engineering,3.52,2019-02-26
+104631,Dina,Law,3.65,2018-12-12
+104632,Eka,Law,3.73,2020-05-17
+104633,Cici,Business,3.9,2020-09-05
+104634,Budi,Law,3.23,2022-10-26
+104635,Ari,Engineering,3.13,2018-12-31
+104636,Dina,Computer Science,2.51,2022-11-19
+104637,Budi,Business,2.73,2018-05-24
+104638,Ari,Engineering,3.55,2021-12-09
+104639,Ari,Business,3.4,2020-05-01
+104640,Eka,Law,3.96,2022-12-24
+104641,Cici,Engineering,3.04,2019-07-03
+104642,Dina,Business,2.54,2021-01-28
+104643,Eka,Business,3.36,2020-12-27
+104644,Budi,Law,3.67,2022-04-29
+104645,Ari,Computer Science,2.23,2018-08-12
+104646,Eka,Business,3.63,2022-01-01
+104647,Eka,Law,3.04,2020-10-22
+104648,Eka,Business,2.71,2018-12-17
+104649,Ari,Engineering,2.27,2020-07-31
+104650,Ari,Engineering,3.18,2020-03-10
+104651,Dina,Law,3.24,2021-02-17
+104652,Ari,Business,3.83,2021-08-07
+104653,Dina,Computer Science,2.94,2018-08-28
+104654,Ari,Engineering,2.13,2020-05-26
+104655,Ari,Law,2.11,2020-10-23
+104656,Ari,Engineering,3.14,2021-02-16
+104657,Eka,Engineering,3.52,2021-05-04
+104658,Cici,Law,3.58,2018-11-07
+104659,Dina,Engineering,3.61,2021-11-13
+104660,Eka,Engineering,2.06,2022-04-27
+104661,Ari,Engineering,2.1,2022-10-06
+104662,Cici,Computer Science,3.56,2020-12-26
+104663,Cici,Computer Science,2.2,2021-01-12
+104664,Dina,Law,3.64,2020-12-03
+104665,Dina,Law,3.25,2022-10-23
+104666,Dina,Law,2.17,2018-09-12
+104667,Ari,Engineering,3.75,2021-10-08
+104668,Ari,Business,3.96,2020-03-14
+104669,Eka,Law,2.35,2021-04-24
+104670,Eka,Computer Science,3.06,2020-07-20
+104671,Budi,Computer Science,2.72,2019-11-21
+104672,Ari,Law,2.53,2022-03-24
+104673,Cici,Law,3.63,2022-01-03
+104674,Budi,Engineering,3.72,2018-04-23
+104675,Ari,Engineering,2.63,2021-03-08
+104676,Ari,Computer Science,2.92,2022-03-16
+104677,Eka,Business,2.58,2020-05-31
+104678,Budi,Business,2.74,2020-04-25
+104679,Eka,Business,2.76,2020-05-08
+104680,Dina,Engineering,2.25,2020-09-18
+104681,Cici,Engineering,2.11,2022-01-29
+104682,Eka,Engineering,3.07,2018-04-03
+104683,Budi,Engineering,2.88,2020-04-06
+104684,Budi,Law,3.71,2020-10-23
+104685,Cici,Business,2.21,2019-10-30
+104686,Budi,Engineering,3.85,2018-04-11
+104687,Cici,Engineering,2.41,2021-08-02
+104688,Dina,Law,2.6,2018-02-01
+104689,Budi,Computer Science,2.24,2018-04-08
+104690,Ari,Computer Science,2.56,2022-10-22
+104691,Cici,Computer Science,3.32,2019-05-13
+104692,Eka,Law,2.72,2021-05-18
+104693,Dina,Engineering,2.44,2022-09-12
+104694,Dina,Business,3.91,2019-04-28
+104695,Ari,Engineering,2.53,2021-08-11
+104696,Budi,Business,2.17,2021-02-06
+104697,Dina,Business,3.3,2020-02-18
+104698,Ari,Engineering,3.4,2020-11-10
+104699,Eka,Computer Science,2.05,2018-05-05
+104700,Dina,Engineering,2.59,2021-04-09
+104701,Cici,Computer Science,3.7,2022-10-06
+104702,Cici,Business,2.95,2018-03-20
+104703,Eka,Computer Science,3.97,2020-07-22
+104704,Budi,Business,2.34,2022-01-05
+104705,Eka,Business,2.76,2019-09-03
+104706,Ari,Computer Science,3.89,2021-03-06
+104707,Ari,Computer Science,3.49,2019-10-31
+104708,Budi,Business,3.79,2022-08-16
+104709,Eka,Law,2.83,2021-11-29
+104710,Cici,Law,2.56,2018-05-21
+104711,Ari,Engineering,3.19,2019-06-21
+104712,Ari,Computer Science,2.37,2021-01-03
+104713,Ari,Computer Science,3.34,2022-09-10
+104714,Eka,Business,3.1,2021-08-31
+104715,Budi,Law,2.26,2022-01-29
+104716,Cici,Computer Science,3.02,2022-11-23
+104717,Budi,Computer Science,3.32,2019-10-15
+104718,Cici,Business,3.18,2021-12-20
+104719,Ari,Law,3.14,2020-11-11
+104720,Dina,Engineering,3.09,2019-06-06
+104721,Budi,Engineering,3.86,2021-11-21
+104722,Ari,Engineering,3.48,2021-06-19
+104723,Ari,Engineering,3.87,2019-11-29
+104724,Eka,Business,2.88,2020-03-31
+104725,Dina,Computer Science,2.69,2022-08-02
+104726,Cici,Law,3.01,2022-07-21
+104727,Eka,Computer Science,2.94,2020-10-31
+104728,Ari,Business,3.01,2019-09-06
+104729,Budi,Law,2.3,2021-11-06
+104730,Eka,Engineering,3.01,2022-02-28
+104731,Dina,Computer Science,2.5,2022-01-03
+104732,Ari,Law,3.68,2019-11-26
+104733,Cici,Engineering,3.0,2020-07-30
+104734,Eka,Business,3.96,2020-06-25
+104735,Eka,Business,3.36,2021-02-09
+104736,Eka,Law,2.11,2021-01-19
+104737,Budi,Business,3.82,2018-12-17
+104738,Budi,Business,3.7,2020-08-19
+104739,Budi,Engineering,2.14,2022-10-21
+104740,Cici,Law,3.93,2021-09-17
+104741,Eka,Computer Science,3.07,2019-06-01
+104742,Cici,Law,3.35,2022-02-27
+104743,Ari,Engineering,3.98,2019-05-18
+104744,Dina,Engineering,3.8,2018-05-09
+104745,Budi,Computer Science,3.61,2019-02-05
+104746,Budi,Computer Science,2.78,2019-12-26
+104747,Dina,Engineering,3.56,2022-06-17
+104748,Budi,Business,3.32,2019-09-19
+104749,Dina,Engineering,2.41,2020-11-15
+104750,Ari,Law,3.6,2020-10-03
+104751,Cici,Computer Science,2.4,2022-08-14
+104752,Ari,Business,2.37,2021-05-21
+104753,Dina,Business,2.31,2021-10-20
+104754,Cici,Business,2.76,2019-01-15
+104755,Dina,Law,3.68,2018-09-20
+104756,Budi,Engineering,2.76,2018-09-17
+104757,Ari,Law,2.3,2018-02-02
+104758,Eka,Computer Science,2.71,2022-12-18
+104759,Dina,Business,2.78,2020-04-10
+104760,Budi,Computer Science,2.13,2022-02-28
+104761,Cici,Business,3.72,2018-07-16
+104762,Budi,Engineering,2.38,2019-04-26
+104763,Ari,Law,2.93,2018-03-30
+104764,Cici,Law,3.72,2018-11-12
+104765,Cici,Computer Science,2.44,2019-05-26
+104766,Dina,Law,2.02,2019-01-04
+104767,Cici,Law,3.09,2021-01-14
+104768,Ari,Computer Science,3.96,2018-09-01
+104769,Budi,Engineering,2.16,2021-06-24
+104770,Ari,Business,2.79,2020-02-21
+104771,Ari,Engineering,2.28,2021-08-24
+104772,Dina,Business,3.95,2018-07-20
+104773,Cici,Engineering,2.31,2019-11-25
+104774,Ari,Computer Science,3.87,2019-12-21
+104775,Budi,Engineering,3.5,2022-05-08
+104776,Dina,Law,2.19,2020-02-29
+104777,Dina,Computer Science,3.37,2020-01-11
+104778,Ari,Computer Science,2.77,2020-05-16
+104779,Dina,Engineering,2.06,2021-03-02
+104780,Dina,Engineering,3.12,2020-08-28
+104781,Ari,Business,2.21,2022-02-18
+104782,Cici,Business,2.11,2020-03-16
+104783,Dina,Business,2.01,2019-06-21
+104784,Budi,Computer Science,3.48,2021-11-03
+104785,Budi,Business,2.64,2019-08-26
+104786,Cici,Law,3.98,2020-03-01
+104787,Budi,Engineering,3.81,2020-11-25
+104788,Eka,Engineering,3.39,2019-08-28
+104789,Ari,Business,2.76,2018-01-29
+104790,Cici,Engineering,3.47,2022-08-09
+104791,Ari,Law,3.83,2018-03-14
+104792,Budi,Law,2.01,2018-03-09
+104793,Cici,Engineering,3.8,2020-02-27
+104794,Eka,Engineering,2.64,2018-08-19
+104795,Cici,Engineering,3.39,2019-11-25
+104796,Ari,Computer Science,3.56,2022-12-22
+104797,Cici,Business,3.08,2018-08-11
+104798,Budi,Engineering,2.73,2019-02-09
+104799,Dina,Business,3.37,2019-05-26
+104800,Dina,Law,,2021-01-05
+104801,Dina,Engineering,2.99,2021-02-19
+104802,Dina,Business,2.24,2021-02-15
+104803,Dina,Business,2.58,2019-02-23
+104804,Ari,Business,3.37,2020-11-06
+104805,Cici,Engineering,3.59,2020-02-05
+104806,Ari,Computer Science,3.67,2019-02-08
+104807,Cici,Law,3.15,2022-09-12
+104808,Ari,Law,2.99,2019-01-23
+104809,Eka,Engineering,3.81,2020-02-03
+104810,Dina,Computer Science,2.24,2021-11-06
+104811,Dina,Law,3.48,2018-06-20
+104812,Eka,Computer Science,2.13,2022-02-07
+104813,Eka,Law,3.44,2021-05-24
+104814,Ari,Computer Science,2.28,2019-03-25
+104815,Budi,Computer Science,3.26,2019-08-10
+104816,Budi,Business,3.03,2018-03-26
+104817,Eka,Computer Science,2.61,2018-03-07
+104818,Ari,Law,3.15,2021-05-27
+104819,Budi,Business,3.68,2021-09-13
+104820,Cici,Business,2.35,2019-04-23
+104821,Eka,Law,3.59,2020-12-19
+104822,Cici,Computer Science,3.32,2018-10-29
+104823,Ari,Computer Science,2.01,2018-08-02
+104824,Dina,Law,2.15,2020-01-15
+104825,Ari,Computer Science,3.68,2019-10-14
+104826,Eka,Computer Science,2.17,2021-09-06
+104827,Cici,Engineering,2.16,2021-07-24
+104828,Dina,Law,2.37,2020-12-20
+104829,Cici,Business,2.51,2022-04-26
+104830,Eka,Computer Science,2.69,2021-02-16
+104831,Ari,Law,2.44,2018-05-11
+104832,Dina,Computer Science,3.14,2018-03-25
+104833,Budi,Business,2.77,2020-02-07
+104834,Eka,Law,3.06,2018-03-08
+104835,Ari,Computer Science,3.29,2018-04-12
+104836,Budi,Computer Science,3.28,2022-03-31
+104837,Ari,Computer Science,3.28,2022-06-24
+104838,Budi,Engineering,3.7,2022-02-02
+104839,Budi,Engineering,3.25,2022-02-23
+104840,Eka,Computer Science,3.91,2018-03-18
+104841,Budi,Business,3.52,2018-02-17
+104842,Cici,Computer Science,2.25,2018-07-25
+104843,Budi,Business,2.47,2018-10-10
+104844,Budi,Engineering,2.27,2021-02-09
+104845,Dina,Engineering,3.43,2021-06-04
+104846,Budi,Engineering,3.59,2019-01-10
+104847,Dina,Law,2.77,2021-08-13
+104848,Dina,Law,2.53,2022-12-25
+104849,Ari,Business,2.97,2022-04-07
+104850,Eka,Computer Science,3.48,2018-10-30
+104851,Dina,Engineering,2.35,2018-01-03
+104852,Ari,Engineering,3.56,2019-08-30
+104853,Dina,Business,3.68,2019-10-06
+104854,Budi,Business,2.01,2022-10-16
+104855,Cici,Computer Science,3.08,2022-10-08
+104856,Cici,Law,3.52,2021-07-28
+104857,Ari,Law,3.64,2019-08-23
+104858,Budi,Law,3.56,2021-08-04
+104859,Eka,Engineering,3.26,2021-05-21
+104860,Eka,Business,2.76,2019-09-10
+104861,Dina,Business,3.24,2020-02-12
+104862,Cici,Computer Science,3.55,2022-09-11
+104863,Ari,Engineering,3.79,2021-11-09
+104864,Cici,Computer Science,2.34,2020-05-11
+104865,Dina,Computer Science,3.02,2019-01-04
+104866,Dina,Law,2.64,2022-08-18
+104867,Budi,Computer Science,2.78,2019-08-27
+104868,Cici,Business,3.66,2019-04-30
+104869,Budi,Law,2.75,2020-08-08
+104870,Cici,Engineering,2.69,2022-09-14
+104871,Ari,Computer Science,2.34,2020-10-05
+104872,Cici,Business,3.55,2019-08-23
+104873,Dina,Business,3.21,2020-06-06
+104874,Budi,Computer Science,3.34,2021-09-19
+104875,Cici,Computer Science,3.65,2021-10-09
+104876,Dina,Business,3.97,2018-03-14
+104877,Budi,Business,2.27,2019-03-26
+104878,Dina,Computer Science,3.27,2021-11-05
+104879,Cici,Business,3.48,2022-09-05
+104880,Cici,Engineering,3.84,2018-05-04
+104881,Budi,Engineering,2.29,2021-05-05
+104882,Eka,Business,2.45,2020-01-30
+104883,Dina,Engineering,3.55,2019-06-26
+104884,Eka,Computer Science,2.84,2021-01-27
+104885,Ari,Engineering,2.11,2019-03-08
+104886,Dina,Law,2.84,2019-03-28
+104887,Cici,Business,3.31,2018-06-05
+104888,Eka,Computer Science,2.68,2019-04-03
+104889,Eka,Business,3.12,2021-02-24
+104890,Cici,Law,3.0,2018-11-15
+104891,Dina,Engineering,3.8,2018-02-21
+104892,Eka,Engineering,3.52,2018-02-07
+104893,Ari,Law,3.82,2021-10-22
+104894,Budi,Computer Science,3.28,2021-06-27
+104895,Budi,Computer Science,2.73,2019-11-25
+104896,Eka,Engineering,3.92,2019-01-17
+104897,Dina,Engineering,2.88,2018-06-30
+104898,Eka,Business,3.11,2022-07-16
+104899,Ari,Engineering,3.1,2021-03-26
+104900,Dina,Business,2.7,2022-05-04
+104901,Eka,Engineering,2.22,2020-09-03
+104902,Cici,Engineering,2.49,2018-01-21
+104903,Ari,Law,2.98,2018-12-21
+104904,Dina,Engineering,2.41,2021-10-26
+104905,Eka,Computer Science,3.54,2018-06-07
+104906,Cici,Law,3.48,2018-02-26
+104907,Eka,Law,3.41,2022-01-31
+104908,Ari,Business,3.06,2021-04-10
+104909,Budi,Computer Science,3.98,2019-12-25
+104910,Cici,Engineering,3.96,2018-03-05
+104911,Budi,Engineering,2.41,2018-03-25
+104912,Eka,Law,2.32,2019-01-16
+104913,Ari,Computer Science,3.9,2020-04-16
+104914,Budi,Law,2.85,2020-10-22
+104915,Cici,Computer Science,3.93,2020-02-16
+104916,Dina,Engineering,3.43,2022-05-13
+104917,Cici,Computer Science,3.51,2021-12-31
+104918,Budi,Law,3.31,2022-09-09
+104919,Ari,Computer Science,3.45,2020-12-08
+104920,Budi,Law,3.78,2019-12-01
+104921,Eka,Business,3.58,2018-11-26
+104922,Ari,Engineering,2.57,2022-05-09
+104923,Ari,Law,3.17,2021-08-11
+104924,Cici,Engineering,3.29,2018-12-23
+104925,Budi,Engineering,3.03,2019-07-11
+104926,Cici,Engineering,2.6,2019-08-06
+104927,Cici,Engineering,3.16,2021-08-24
+104928,Dina,Business,3.25,2020-12-15
+104929,Dina,Business,3.26,2021-04-12
+104930,Cici,Computer Science,2.03,2022-07-27
+104931,Eka,Business,2.9,2018-01-15
+104932,Ari,Computer Science,2.28,2022-12-14
+104933,Dina,Computer Science,2.03,2019-06-13
+104934,Dina,Law,2.08,2019-05-05
+104935,Eka,Business,2.13,2022-06-13
+104936,Ari,Law,3.25,2022-10-20
+104937,Budi,Business,3.0,2022-05-30
+104938,Eka,Engineering,2.64,2018-03-30
+104939,Eka,Computer Science,2.63,2018-03-27
+104940,Budi,Business,2.72,2021-09-17
+104941,Ari,Engineering,2.07,2019-12-11
+104942,Eka,Business,3.44,2018-01-07
+104943,Budi,Law,2.39,2020-02-25
+104944,Budi,Computer Science,2.95,2018-08-24
+104945,Ari,Engineering,2.56,2022-05-02
+104946,Dina,Business,3.33,2019-07-16
+104947,Eka,Computer Science,2.45,2021-07-17
+104948,Dina,Computer Science,2.63,2018-11-21
+104949,Eka,Computer Science,2.24,2018-04-10
+104950,Cici,Business,2.42,2018-08-31
+104951,Ari,Computer Science,2.65,2020-08-18
+104952,Eka,Business,2.51,2021-03-21
+104953,Cici,Computer Science,2.42,2021-03-13
+104954,Budi,Business,2.39,2021-12-07
+104955,Budi,Business,3.47,2019-08-24
+104956,Cici,Engineering,2.76,2021-06-27
+104957,Budi,Business,3.73,2019-12-20
+104958,Dina,Business,3.61,2021-05-29
+104959,Cici,Computer Science,2.7,2022-01-15
+104960,Budi,Engineering,3.02,2020-03-19
+104961,Ari,Engineering,3.39,2020-04-22
+104962,Cici,Business,2.6,2020-10-15
+104963,Cici,Computer Science,2.42,2022-06-19
+104964,Dina,Business,3.65,2022-01-30
+104965,Ari,Computer Science,2.35,2019-06-12
+104966,Budi,Law,3.92,2021-05-18
+104967,Eka,Engineering,3.91,2020-03-18
+104968,Eka,Law,2.51,2020-09-04
+104969,Budi,Business,3.19,2021-08-30
+104970,Ari,Computer Science,3.6,2022-05-02
+104971,Budi,Law,3.99,2022-05-19
+104972,Eka,Business,3.49,2021-08-27
+104973,Eka,Law,3.64,2020-08-11
+104974,Eka,Engineering,3.43,2022-09-16
+104975,Cici,Computer Science,3.17,2020-01-05
+104976,Ari,Law,2.18,2022-01-03
+104977,Eka,Law,2.15,2020-04-18
+104978,Ari,Engineering,3.0,2021-11-28
+104979,Budi,Business,3.31,2021-10-06
+104980,Eka,Law,3.06,2022-09-24
+104981,Dina,Business,3.52,2019-11-02
+104982,Ari,Law,2.32,2020-09-20
+104983,Budi,Law,2.31,2018-01-13
+104984,Dina,Business,3.3,2020-09-09
+104985,Cici,Computer Science,3.44,2022-10-05
+104986,Ari,Engineering,2.41,2019-07-27
+104987,Eka,Business,2.54,2022-11-29
+104988,Eka,Business,2.99,2019-05-15
+104989,Budi,Law,2.26,2020-08-29
+104990,Eka,Law,3.05,2021-08-31
+104991,Dina,Computer Science,3.26,2021-02-12
+104992,Eka,Law,3.6,2019-06-26
+104993,Cici,Engineering,2.08,2018-03-24
+104994,Budi,Law,2.56,2021-07-08
+104995,Eka,Business,2.24,2021-07-07
+104996,Ari,Engineering,2.7,2019-12-17
+104997,Ari,Law,2.06,2018-01-25
+104998,Budi,Computer Science,2.57,2019-07-06
+104999,Dina,Computer Science,2.43,2022-05-10
+100000,Budi,Law,,2021-07-01
+100100,Ari,Computer Science,3.12,2021-06-02
+100200,Budi,Engineering,,2018-04-27
+100300,Cici,Engineering,3.86,2021-04-23
+100400,Dina,Computer Science,,2021-06-03
+100500,Budi,Engineering,3.45,2018-09-25
+100600,Budi,Engineering,,2021-05-29
+100700,Dina,Computer Science,3.51,2022-01-31
+100800,Eka,Computer Science,,2020-01-11
+100900,Ari,Law,3.92,2021-07-13
+101000,Ari,Computer Science,,2018-01-24
+101100,Cici,Business,3.4,2019-11-16
+101200,Ari,Engineering,,2018-01-08
+101300,Budi,Engineering,3.25,2020-07-31
+101400,Eka,Business,,2022-08-12
+101500,Eka,Business,3.41,2022-11-26
+101600,Budi,Business,,2022-03-15
+101700,Budi,Engineering,2.58,2022-03-31
+101800,Ari,Business,,2020-11-05
+101900,Ari,Business,2.66,2022-09-10
+102000,Budi,Computer Science,,2019-06-21
+102100,Ari,Computer Science,3.43,2018-04-17
+102200,Dina,Computer Science,,2021-08-29
+102300,Budi,Law,3.94,2019-04-23
+102400,Dina,Computer Science,,2019-04-02
+102500,Dina,Engineering,3.24,2018-12-25
+102600,Eka,Computer Science,,2019-03-16
+102700,Budi,Law,3.25,2019-05-03
+102800,Ari,Engineering,,2019-12-22
+102900,Cici,Engineering,2.15,2022-02-14
+103000,Ari,Computer Science,,2021-04-09
+103100,Cici,Law,2.98,2022-03-27
+103200,Eka,Engineering,,2022-05-01
+103300,Ari,Computer Science,2.72,2018-11-03
+103400,Dina,Business,,2019-06-14
+103500,Eka,Business,2.74,2020-12-23
+103600,Budi,Computer Science,,2021-03-07
+103700,Eka,Law,2.4,2022-06-22
+103800,Budi,Computer Science,,2018-01-12
+103900,Eka,Computer Science,2.14,2020-10-18
+104000,Budi,Engineering,,2020-09-01
+104100,Ari,Law,2.01,2018-10-11
+104200,Dina,Law,,2020-07-22
+104300,Eka,Business,3.87,2018-05-15
+104400,Ari,Engineering,,2020-03-02
+104500,Eka,Engineering,3.5,2018-05-22
+104600,Eka,Computer Science,,2019-03-15
+104700,Dina,Engineering,2.59,2021-04-09
+104800,Dina,Law,,2021-01-05
+104900,Dina,Business,2.7,2022-05-04
